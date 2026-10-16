@@ -676,13 +676,15 @@ Groopman, J. (2007). *How Doctors Think*. Houghton Mifflin.
 
 Han, P. K. J., Klein, W. M. P., & Arora, N. K. (2011). Varieties of uncertainty in health care: A conceptual taxonomy. *Medical Decision Making, 31*(6), 828–838.
 
+Hempel, C. G. (1965). Science and human values. In *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science* (pp. 81–96). Free Press.
+
 Hernán, M. A., & Robins, J. M. (2020). *Causal Inference: What If*. Chapman & Hall/CRC.
 
 Hernández, G., Bellomo, R., & Bakker, J. (2019). The ten pitfalls of lactate clearance in sepsis. *Intensive Care Medicine, 45*(1), 82–85.
 
 Hernández, G., Ospina-Tascón, G. A., Damiani, L. P., Estenssoro, E., Dubin, A., Hurtado, J., et al. (2019). Effect of a resuscitation strategy targeting peripheral perfusion status vs serum lactate levels on 28-day mortality among patients with septic shock: The ANDROMEDA-SHOCK randomized clinical trial. *JAMA, 321*(7), 654–664.
 
-Hernández, G., Ospina-Tascón, G. A., Kattan, E., et al., por los investigadores de ANDROMEDA-SHOCK-2. (2025). Personalized hemodynamic resuscitation targeting capillary refill time in early septic shock: The ANDROMEDA-SHOCK-2 randomized clinical trial. *JAMA, 334*(22), 1988–1999.
+Hernández, G., Ospina-Tascón, G. A., Kattan, E., Ibarra-Estrada, M., Ramasco, F., Orozco, N., et al., por los investigadores de ANDROMEDA-SHOCK-2. (2025). Personalized hemodynamic resuscitation targeting capillary refill time in early septic shock: The ANDROMEDA-SHOCK-2 randomized clinical trial. *JAMA, 334*(22), 1988–1999.
 
 Hoffrage, U., & Gigerenzer, G. (1998). Using natural frequencies to improve diagnostic inferences. *Academic Medicine, 73*(5), 538–540.
 
@@ -785,6 +787,8 @@ Pauker, S. G., & Kassirer, J. P. (1980). The threshold approach to clinical deci
 Pearl, J., & Mackenzie, D. (2018). *The Book of Why: The New Science of Cause and Effect*. Basic Books.
 
 Peirce, C. S. (1878). Deduction, induction, and hypothesis. *Popular Science Monthly, 13*, 470–482.
+
+Peirce, C. S. (1934). *Collected Papers of Charles Sanders Peirce: Vol. 5. Pragmatism and Pragmaticism* (C. Hartshorne & P. Weiss, Eds.). Harvard University Press.
 
 Pellegrino, E. D., & Thomasma, D. C. (1981). *A Philosophical Basis of Medical Practice: Toward a Philosophy and Ethic of the Healing Professions*. Oxford University Press.
 
