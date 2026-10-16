@@ -7,8 +7,9 @@ cambie el estado o se tome una decisión.
 ## Qué hay
 
 - **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 166 páginas (162 de cuerpo), DOCX y EPUB
-  (44 capítulos). 15 figuras, 160 referencias, 18 capítulos, 18 talleres, TOC de 40 entradas; 57.927 palabras en las
-  fuentes (54.410 sin las referencias). Cifras de la construcción y de las fuentes del 16 de octubre.
+  (44 capítulos). 15 figuras, 162 referencias, 18 capítulos, 18 talleres, TOC de 40 entradas; 58.414 palabras en las
+  fuentes (54.842 sin las referencias). Cifras de la construcción y de las fuentes del 16 de octubre, tras las
+  correcciones del punto 43.
 - **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
   cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
   archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
@@ -20,14 +21,14 @@ cambie el estado o se tome una decisión.
   el EPUB con los mismos archivos), con el TOC estable entre pasadas. `fuentes/comprobar.py` da 0 problemas y
   `fuentes/cotejo_figuras.py`, cero derivas.
 - **Edición**: las recomendaciones A–G (`gestiones/recomendaciones_finales_2026-10-14.md`) están ejecutadas, y también
-  las pasadas de coherencia (registro en `README.md`, puntos 25–42).
+  las pasadas de coherencia (registro en `README.md`, puntos 25–42) y las correcciones de la evaluación del panel
+  (punto 43; auditoría de evidencia, ítems 58–64).
 - **Lector de anotaciones**: el repo `DanielOpazoD/lector-anotaciones` está en la 0.6.1 (`main` en 1df5ff8), con la CI
   verde, 151 pruebas de navegador y cobertura de 97 % en Python, 71 % en el núcleo y 92,9 % en la página. Los 52
   mutantes de `herramientas/mutar.py` hacen lo que esperan. `lector/index.html` es su `web/index.html` del commit
-  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (42 secciones, 1063 bloques) está al día con las fuentes;
-  reconstruirlo con la 0.6.1 da los mismos bloques y huellas, y sólo reinicia las marcas de «qué cambió» (hoy, 4
-  bloques).
-- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 27. Su base tiene una sola anotación
+  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (42 secciones, 1065 bloques) está al día con las fuentes
+  y marca como cambiados los 34 bloques que tocaron las correcciones del punto 43.
+- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 28 (con el `libro.json` del punto 43). Su base tiene una sola anotación
   (Prefacio), resuelta y respondida: no hay anotaciones del autor esperando.
 
 ## Pendiente del autor
@@ -36,6 +37,15 @@ cambie el estado o se tome una decisión.
   renal que era un aneurisma), cap. 7 (la «ITU» que era colecistitis) y cap. 14 (el primer «no lo sé»). Revisar el
   nombre «Carmen» y los detalles del caso longitudinal.
 - Final de la viñeta 6, viñetas 7 y 8, pasajes 38 y 39; los ítems 23, 29, 31, 47 y 52–57 de las recomendaciones.
+- Cuatro decisiones que dejó la evaluación del panel (`gestiones/evaluacion_multiparametrica_2026-10-16.md`): la
+  madrugada de Carmen (no operar en shock «fue prudente» y la tomografía «desactiva» la urgencia: un cirujano revisor
+  lo objetaría; presentarlo como umbral discutible y vigilado); la página legal, que dice que las escenas en primera
+  persona «condensan experiencias reales del autor» mientras este archivo las tiene como composiciones por validar; la
+  viñeta 5, sin evaluación de la capacidad de decidir; y la saturación de 89 % del Taller 2B, que en un EPOC está en su
+  rango objetivo.
+- Lo que más subiría la nota, según el mismo panel: una pasada de producción en el generador (idioma `es-CL` y
+  partición, títulos que no queden al pie, rayas unificadas), literatura 2015–2026 verificada antes de citarse,
+  recortar las dos viñetas duplicadas y un piloto de HII-D.
 - Piloto del método, revisión externa, permisos, ortotipografía, prueba del EPUB en Kindle Previewer y la carta de
   prólogo, que está como borrador en el Gmail del autor (`gestiones/prologo_*`).
 - Decisiones de entorno abiertas: una CI para este repo que corra `fuentes/comprobar.py` y
@@ -51,8 +61,9 @@ cambie el estado o se tome una decisión.
   ni empaquetador, sin unificar el código repetido entre Python y JS; se aceptan dos límites conocidos (un documento
   armado a propósito para romper la página; `mypy` no ve una clave mal escrita del JSON). Que la página tenga un índice
   plegable se publicó como 0.6.1, aunque por SemVer, como función nueva, habría sido 0.7.0.
-- La evaluación vigente es `gestiones/evaluacion_multiparametrica_2026-10-14.md` (nota 6,4);
-  `evaluacion_multiparametrica_2026-10.md` es la anterior.
+- La evaluación vigente es `gestiones/evaluacion_multiparametrica_2026-10-16.md` (panel de seis expertos, nota 6,1,
+  más estricta que las anteriores; estimación tras sus correcciones y las pendientes: ~6,4–6,6). Las anteriores son
+  `evaluacion_multiparametrica_2026-10-14.md` (6,4) y `evaluacion_multiparametrica_2026-10.md`.
 
 ## Para retomar
 
