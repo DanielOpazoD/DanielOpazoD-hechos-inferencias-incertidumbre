@@ -9,13 +9,10 @@ cambie el estado o se tome una decisión.
 - **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 166 páginas (162 de cuerpo), DOCX y EPUB
   (44 capítulos). 15 figuras, 160 referencias, 18 capítulos, 18 talleres, TOC de 40 entradas; 57.927 palabras en las
   fuentes (54.410 sin las referencias). Cifras de la construcción y de las fuentes del 16 de octubre.
-- **Dónde vive hoy**: `libro/` de `DanielOpazoD/trama`, rama `claude/medical-thinking-book-review-nlnth9`, PR #465
-  abierto. El `main` de trama nunca tuvo `libro/`.
-- **Decisión tomada: el libro se muda a un repo propio, privado** (`DanielOpazoD/hechos-inferencias-incertidumbre`
-  propuesto). La sesión no pudo crearlo (GitHub respondió 403 a la integración); falta que el autor lo cree vacío y lo
-  dé acceso a Claude. Después: importar `libro/` como raíz del repo nuevo en un commit que diga de qué commit de trama
-  viene, cerrar el PR #465 sin fusionar y dejar la rama de trama como archivo (los hashes del registro del README
-  apuntan ahí).
+- **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
+  cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
+  archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
+  son de ella.
 
 ## Qué funciona
 
@@ -41,7 +38,7 @@ cambie el estado o se tome una decisión.
 - Final de la viñeta 6, viñetas 7 y 8, pasajes 38 y 39; los ítems 23, 29, 31, 47 y 52–57 de las recomendaciones.
 - Piloto del método, revisión externa, permisos, ortotipografía, prueba del EPUB en Kindle Previewer y la carta de
   prólogo, que está como borrador en el Gmail del autor (`gestiones/prologo_*`).
-- Decisiones de entorno abiertas: crear el repo del libro (arriba); una CI para él que corra `fuentes/comprobar.py` y
+- Decisiones de entorno abiertas: una CI para este repo que corra `fuentes/comprobar.py` y
   `fuentes/cotejo_figuras.py`; etiquetas de versión en `lector-anotaciones` (hoy se fija por commit) y borrar sus ramas
   `v0.5` y `v0.6`; un hook de inicio de sesión que deje la firma de git configurada.
 
@@ -59,7 +56,8 @@ cambie el estado o se tome una decisión.
 
 ## Para retomar
 
-1. Abrir la sesión con el repo del libro (mientras no exista, con trama y la rama de arriba) y leer `AGENTS.md`.
+1. Abrir la sesión con este repo seleccionado (y `DanielOpazoD/lector-anotaciones` si se va a tocar el lector) y leer
+   `AGENTS.md`.
 2. `npm install && pip install -r requirements.txt && ./construir.sh`: si termina con 0 problemas, el entorno está bien.
 3. Antes de editar, leer las anotaciones nuevas de la página (colección `anotaciones`) y lo pendiente del autor.
 4. Un cambio en el lector se hace en su repo; aquí se copia su `web/index.html`, se fija su commit en

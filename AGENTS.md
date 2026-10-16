@@ -7,11 +7,10 @@ relativas a la raíz del libro.
 
 ## Dónde vive
 
-El libro es un proyecto aparte de la app Trama. Mientras esté en `libro/` de `DanielOpazoD/trama` (rama
-`claude/medical-thinking-book-review-nlnth9`), lo de la raíz de ese repo es de la app y **no aplica aquí**: su
-`AGENTS.md` (borrado lógico, migraciones, TypeScript), las skills `pack-workflow` y `bucle-de-evidencia` (presupuesto de
-bundle, vitest, CodeRabbit, plan doc) y su CI, que no revisa nada de `libro/` (un verde de esa CI no dice nada del
-libro). La decisión del autor es mudarlo a un repo propio; ver `ESTADO.md`.
+Este repo (`DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre`, privado) es el libro y nada más. Hasta el 16 de octubre de 2026 vivió en `libro/` de la rama
+`claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` (PR #465, cerrado sin fusionar): esa rama queda como archivo con la historia de la edición, no
+se edita, y los hashes del registro del README son de ella. Nada del repo de la app Trama (su `AGENTS.md`, sus skills,
+su CI) aplica al libro. El lector de anotaciones tiene su propio repo, `DanielOpazoD/lector-anotaciones`.
 
 ## Reglas del autor
 

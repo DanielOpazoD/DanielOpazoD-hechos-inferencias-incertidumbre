@@ -1,6 +1,6 @@
 # Hechos, inferencias e incertidumbre — edición de trabajo revisada
 
-Manuscrito revisado del libro de Daniel Opazo con las mejoras de prioridad alta del informe editorial aplicadas. Esta carpeta es autocontenida y no toca el código de la app Trama.
+Manuscrito revisado del libro de Daniel Opazo con las mejoras de prioridad alta del informe editorial aplicadas. Repo propio desde el 16 de octubre de 2026 (antes, `libro/` en la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama`). Reglas de trabajo en `AGENTS.md`; estado y pendientes en `ESTADO.md`.
 
 ## Entregables
 
@@ -72,7 +72,7 @@ También revisar el nombre «Carmen» y los detalles del caso longitudinal.
 - `00_preliminares.md` … `05_cierre.md` — texto fuente por partes.
 - `figuras.py` — genera las 15 figuras (matplotlib) en `../figs/`.
 - `cotejo_figuras.py` — comprueba que el texto de las figuras (que no está en las fuentes Markdown) no contenga variantes retiradas del léxico, comillas rectas, decimales con punto ni otra redacción de las cuatro preguntas, y que cada `[FIGURA: …]` del cuerpo tenga su archivo; sale con error si encuentra algo.
-- `build_docx.cjs` — construye el .docx (docx-js; extensión `.cjs` porque la raíz del repo es ESM). Requiere el paquete `docx` (`npm install` en la raíz del libro; `package.json` fija la versión). Lee las figuras de `../figs/` y escribe el .docx en `../` (o en `$LIBRO_OUT`); el PDF sale de LibreOffice. El TOC usa dos pasadas: construir sin `--toc`, convertir a PDF, extraer páginas reales con `toc_extract.py`, reconstruir con `--toc`.
+- `build_docx.cjs` — construye el .docx (docx-js; un script CommonJS, de ahí la extensión `.cjs`). Requiere el paquete `docx` (`npm install` en la raíz del libro; `package.json` fija la versión). Lee las figuras de `../figs/` y escribe el .docx en `../` (o en `$LIBRO_OUT`); el PDF sale de LibreOffice. El TOC usa dos pasadas: construir sin `--toc`, convertir a PDF, extraer páginas reales con `toc_extract.py`, reconstruir con `--toc`.
 - `toc_extract.py` — lee el PDF de la primera pasada (pdftotext) y `toc_keys.json` y escribe `toc.json` con las páginas reales de las 37 entradas.
 - `build_epub.py` — construye el EPUB para Kindle desde las mismas fuentes (preprocesa portada/legal/figuras/«En una frase» y llama a pandoc con `--split-level=2`, `../figs/` como resource-path y `../portada_kindle.jpg` como portada); escribe en `../` (o en `$LIBRO_OUT`).
 - `comprobar.py` — lo que se comprueba sin mirar: cada referencia citada y cada cita con su referencia (apellido y año), figuras numeradas sin saltos, TOC con todas sus entradas y cero comillas rectas en el PDF; sale con error si algo falla.

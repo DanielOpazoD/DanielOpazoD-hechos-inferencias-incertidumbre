@@ -3,5 +3,4 @@
 La fuente de verdad está en [AGENTS.md](AGENTS.md): léelo entero antes de tocar las fuentes, las figuras, el lector o
 los entregables, y [ESTADO.md](ESTADO.md) para saber dónde quedó el trabajo.
 
-Mientras el libro viva en `libro/` del repo de la app Trama, el `CLAUDE.md` y el `AGENTS.md` de la raíz de ese repo
-son de la app y no aplican al libro.
+El libro vivió en `libro/` del repo de la app Trama hasta el 16 de octubre de 2026; nada de ese repo aplica aquí.
