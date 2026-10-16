@@ -220,15 +220,15 @@ Mujer de 61 años con hernia incisional de la línea media y tres hospitalizacio
 
 Es el paciente de la cama 12 del capítulo 8, el mismo cuya ficha el capítulo 12 ordenó en la matriz HII-D; aquí, en la versión que cabe en una entrega de turno. Hombre con lesión medular completa, vejiga neurogénica, sonda Foley permanente y un cáncer renal metastásico en progresión. Tras un recambio traumático de sonda presenta orina turbia, piuria y urocultivo positivo; está afebril, estable y sin cambios respecto de su basal. Los marcadores inflamatorios están elevados, sin valores previos y con el tumor como causa concomitante, y tiene antecedente de colonización por enterobacteria productora de BLEE.
 
-*Hechos:* recambio reciente de sonda; piuria y urocultivo positivo; afebril y estable; síntomas urinarios bajos no evaluables por el nivel lesional; reactantes elevados sin basal, con cáncer renal metastásico activo; colonización documentada por BLEE.
+*Hechos:* recambio reciente de sonda; piuria y urocultivo positivo; tercer día de antibiótico indicado como pielonefritis; afebril y estable; síntomas urinarios bajos no evaluables por el nivel lesional; reactantes elevados sin basal, con cáncer renal metastásico activo; colonización documentada por BLEE.
 
 *Inferencia:* el cuadro es altamente compatible con una bacteriuria asociada a catéter por colonización crónica (favorecida por el arrastre del recambio) más que con una infección urinaria sintomática asociada a sonda. Por sí solas, ni la turbidez ni la piuria discriminan entre colonización e infección invasiva en pacientes sondados, y la elevación inflamatoria sistémica es explicable por su neoplasia de base.
 
 *Incertidumbre:* la denervación medular enmascara la disuria y el dolor lumbar, por lo que persiste la duda de una infección incipiente con expresión clínica atípica.
 
-*Decisión:* no iniciar tratamiento antibiótico empírico. Instaurar vigilancia clínica dirigida a signos equivalentes de respuesta sistémica o autonómica (fiebre nueva, inestabilidad hemodinámica, aumento súbito de espasticidad, sudoración o malestar general inexplicable). Aquí, el antecedente de germen BLEE no es un gatillo para prescribir antes, sino al revés. Como el tratamiento exigiría carbapenémicos, de alto impacto ecológico y toxicidad potencial, el umbral clínico para iniciar antibióticos debe ser más exigente.
+*Decisión:* suspender el antibiótico empírico. Instaurar vigilancia clínica dirigida a signos equivalentes de respuesta sistémica o autonómica (fiebre nueva, inestabilidad hemodinámica, aumento súbito de espasticidad, sudoración o malestar general inexplicable). Aquí, el antecedente de germen BLEE no es un gatillo para prescribir antes, sino al revés. Como un tratamiento dirigido probablemente exigiría carbapenémicos, de alto impacto ecológico y toxicidad potencial, el umbral clínico para reiniciar antibióticos debe ser más exigente.
 
-*Frase medular:* «Urocultivo positivo y piuria tras recambio de sonda Foley en paciente con lesión medular y antecedente de colonización por BLEE, sin respuesta sistémica ni signos autonómicos que configuren infección activa. Se interpreta como bacteriuria asociada a catéter; vigilancia clínica estricta con criterios explícitos de reapertura.»
+*Frase medular:* «Urocultivo positivo y piuria tras recambio de sonda Foley en paciente con lesión medular y antecedente de colonización por BLEE, sin respuesta sistémica ni signos autonómicos que configuren infección activa. Se interpreta como bacteriuria asociada a catéter; se suspende el antibiótico, con vigilancia clínica estricta y criterios explícitos de reapertura.»
 
 ### Viñeta 3. Tres de la mañana: decidir con el reloj en contra
 
@@ -346,7 +346,7 @@ Una jefa de servicio que quiera «instalar metacognición» en su equipo no pued
 
 La metacognición suele presentarse como una habilidad personal: el médico debe ser humilde, reflexivo y consciente de sus sesgos. Esa expectativa es insuficiente si el sistema oculta resultados, interrumpe el trabajo, fragmenta información y castiga la duda. La lucidez necesita infraestructura. Y esa infraestructura incluye los turnos: un servicio que deja las decisiones mayores para la hora veinte de una guardia está decidiendo con un instrumento degradado (capítulo 8), y el diseño de los horarios es, en consecuencia, una decisión epistémica antes que administrativa.
 
-La National Academies recomendó educación diagnóstica, trabajo en equipo, tecnologías que apoyen el proceso y mecanismos de feedback y aprendizaje (National Academies of Sciences, Engineering, and Medicine, 2015). Una institución metacognitiva no sólo registra errores; hace visible cómo se piensa y crea momentos para revisar.
+Las National Academies recomendaron educación diagnóstica, trabajo en equipo, tecnologías que apoyen el proceso y mecanismos de feedback y aprendizaje (National Academies of Sciences, Engineering, and Medicine, 2015). Una institución metacognitiva no sólo registra errores; hace visible cómo se piensa y crea momentos para revisar.
 
 ### Enseñar representaciones, no sólo respuestas
 
@@ -544,7 +544,7 @@ No es casualidad que el investigador principal de la saga del capítulo 9 —el 
 
 Tome la frase medular de su paciente más reciente y sométala a dos preguntas. Primera: ¿hay en ella alguna palabra huidobriana — que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión — y si al traducirla se desinfla, qué la sostenía: la evidencia o la retórica?
 
-*Solución comentada.* Ejemplo: «Shock séptico de foco urinario, descartándose foco abdominal». Prueba uno: «de foco urinario» hace florecer una causal (¿demostrada o presunta?), y «descartándose» es un gerundio que promete lo que todavía no ocurrió — dos rosas creadas en nueve palabras. Prueba dos, en lengua parriana: «Shock con urocultivo positivo; foco urinario probable; abdomen aún sin imagen». La segunda versión es menos imponente y más útil: sobrevive a la visita de la mañana. Si su frase pasa las dos pruebas, tiene lo que aquí se entiende por estilo: exactitud que se puede defender en voz alta.
+*Solución comentada.* Ejemplo: «Shock séptico de foco urinario, descartándose foco abdominal». Prueba uno: «de foco urinario» hace florecer una causal (¿demostrada o presunta?), y «descartándose» es un gerundio que promete lo que todavía no ocurrió — dos rosas creadas en ocho palabras. Prueba dos, en lengua parriana: «Shock con urocultivo positivo; foco urinario probable; abdomen aún sin imagen». La segunda versión es menos imponente y más útil: sobrevive a la visita de la mañana. Si su frase pasa las dos pruebas, tiene lo que aquí se entiende por estilo: exactitud que se puede defender en voz alta.
 
 **En una frase.** La poesía y el juicio clínico comparten el arte de la conexión exacta y difieren en el tribunal — al poema lo juzga el oído, al diagnóstico lo juzga la evolución — y por eso la ficha lúcida se escribe con Parra, no con Huidobro.
 

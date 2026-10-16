@@ -153,14 +153,14 @@ Tres indicadores simples, auditables sobre una muestra mensual de fichas: propor
 
 ### Hoja de ruta para el docente
 
-Qué talleres usar con quién, en el orden en que rinden más. Cada uno cabe en una reunión de treinta minutos.
+Qué talleres usar con quién, en el orden en que rinden más. Salvo los que se sostienen en el tiempo (Talleres 5, 15 y 16), cada uno cabe en una reunión de treinta minutos.
 
 - **Interno y residente de primer año**: Taller 1 (qué tan hecho es este hecho), Taller 2 (la sentencia del TAC), Taller 4 (cinco frases para reescribir), Taller 10 (frecuencias naturales), Taller 11 (la observación activa, por escrito) y Taller 12B (conjugue los verbos). Enseñan el léxico y las capas antes que el juicio.
 - **Residente de segundo año en adelante**: Taller 3 (el mapa de lo que no sabemos), Taller 5 (calibración personal, sostenido tres meses), Taller 7 (reconstruir una trayectoria), Taller 8 (presentar sin la etiqueta), Taller 12 (desfosilizar una evolución), Taller 13 (traducir un desacuerdo) y Taller 15 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
 - **Jefe de servicio, docente y comité**: Taller 10B (las cuatro casillas), Taller 16 (rediseñar la visita de sala), Taller 17 (la autopsia de una respuesta de IA) y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
 - **Para todos, al cierre de un ciclo**: Taller 2B (cinco hipótesis en tres minutos) y Taller 18 (la prueba de Parra), que entrenan la generación y el oído.
 
-Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: Taller 4 en la semana 1, Taller 11 en la semana 3, Taller 8 en la visita de sala del mes 2 y Taller 12 en el mes 3; el resto, a demanda. Los «errores típicos» anotados en los Talleres 7, 8, 10 y 12B son lo que los grupos suelen responder primero; mostrarlos antes de la solución enseña por contraste.
+Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: Taller 4 en las semanas 1–2 (el lenguaje), Talleres 8 y 11 en las semanas 3–4 (la pausa en la visita de sala), Talleres 12 y 12B en el mes 2 (la ficha) y Taller 7 desde el mes 3, junto a la reunión de morbimortalidad; el resto, a demanda. Los «errores típicos» anotados en los Talleres 7, 8, 10 y 12B son lo que los grupos suelen responder primero; mostrarlos antes de la solución enseña por contraste.
 
 # Apéndice D. Las preguntas para la próxima visita
 
@@ -298,9 +298,9 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Conocimiento tácito (tacit knowledge).** Capacidad de reconocer o ejecutar más de lo que puede formularse explícitamente (Polanyi).
 
-**Conversaciones para la acción (conversation for action).** Gramática del trabajo coordinado descrita por Flores y Winograd: pedido, promesa con condiciones de satisfacción y plazo, y declaración de cumplimiento. Leída así, una entrega de turno distribuye compromisos, no sólo información; «está cubierto» es una promesa sin dueño.
-
 **Contrafactual (counterfactual).** Escenario comparativo implícito en toda afirmación causal: qué habría ocurrido sin la exposición o la intervención.
+
+**Conversaciones para la acción (conversation for action).** Gramática del trabajo coordinado descrita por Flores y Winograd: pedido, promesa con condiciones de satisfacción y plazo, y declaración de cumplimiento. Leída así, una entrega de turno distribuye compromisos, no sólo información; «está cubierto» es una promesa sin dueño.
 
 **Creatividad clínica∗.** Momento generativo del juicio: conjeturar hipótesis (abducción), re-plantear el problema y crear opciones de manejo. Casi siempre es creatividad psicológica y exploratoria (Boden): nueva para el caso, no para la humanidad. Se ejerce en la generación y se corrige en la selección.
 
@@ -326,9 +326,9 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Escriba ambiental (ambient scribe).** Sistema de IA que escucha la consulta y redacta la nota clínica. Puede automatizar la capa de hechos; no debería autocompletar la decisión ni la frase medular, porque escribirlas es parte de pensarlas, y tiende a aplanar la modalidad epistémica de lo dicho en voz alta.
 
-**Ética de la creencia (ethics of belief).** Tesis de Clifford (1877) según la cual creer sin evidencia suficiente es en sí mismo reprochable, con independencia del desenlace; en clínica, fundamento del deber de pensar bien como parte de la ética primordial del médico y de la regla de que un buen desenlace no valida un proceso defectuoso.
-
 **Estado del razonador∗.** Condiciones en que se produce un juicio clínico —hora del día, horas de turno, sueño, ánimo, preocupación ajena al caso—, tratadas como un hecho de la capa H sobre la confiabilidad del instrumento que infiere y como disparador de pausa o de segundo lector. Pensar cuesta, y el costo no es constante.
+
+**Ética de la creencia (ethics of belief).** Tesis de Clifford (1877) según la cual creer sin evidencia suficiente es en sí mismo reprochable, con independencia del desenlace; en clínica, fundamento del deber de pensar bien como parte de la ética primordial del médico y de la regla de que un buen desenlace no valida un proceso defectuoso.
 
 **Ficha de proceso∗.** Registro que, además de conclusiones y acciones (ficha de resultados), conjuga los verbos del razonamiento: sospechado, dudado, descartado, priorizado, inferido, realizado, repetido, comprobado, aprendido. Cada verbo cae en una capa de HII-D; «Neumonía. Ceftriaxona» no conjuga ninguno.
 
@@ -338,9 +338,9 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Frecuencias naturales (natural frequencies).** Presentación de probabilidades como conteos sobre una población de referencia («90 de cada 270 positivos»), que facilita el razonamiento bayesiano intuitivo (Gigerenzer).
 
-**Hindsight bias (sesgo retrospectivo).** Tendencia a percibir un desenlace conocido como si hubiera sido predecible, contaminando la evaluación de decisiones pasadas.
-
 **HII-D∗.** Heurística de escritura y deliberación que, a partir de una pregunta operativa, ordena el razonamiento en Hechos, Inferencias, Incertidumbre y Decisión, más un movimiento transversal de reevaluación. No validada como instrumento.
+
+**Hindsight bias (sesgo retrospectivo).** Tendencia a percibir un desenlace conocido como si hubiera sido predecible, contaminando la evaluación de decisiones pasadas.
 
 **Humildad epistémica (epistemic humility).** Atención y apropiación de las propias limitaciones cognitivas (Whitcomb et al., que hablan de intellectual humility). No es timidez para afirmar: es la disposición que mantiene el caso abierto — permite seguir explorando, seguir aprendiendo y reubicar el foco y el manejo cuando la trayectoria contradice el mapa.
 
@@ -548,9 +548,9 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 
 # Referencias
 
-Abdulnour, R.-E. E., Gin, B., & Boscardin, C. K. (2025). Educational strategies for clinical supervision of artificial intelligence use. *New England Journal of Medicine, 393*(8), 786–797.
-
 Abdulnour, R.-E. E., Akbarialiabad, H., Haghighi, A., & Leachman, S. A. (2026). Crew resource management — Navigating AI's automation paradox. *New England Journal of Medicine, 395*(8), 731–734.
+
+Abdulnour, R.-E. E., Gin, B., & Boscardin, C. K. (2025). Educational strategies for clinical supervision of artificial intelligence use. *New England Journal of Medicine, 393*(8), 786–797.
 
 Akram, A. R., Chalmers, J. D., Taylor, J. K., Rutherford, J., Singanayagam, A., & Hill, A. T. (2013). An evaluation of clinical stability criteria to predict hospital course in community-acquired pneumonia. *Clinical Microbiology and Infection, 19*(12), 1174–1180.
 
@@ -668,9 +668,9 @@ Graber, M. L., Kissam, S., Payne, V. L., Meyer, A. N. D., Sorensen, A., Lenfeste
 
 Gracia, D. (2001). La deliberación moral: El método de la ética clínica. *Medicina Clínica, 117*(1), 18–23.
 
-Greenhalgh, T., & Hurwitz, B. (Eds.). (1998). *Narrative Based Medicine: Dialogue and Discourse in Clinical Practice*. BMJ Books.
-
 Greenhalgh, T., Howick, J., & Maskrey, N. (2014). Evidence based medicine: A movement in crisis? *BMJ, 348*, g3725.
+
+Greenhalgh, T., & Hurwitz, B. (Eds.). (1998). *Narrative Based Medicine: Dialogue and Discourse in Clinical Practice*. BMJ Books.
 
 Groopman, J. (2007). *How Doctors Think*. Houghton Mifflin.
 
@@ -742,9 +742,9 @@ Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach for esti
 
 Mann, K., Gordon, J., & MacLeod, A. (2009). Reflection and reflective practice in health professions education: A systematic review. *Advances in Health Sciences Education, 14*(4), 595–621.
 
-Maturana, H. (1990). *Emociones y lenguaje en educación y política*. Hachette / CED.
-
 Maturana, H. R. (1970). *Biology of cognition* (BCL Report 9.0). Biological Computer Laboratory, University of Illinois. Reimpreso en H. R. Maturana & F. J. Varela (1980), *Autopoiesis and Cognition: The Realization of the Living* (pp. 5–58). Reidel.
+
+Maturana, H. (1990). *Emociones y lenguaje en educación y política*. Hachette / CED.
 
 Maturana, H., & Varela, F. (1984). *El árbol del conocimiento: Las bases biológicas del entendimiento humano*. Editorial Universitaria.
 

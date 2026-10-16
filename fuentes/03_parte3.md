@@ -20,7 +20,7 @@ La aritmética, hecha explícita con Carmen y con cifras ilustrativas, lo muestr
 
 La validez externa no es una propiedad binaria del estudio, sino una relación entre una evidencia y un uso propuesto. Tonelli sostuvo que el conocimiento clínico incorpora fuentes heterogéneas y que la individualidad del paciente no puede derivarse por completo de resultados poblacionales (Tonelli, 1998). La crítica no invalida la evidencia; impide exigirle aquello para lo cual no fue diseñada. Cartwright y Hardie expresan una dificultad paralela: saber que una intervención funcionó en un contexto no garantiza que funcione aquí, porque el efecto depende de una red de condiciones de apoyo (Cartwright & Hardie, 2012).
 
-En términos HII, un resultado de investigación es un hecho acerca de una población estudiada. Su aplicabilidad al caso es una inferencia. El grado de transportabilidad permanece incierto. La conducta surge al integrar esa incertidumbre con la magnitud del beneficio esperado, el daño posible, la reversibilidad y las preferencias. Confundir esas capas produce frases como «está indicado por evidencia». Lo demostrado es más limitado: «en pacientes comparables, esta estrategia redujo cierto desenlace; en esta paciente el beneficio absoluto probablemente sea menor y debe ponderarse frente a un riesgo adverso mayor».
+En términos HII, un resultado de investigación es un hecho acerca de una población estudiada. Su aplicabilidad al caso es una inferencia. El grado de transportabilidad permanece incierto. La conducta surge al integrar esa incertidumbre con la magnitud del beneficio esperado, el daño posible, la reversibilidad y las preferencias. Confundir esas capas produce frases como «está indicado por evidencia». Lo demostrado es más limitado: «en pacientes comparables, esta estrategia redujo cierto desenlace; en esta paciente el beneficio absoluto probablemente sea mayor, y debe ponderarse frente a un riesgo adverso también mayor».
 
 ### Una década sobre un mismo dato: la saga ANDROMEDA
 
@@ -214,17 +214,17 @@ No es necesario rotular cada párrafo. La estructura puede estar implícita, per
 
 Ejemplo:
 
-*Hechos:* paciente con lesión medular, vejiga neurogénica y sonda Foley permanente; presenta orina turbia, piuria y urocultivo positivo tras recambio reciente del catéter. Se mantiene afebril, hemodinámicamente estable y sin deterioro respecto de su basal. Parámetros inflamatorios elevados sin curva previa, en contexto de un cáncer renal metastásico activo. Antecedente documentado de colonización previa por enterobacteria multirresistente.
+*Hechos:* paciente con lesión medular, vejiga neurogénica y sonda Foley permanente; presenta orina turbia, piuria y urocultivo positivo tras recambio reciente del catéter, y cumple tres días de antibiótico indicado como pielonefritis. Se mantiene afebril, hemodinámicamente estable y sin deterioro respecto de su basal. Parámetros inflamatorios elevados, sin valores anteriores al ingreso, en contexto de un cáncer renal metastásico activo. Antecedente documentado de colonización previa por enterobacteria multirresistente.
 
 *Inferencia:* bacteriuria y piuria asociadas a recambio de catéter en paciente crónicamente colonizado; sin evidencia clínica actual de infección urinaria sintomática asociada a catéter. Los marcadores inflamatorios tienen una explicación oncológica alternativa y plausible.
 
 *Incertidumbre:* los síntomas urinarios bajos clásicos no son evaluables por su lesión medular; el riesgo es subestimar una infección incipiente de expresión atípica.
 
-*Decisión:* no iniciar antibióticos ahora. Mantener vigilancia clínica estrecha ante la aparición de fiebre, inestabilidad hemodinámica, aumento de espasticidad o disreflexia autonómica. El antecedente de colonización multirresistente —declarado en la capa de hechos— eleva el daño ecológico e individual de un tratamiento innecesario, y exige un umbral clínico estricto antes de prescribir.
+*Decisión:* suspender el antibiótico, porque la bacteriuria asintomática no se trata en pacientes con lesión medular (Nicolle et al., 2019). Mantener vigilancia clínica estrecha ante la aparición de fiebre, inestabilidad hemodinámica, aumento de espasticidad o disreflexia autonómica. El antecedente de colonización multirresistente —declarado en la capa de hechos— eleva el daño ecológico e individual de un tratamiento innecesario, y exige un umbral clínico estricto antes de volver a prescribir.
 
 Después de ordenar el caso, el paso siguiente es formular una frase medular. No reemplaza la evolución completa; ofrece una representación operativa. Debe incluir la naturaleza del evento, la inferencia con su grado, la incertidumbre crítica —el límite principal de certeza, que suele ser el elemento que cambia el riesgo— y el efecto sobre la conducta.
 
-En el caso anterior: «Bacteriuria y piuria tras recambio de sonda Foley en paciente con vejiga neurogénica y antecedente de colonización multirresistente, sin signos sistémicos ni autonómicos que configuren infección activa; se difiere antibioterapia bajo vigilancia dirigida para evitar selección de resistencia.»
+En el caso anterior: «Bacteriuria y piuria tras recambio de sonda Foley en paciente con vejiga neurogénica y antecedente de colonización multirresistente, sin signos sistémicos ni autonómicos que configuren infección activa; se suspende la antibioterapia bajo vigilancia dirigida para evitar selección de resistencia.»
 
 La frase contiene una inferencia y una conducta. No declara que la infección sea imposible. Explica por qué la evidencia actual no supera el umbral terapéutico.
 
@@ -305,7 +305,7 @@ No todo desacuerdo tiene igual valor. Debe traducirse a proposiciones evaluables
 
 Las visitas de sala pueden usar una pausa breve: ¿qué hechos nuevos cambian el caso?, ¿cuál es la inferencia principal y su alternativa?, ¿qué incertidumbre domina el riesgo?, ¿qué conducta se propone y qué la hará cambiar? La estructura HII-D no reemplaza la discusión libre; crea un lenguaje común para localizar la diferencia.
 
-Ese lenguaje común necesita un sistema que lo sostenga. Un sistema seguro no depende de que cada individuo recuerde cuestionarlo todo. Diseña momentos y artefactos que facilitan detectar discordancias: tendencias visibles, alertas selectivas, listas de problemas actualizadas, criterios de reapertura, acceso a datos fuente y roles claros para escalar preocupación. La National Academies conceptualizó el diagnóstico como un proceso de equipo y aprendizaje continuo, no como un acto aislado (National Academies of Sciences, Engineering, and Medicine, 2015).
+Ese lenguaje común necesita un sistema que lo sostenga. Un sistema seguro no depende de que cada individuo recuerde cuestionarlo todo. Diseña momentos y artefactos que facilitan detectar discordancias: tendencias visibles, alertas selectivas, listas de problemas actualizadas, criterios de reapertura, acceso a datos fuente y roles claros para escalar preocupación. Las National Academies conceptualizaron el diagnóstico como un proceso de equipo y aprendizaje continuo, no como un acto aislado (National Academies of Sciences, Engineering, and Medicine, 2015).
 
 La redundancia debe ser inteligente. Repetir información sin contraste aumenta ruido. La redundancia útil incorpora independencia parcial: una segunda lectura, una revisión por otro profesional o una comprobación contra datos primarios. Del mismo modo, la tecnología debe reducir carga sin convertir la automatización en autoridad incuestionada.
 
