@@ -39,11 +39,11 @@ cambie el estado o se tome una decisión.
 - Final de la viñeta 6, viñetas 7 y 8, pasajes 38 y 39; los ítems 23, 29, 31, 47 y 52–57 de las recomendaciones.
 - Las cuatro decisiones que dejó la evaluación del panel (`gestiones/evaluacion_multiparametrica_2026-10-16.md`) están
   tomadas: el ingreso de Carmen y las escenas como composiciones (punto 44), la capacidad de decidir en la viñeta 5 y la
-  saturación del taller del cap. 2 (punto 46). De lo que más subiría la nota sólo queda el piloto de HII-D: el
-  protocolo de una página está en `gestiones/piloto_hiid_protocolo.md`.
+  saturación del taller del cap. 2 (punto 46). De lo que más subiría la nota sólo queda el piloto de HII-D, que el
+  autor decidió no hacer por ahora (ver «Decisiones tomadas»).
 - Fuente del libro: el DOCX pide Georgia, que estos contenedores y la CI no tienen; LibreOffice la reemplaza por
   DejaVu Serif. Antes de imprimir, decidir una fuente libre (o instalar la que se elija) y volver a medir la paginación.
-- Piloto del método, revisión externa, permisos, ortotipografía, prueba del EPUB en Kindle Previewer y la carta de
+- Revisión externa, permisos, ortotipografía, prueba del EPUB en Kindle Previewer y la carta de
   prólogo, que está como borrador en el Gmail del autor (`gestiones/prologo_*`).
 - Decisiones de entorno abiertas: etiquetas de versión en `lector-anotaciones` (hoy se fija por commit) y borrar sus ramas
   `v0.5` y `v0.6`; un hook de inicio de sesión que deje la firma de git configurada.
@@ -53,6 +53,10 @@ cambie el estado o se tome una decisión.
 - Las escenas en primera persona y todas las viñetas son composiciones docentes, y se declaran así (página legal,
   Prefacio); Carmen es un personaje compuesto. Las citas de Parra no se tocan. Terminología hospitalaria chilena y términos canónicos
   (`gestiones/terminos_canonicos.md`). Toda referencia se verifica antes de citarse (`fuentes/auditoria_evidencia.md`).
+- La validación empírica de HII-D no se hará por ahora (decisión del autor, 17 de octubre de 2026). El libro ya la
+  declara pendiente y presenta el método como heurística no validada (nota metodológica, cap. 15), así que el texto no
+  promete más de lo que hay. El protocolo queda en `gestiones/piloto_hiid_protocolo.md` por si se retoma; sin piloto,
+  el panel estimaba el bloque científico en ~5,8 como techo. No proponer el piloto en cada sesión.
 - No hay techo de páginas (punto 37); las citas parentéticas no pasan a narrativa (punto 40).
 - Los talleres no van al final de cada capítulo: están reunidos en el Apéndice D, nombrados por su capítulo, con
   «Una versión posible» o «Comentario» y sin tono de examen (punto 45). Una versión sólo en línea, como programa, queda
