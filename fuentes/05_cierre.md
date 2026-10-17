@@ -558,6 +558,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Autoridad revisable — 7, 13, 14
 - Bioética y razonamiento clínico (cuatro tópicos, proporcionalidad, deliberación) — 10, 15, CC (viñeta 5), Ap A
 - Calibración — 5, 15, 16, Ap C
+- Capacidad de decidir (cuatro criterios; lucidez fluctuante) — CC (viñeta 5)
 - Captura cognitiva por IA (la respuesta antes que el caso) — 17
 - Carga teórica de la observación — 1
 - Cierre prematuro — 2, 7, CC (viñeta 6)
@@ -581,6 +582,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Doble proceso — 6
 - Documentación defensiva — 14
 - Ensombrecimiento diagnóstico — CC (viñeta 8)
+- Error diagnóstico: magnitud medida y estimada — 7
 - Errores asimétricos — 10, CC (viñeta 3)
 - Errores típicos en los talleres — Ap D
 - Escribas ambientales (regla «la capa H, verificada; la capa D, no») — 17
@@ -611,7 +613,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Inteligencia artificial: rol diagnóstico y terapéutico, catálogo de riesgos, defensas — 17
 - Intuición experta — 5, 6, Interludio II
 - Lectura de ensayos clínicos (significación, reanálisis bayesiano, saga ANDROMEDA) — 9
-- Léxico de certeza — 4, Ap B
+- Léxico de certeza — 4, Ap B; sus precedentes (Kent, radiología) — 15
 - Marcador y enfermedad (lactato, perfusión, ANDROMEDA-SHOCK) — 1, 9
 - Medicina basada en evidencia — 9
 - Mente del principiante (Zen, shoshin) — 8
@@ -698,11 +700,19 @@ Abdulnour, R.-E. E., Akbarialiabad, H., Haghighi, A., & Leachman, S. A. (2026). 
 
 Abdulnour, R.-E. E., Gin, B., & Boscardin, C. K. (2025). Educational strategies for clinical supervision of artificial intelligence use. *New England Journal of Medicine, 393*(8), 786–797.
 
+Afshar, M., Baumann, M. R., Resnik, F., Hintzke, J., Sullivan, A. G., Wills, G., et al. (2025). A pragmatic randomized controlled trial of ambient artificial intelligence to improve health practitioner well-being. *NEJM AI, 2*(12), AIoa2500945.
+
 Akram, A. R., Chalmers, J. D., Taylor, J. K., Rutherford, J., Singanayagam, A., & Hill, A. T. (2013). An evaluation of clinical stability criteria to predict hospital course in community-acquired pneumonia. *Clinical Microbiology and Infection, 19*(12), 1174–1180.
 
 Alves de Lima, A. (2008). Devolución constructiva: Una estrategia para mejorar el aprendizaje. *Medicina (Buenos Aires), 68*(1), 88–92.
 
+Andreadis, K., Chan, E., Park, M., Benda, N. C., Sharma, M. M., Demetres, M., et al. (2021). Imprecision and preferences in interpretation of verbal probabilities in health: A systematic review. *Journal of General Internal Medicine, 36*(12), 3820–3829.
+
+Appelbaum, P. S. (2007). Assessment of patients' competence to consent to treatment. *New England Journal of Medicine, 357*(18), 1834–1840.
+
 Aristóteles. (1985). *Ética nicomáquea; Ética eudemia* (J. Pallí Bonet, Trad.; introd. E. Lledó). Gredos.
+
+Auerbach, A. D., Lee, T. M., Hubbard, C. C., Ranji, S. R., Raffel, K., Valdes, G., et al. (2024). Diagnostic errors in hospitalized adults who died or were transferred to intensive care. *JAMA Internal Medicine, 184*(2), 164–173.
 
 Austin, J. L. (1962). *How to Do Things with Words*. Clarendon Press.
 
@@ -808,6 +818,8 @@ Goddard, K., Roudsari, A., & Wyatt, J. C. (2012). Automation bias: A systematic 
 
 Goh, E., Gallo, R., Hom, J., Strong, E., Weng, Y., Kerman, H., et al. (2024). Large language model influence on diagnostic reasoning: A randomized clinical trial. *JAMA Network Open, 7*(10), e2440969.
 
+Goh, E., Gallo, R. J., Strong, E., Weng, Y., Kerman, H., Freed, J. A., et al. (2025). GPT-4 assistance for improvement of physician performance on patient care tasks: A randomized controlled trial. *Nature Medicine, 31*(4), 1233–1238.
+
 Graber, M. L., Franklin, N., & Gordon, R. (2005). Diagnostic error in internal medicine. *Archives of Internal Medicine, 165*(13), 1493–1499.
 
 Graber, M. L., Kissam, S., Payne, V. L., Meyer, A. N. D., Sorensen, A., Lenfestey, N., et al. (2012). Cognitive interventions to reduce diagnostic error: A narrative review. *BMJ Quality & Safety, 21*(7), 535–557.
@@ -856,6 +868,8 @@ Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure 
 
 Kassirer, J. P. (1989). Our stubborn quest for diagnostic certainty. *New England Journal of Medicine, 320*(22), 1489–1491.
 
+Kent, S. (1964). Words of estimative probability. *Studies in Intelligence, 8*(4).
+
 Kidd, I. J., & Carel, H. (2017). Epistemic injustice and illness. *Journal of Applied Philosophy, 34*(2), 172–190.
 
 Kline, J. A., Mitchell, A. M., Kabrhel, C., Richman, P. B., & Courtney, D. M. (2004). Clinical criteria to prevent unnecessary diagnostic testing in emergency department patients with suspected pulmonary embolism. *Journal of Thrombosis and Haemostasis, 2*(8), 1247–1255.
@@ -872,6 +886,8 @@ Lambe, K. A., O'Reilly, G., Kelly, B. D., & Curristan, S. (2016). Dual-process c
 
 Landrigan, C. P., Rothschild, J. M., Cronin, J. W., Kaushal, R., Burdick, E., Katz, J. T., et al. (2004). Effect of reducing interns' work hours on serious medical errors in intensive care units. *New England Journal of Medicine, 351*(18), 1838–1848.
 
+Landrigan, C. P., Rahman, S. A., Sullivan, J. P., Vittinghoff, E., Barger, L. K., Sanderson, A. L., et al. (2020). Effect on patient safety of a resident physician schedule without 24-hour shifts. *New England Journal of Medicine, 382*(26), 2514–2523.
+
 Lee, P., Bubeck, S., & Petro, J. (2023). Benefits, limits, and risks of GPT-4 as an AI chatbot for medicine. *New England Journal of Medicine, 388*, 1233–1239.
 
 Lifshitz, A. (2014). *La nueva clínica*. Academia Nacional de Medicina de México.
@@ -879,6 +895,8 @@ Lifshitz, A. (2014). *La nueva clínica*. Academia Nacional de Medicina de Méxi
 Limb, C. J., & Braun, A. R. (2008). Neural substrates of spontaneous musical performance: An fMRI study of jazz improvisation. *PLoS ONE, 3*(2), e1679.
 
 Linder, J. A., Doctor, J. N., Friedberg, M. W., Reyes Nieva, H., Birks, C., Meeker, D., et al. (2014). Time of day and the decision to prescribe antibiotics. *JAMA Internal Medicine, 174*(12), 2029–2031.
+
+Lukac, P. J., Turner, W., Vangala, S., Chin, A. T., Khalili, J., Shih, Y.-C. T., et al. (2025). Ambient AI scribes in clinical practice: A randomized trial. *NEJM AI, 2*(12), AIoa2501000.
 
 Mamede, S., Schmidt, H. G., & Penaforte, J. C. (2008). Effects of reflective practice on the accuracy of medical diagnoses. *Medical Education, 42*(5), 468–475.
 
@@ -896,6 +914,8 @@ Maturana, H., & Varela, F. (1984). *El árbol del conocimiento: Las bases bioló
 
 McCoy, L. G., Manrai, A. K., & Rodman, A. (2024). Large language models and the degradation of the medical record. *New England Journal of Medicine, 391*(17), 1561–1564.
 
+McDuff, D., Schaekermann, M., Tu, T., Palepu, A., Wang, A., Garrison, J., et al. (2025). Towards accurate differential diagnosis with large language models. *Nature, 642*(8067), 451–457.
+
 Metlay, J. P., Waterer, G. W., Long, A. C., Anzueto, A., Brozek, J., Crothers, K., et al. (2019). Diagnosis and treatment of adults with community-acquired pneumonia: An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. *American Journal of Respiratory and Critical Care Medicine, 200*(7), e45–e67.
 
 Meyer, A. N. D., Payne, V. L., Meeks, D. W., Rao, R., & Singh, H. (2013). Physicians' diagnostic accuracy, confidence, and resource requests: A vignette study. *JAMA Internal Medicine, 173*(21), 1952–1958.
@@ -912,6 +932,8 @@ National Academies of Sciences, Engineering, and Medicine. (2015). *Improving Di
 
 Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 26, pp. 125–173). Academic Press.
 
+Newman-Toker, D. E., Nassery, N., Schaffer, A. C., Yu-Moe, C. W., Clemens, G. D., Wang, Z., et al. (2024). Burden of serious harms from diagnostic error in the USA. *BMJ Quality & Safety, 33*(2), 109–120.
+
 Nicolle, L. E., Gupta, K., Bradley, S. F., Colgan, R., DeMuri, G. P., Drekonja, D., et al. (2019). Clinical practice guideline for the management of asymptomatic bacteriuria: 2019 update by the Infectious Diseases Society of America. *Clinical Infectious Diseases, 68*(10), e83–e110.
 
 Norman, G. (2005). Research in clinical reasoning: Past history and current trends. *Medical Education, 39*(4), 418–427.
@@ -923,6 +945,8 @@ Norman, G. R., Monteiro, S. D., Sherbino, J., Ilgen, J. S., Schmidt, H. G., & Ma
 Novoa Jurado, A. J. (2025). Terapia epistémica del conocimiento clínico. *Revista Clínica de Medicina de Familia, 18*(3), 274–282.
 
 Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. *Science, 366*(6464), 447–453.
+
+Panicek, D. M., & Hricak, H. (2016). How sure are you, doctor? A standardized lexicon to describe the radiologist's level of certainty. *American Journal of Roentgenology, 207*(1), 2–3.
 
 Parra, N. (1954). *Poemas y antipoemas*. Nascimento.
 
@@ -972,9 +996,19 @@ Schmidt, H. G., & Rikers, R. M. J. P. (2007). How expertise develops in medicine
 
 Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 
+Shinagare, A. B., Lacson, R., Boland, G. W., Wang, A., Silverman, S. G., Mayo-Smith, W. W., et al. (2019). Radiologist preferences, agreement, and variability in phrases used to convey diagnostic certainty in radiology reports. *Journal of the American College of Radiology, 16*(4), 458–464.
+
+Shinagare, A. B., Alper, D. P., Hashemi, S. R., Chai, J. L., Hammer, M. M., Boland, G. W., et al. (2020). Early adoption of a certainty scale to improve diagnostic certainty communication. *Journal of the American College of Radiology, 17*(10), 1276–1284.
+
 Simpkin, A. L., & Schwartzstein, R. M. (2016). Tolerating uncertainty — The next medical revolution? *New England Journal of Medicine, 375*, 1713–1715.
 
 Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., et al. (2023). Large language models encode clinical knowledge. *Nature, 620*, 172–180.
+
+Staal, J., Hooftman, J., Gunput, S. T. G., Mamede, S., Frens, M. A., Van den Broek, W. W., et al. (2022). Effect on diagnostic accuracy of cognitive reasoning tools for the workplace setting: Systematic review and meta-analysis. *BMJ Quality & Safety, 31*(12), 899–910.
+
+Steinkamp, J., Kantrowitz, J. J., & Airan-Javia, S. (2022). Prevalence and sources of duplicate information in the electronic medical record. *JAMA Network Open, 5*(9), e2233348.
+
+Stetson, P. D., Bakken, S., Wrenn, J. O., & Siegler, E. L. (2012). Assessing electronic note quality using the Physician Documentation Quality Instrument (PDQI-9). *Applied Clinical Informatics, 3*(2), 164–174.
 
 Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. Weatherhill. [Trad. esp.: *Mente zen, mente de principiante*.]
 
@@ -1017,6 +1051,8 @@ Wu, A. W. (2000). Medical error: The second victim. The doctor who makes the mis
 Xiong, M., Hu, Z., Lu, X., Li, Y., Fu, J., He, J., et al. (2024). Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs. *Proceedings of ICLR 2024*.
 
 Zampieri, F. G., Damiani, L. P., Bakker, J., Ospina-Tascón, G. A., Castro, R., Cavalcanti, A. B., et al. (2020). Effects of a resuscitation strategy targeting peripheral perfusion status versus serum lactate levels among patients with septic shock: A Bayesian reanalysis of the ANDROMEDA-SHOCK trial. *American Journal of Respiratory and Critical Care Medicine, 201*(4), 423–429.
+
+Zwaan, L., Monteiro, S., Sherbino, J., Ilgen, J., Howey, B., & Norman, G. (2017). Is bias in the eye of the beholder? A vignette study to assess recognition of cognitive biases in clinical case workups. *BMJ Quality & Safety, 26*(2), 104–110.
 
 # Tarjeta: HII-D en sesenta segundos
 
