@@ -190,21 +190,13 @@ El valor del método depende de una actitud: aceptar que la claridad no consiste
 
 ## Cuaderno de casos. Ocho viñetas para una lectura metacognitiva
 
-Las viñetas siguientes son composiciones docentes. Cada una se presenta con la estructura HII-D y una frase medular. No son casos «resueltos»: son casos representados. La invitación es leer cada uno dos veces —primero como clínico, buscando la conducta; después como lector metacognitivo, observando qué hace cada capa—.
+Las viñetas siguientes son composiciones docentes. Cada una se presenta con la estructura HII-D y una frase medular, salvo las dos primeras: vuelven a casos que el libro ya escribió en capas (el Interludio I y el capítulo 12) y guardan sólo lo que esas versiones no tienen. No son casos «resueltos»: son casos representados. La invitación es leer cada uno dos veces —primero como clínico, buscando la conducta; después como lector metacognitivo, observando qué hace cada capa—.
 
 ### Viñeta 1. Carmen: obstrucción recurrente y cambio cualitativo de riesgo
 
-La historia de Carmen atraviesa todo este libro; aquí se presenta en su versión condensada, tal como se sintetizaría en una entrega de turno o en una discusión clínica.
+La historia de Carmen atraviesa todo este libro. Sus datos y sus cuatro capas están escritos en el Interludio I, y no se repiten aquí; esta viñeta guarda lo que cabe en una entrega de turno y el final que el libro le debía.
 
-Mujer de 61 años con hernia incisional de la línea media y tres hospitalizaciones en el último año por suboclusión intestinal, todas resueltas con manejo médico conservador. Ingresa por un cuarto episodio obstructivo, esta vez asociado a shock séptico (presión arterial media de 55 mmHg y 112 lpm), hiperlactatemia (3,9 mmol/L), hipoperfusión periférica (llene capilar de 3 a 4 segundos) y bacteriemia por bacilos gramnegativos (2/2 hemocultivos, positivos a las 12 horas). Recibe 2.000 ml de Ringer lactato en tres horas, noradrenalina por vía periférica hasta 0,2 mcg/kg/min, ceftriaxona con metronidazol, reposo digestivo y descompresión por sonda nasogástrica: el llene capilar mejora, la taquicardia cede, el dolor abdominal se resuelve y el lactato de control baja a 2,3 mmol/L. La tomografía de abdomen no muestra perforación, isquemia mesentérica ni estrangulación actual, y el abdomen no tiene signos peritoneales.
-
-*Hechos:* recurrencia obstructiva documentada y con intervalos cada vez más cortos; episodio actual con compromiso hemodinámico vital y bacteriemia demostrada; respuesta clínica favorable al soporte intensivo; ausencia de complicación quirúrgica aguda en la tomografía inicial.
-
-*Inferencia:* el foco abdominal de la bacteriemia, secundario al evento obstructivo, es altamente probable por secuencia temporal y microbiología compatible, aunque el mecanismo íntimo (translocación bacteriana o microisquemia transitoria) no esté demostrado. La tomografía sin isquemia, el abdomen sin signos peritoneales y la respuesta a la reanimación hacen improbable una estrangulación y no indican cirugía de urgencia; no mitigan el riesgo acumulado de recurrencia.
-
-*Incertidumbre:* son inciertos el plazo hasta una quinta obstrucción, la magnitud del daño si ésta ocurre fuera del hospital y la reserva funcional efectiva de la paciente para enfrentar el estrés quirúrgico una vez recuperada.
-
-*Decisión:* solicitar evaluación quirúrgica precoz para planificar reparación electiva tras optimización médica y kinésica, documentando una decisión compartida. El fundamento para operar no es que «fracasó el manejo médico» (resolvió el cuadro agudo cuatro veces), sino que la gravedad vital alcanzada en este episodio vuelve inaceptable el riesgo de mantener una conducta expectante.
+Mujer de 61 años con hernia incisional de la línea media y tres suboclusiones en el último año, resueltas con manejo médico. Ingresa por un cuarto episodio, esta vez con shock séptico y bacteriemia por gramnegativos, que responde en pocas horas a la reanimación y a los antibióticos; la tomografía no muestra isquemia ni perforación, y el abdomen no tiene signos peritoneales. La cirugía de urgencia no está indicada; la pregunta es otra: qué pasa si vuelve a ocurrir.
 
 *Frase medular:* «Obstrucción intestinal recurrente por hernia incisional, por primera vez complicada con shock séptico y bacteriemia, sin isquemia aguda en tomografía. El salto cualitativo de gravedad modifica el umbral terapéutico y justifica priorizar la reparación electiva tras la recuperación fisiológica.»
 
@@ -212,17 +204,13 @@ Mujer de 61 años con hernia incisional de la línea media y tres hospitalizacio
 
 ### Viñeta 2. Bacteriuria en paciente con sonda permanente
 
-Es el paciente de la cama 12 del capítulo 8, el mismo cuya ficha el capítulo 12 ordenó en la matriz HII-D; aquí, en la versión que cabe en una entrega de turno. Hombre con lesión medular completa, vejiga neurogénica, sonda Foley permanente y un cáncer renal metastásico en progresión. Tras un recambio traumático de sonda presenta orina turbia, piuria y urocultivo positivo; está afebril, estable y sin cambios respecto de su basal. Los marcadores inflamatorios están elevados, sin valores previos y con el tumor como causa concomitante, y tiene antecedente de colonización por enterobacteria productora de BLEE.
-
-*Hechos:* recambio reciente de sonda; piuria y urocultivo positivo; tercer día de antibiótico indicado como pielonefritis; afebril y estable; síntomas urinarios bajos no evaluables por el nivel lesional; reactantes elevados sin basal, con cáncer renal metastásico activo; colonización documentada por BLEE.
-
-*Inferencia:* el cuadro es altamente compatible con una bacteriuria asociada a catéter por colonización crónica (favorecida por el arrastre del recambio) más que con una infección urinaria sintomática asociada a sonda. Por sí solas, ni la turbidez ni la piuria discriminan entre colonización e infección invasiva en pacientes sondados, y la elevación inflamatoria sistémica es explicable por su neoplasia de base.
-
-*Incertidumbre:* la denervación medular enmascara la disuria y el dolor lumbar, por lo que persiste la duda de una infección incipiente con expresión clínica atípica.
-
-*Decisión:* suspender el antibiótico empírico. Instaurar vigilancia clínica dirigida a signos equivalentes de respuesta sistémica o autonómica (fiebre nueva, inestabilidad hemodinámica, aumento súbito de espasticidad, sudoración o malestar general inexplicable). Aquí, el antecedente de germen BLEE no es un gatillo para prescribir antes, sino al revés. Como un tratamiento dirigido probablemente exigiría carbapenémicos, de alto impacto ecológico y toxicidad potencial, el umbral clínico para reiniciar antibióticos debe ser más exigente.
+Es el paciente de la cama 12 del capítulo 8, cuya ficha el capítulo 12 ordenó entera en la matriz HII-D: hombre con lesión medular completa, sonda Foley permanente y un cáncer renal metastásico en progresión, con orina turbia, piuria y urocultivo positivo tras un recambio traumático de sonda, afebril y estable, y con antecedente de colonización por enterobacteria productora de BLEE. Las cuatro capas no se repiten; esta viñeta guarda lo que cabe en una entrega de turno y una lectura del antecedente que suele hacerse al revés.
 
 *Frase medular:* «Urocultivo positivo y piuria tras recambio de sonda Foley en paciente con lesión medular y antecedente de colonización por BLEE, sin respuesta sistémica ni signos autonómicos que configuren infección activa. Se interpreta como bacteriuria asociada a catéter; se suspende el antibiótico, con vigilancia clínica estricta y criterios explícitos de reapertura.»
+
+*Qué se vigila, por escrito:* fiebre nueva, inestabilidad hemodinámica, aumento súbito de espasticidad, sudoración o malestar general inexplicable. Son los equivalentes de una respuesta sistémica o autonómica en quien no puede sentir la disuria ni el dolor lumbar.
+
+*Lectura metacognitiva.* El antecedente de BLEE suele leerse como un gatillo para prescribir antes, y es al revés: como un tratamiento dirigido probablemente exigiría carbapenémicos, de alto impacto ecológico y toxicidad potencial, el umbral para reiniciar antibióticos debe ser más exigente, no menos. Y ni la turbidez ni la piuria discriminan, por sí solas, entre colonización e infección en un paciente sondado.
 
 ### Viñeta 3. Tres de la mañana: decidir con el reloj en contra
 
