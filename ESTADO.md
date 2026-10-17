@@ -7,9 +7,9 @@ cambie el estado o se tome una decisión.
 ## Qué hay
 
 - **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 166 páginas (162 de cuerpo), DOCX y EPUB
-  (44 capítulos). 15 figuras, 162 referencias, 18 capítulos, 18 talleres, TOC de 40 entradas; 58.414 palabras en las
-  fuentes (54.842 sin las referencias). Cifras de la construcción y de las fuentes del 16 de octubre, tras las
-  correcciones del punto 43.
+  (44 capítulos). 15 figuras, 162 referencias, 18 capítulos, 18 talleres, TOC de 40 entradas; 58.612 palabras en las
+  fuentes (55.040 sin las referencias). Cifras de la construcción y de las fuentes del 17 de octubre, tras el
+  punto 44.
 - **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
   cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
   archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
@@ -27,22 +27,18 @@ cambie el estado o se tome una decisión.
   verde, 151 pruebas de navegador y cobertura de 97 % en Python, 71 % en el núcleo y 92,9 % en la página. Los 52
   mutantes de `herramientas/mutar.py` hacen lo que esperan. `lector/index.html` es su `web/index.html` del commit
   7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (42 secciones, 1065 bloques) está al día con las fuentes
-  y marca como cambiados los 34 bloques que tocaron las correcciones del punto 43.
-- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 28 (con el `libro.json` del punto 43). Su base tiene una sola anotación
+  y marca como cambiados los 16 bloques que tocó el punto 44.
+- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 29 (con el `libro.json` y las Figuras 2 y 11 del punto 44). Su base tiene una sola anotación
   (Prefacio), resuelta y respondida: no hay anotaciones del autor esperando.
 
 ## Pendiente del autor
 
-- Validar o reemplazar los pasajes en primera persona, que hoy son composiciones docentes: Prefacio, cap. 5 (el cólico
-  renal que era un aneurisma), cap. 7 (la «ITU» que era colecistitis) y cap. 14 (el primer «no lo sé»). Revisar el
-  nombre «Carmen» y los detalles del caso longitudinal.
 - Final de la viñeta 6, viñetas 7 y 8, pasajes 38 y 39; los ítems 23, 29, 31, 47 y 52–57 de las recomendaciones.
-- Cuatro decisiones que dejó la evaluación del panel (`gestiones/evaluacion_multiparametrica_2026-10-16.md`): la
-  madrugada de Carmen (no operar en shock «fue prudente» y la tomografía «desactiva» la urgencia: un cirujano revisor
-  lo objetaría; presentarlo como umbral discutible y vigilado); la página legal, que dice que las escenas en primera
-  persona «condensan experiencias reales del autor» mientras este archivo las tiene como composiciones por validar; la
-  viñeta 5, sin evaluación de la capacidad de decidir; y la saturación de 89 % del Taller 2B, que en un EPOC está en su
-  rango objetivo.
+- Dos decisiones que dejó la evaluación del panel (`gestiones/evaluacion_multiparametrica_2026-10-16.md`): la viñeta 5,
+  sin evaluación de la capacidad de decidir, y la saturación de 89 % del Taller 2B, que en un EPOC está en su rango
+  objetivo. Las otras dos se resolvieron el 17 de octubre (README, punto 44): el ingreso de Carmen se rehízo con los
+  datos del autor, y la madrugada es ahora un umbral explícito y vigilado; las escenas en primera persona quedan como
+  composiciones docentes, declaradas así en la página legal y en el Prefacio.
 - Lo que más subiría la nota, según el mismo panel: una pasada de producción en el generador (idioma `es-CL` y
   partición, títulos que no queden al pie, rayas unificadas), literatura 2015–2026 verificada antes de citarse,
   recortar las dos viñetas duplicadas y un piloto de HII-D.
@@ -54,7 +50,8 @@ cambie el estado o se tome una decisión.
 
 ## Decisiones tomadas
 
-- Las citas de Parra no se tocan. Terminología hospitalaria chilena y términos canónicos
+- Las escenas en primera persona y todas las viñetas son composiciones docentes, y se declaran así (página legal,
+  Prefacio); Carmen es un personaje compuesto. Las citas de Parra no se tocan. Terminología hospitalaria chilena y términos canónicos
   (`gestiones/terminos_canonicos.md`). Toda referencia se verifica antes de citarse (`fuentes/auditoria_evidencia.md`).
 - No hay techo de páginas (punto 37); las citas parentéticas no pasan a narrativa (punto 40).
 - El lector es un repo aparte y genérico; este libro sólo copia su página y fija su versión. En el lector: sin framework

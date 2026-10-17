@@ -80,8 +80,8 @@ guardar(fig, "fig01_capas.png")
 fig, ax = plt.subplots(figsize=(7.2, 4.4))
 ax.set_xlim(0, 10); ax.set_ylim(0, 6.2); ax.axis("off")
 niveles = [
-    ("Dato medido y verificable", "«Lactato 6,0 mmol/L (04:15, arterial)»", 0.92),
-    ("Observación profesional reproducible", "«Llene capilar 5 s, documentado por enfermería»", 0.74),
+    ("Dato medido y verificable", "«Lactato 3,9 mmol/L (04:15, arterial)»", 0.92),
+    ("Observación profesional reproducible", "«Llene capilar 3–4 s, documentado por enfermería»", 0.74),
     ("Relato del paciente o de un tercero", "«Esta vez el dolor era otro»", 0.56),
     ("Dato heredado de una nota anterior", "«ITU a repetición» (origen no verificado)", 0.38),
     ("Ausencia inferida del registro", "«Sin episodios previos» = no consignados", 0.20),
@@ -392,7 +392,7 @@ fig, ax = plt.subplots(figsize=(7.8, 4.9))
 ax.set_xlim(0, 10.8); ax.set_ylim(0, 6.4); ax.axis("off")
 ax.annotate("", xy=(10.55, 5.0), xytext=(0.2, 5.0), arrowprops=dict(arrowstyle="-|>", color=INK, lw=2.0))
 hitos = [
-    (0.9, "MADRUGADA\n04:15", "shock, lactato 6,0;\nTAC sin isquemia", ACENTO),
+    (0.9, "MADRUGADA\n04:15", "shock, lactato 3,9;\nTAC sin isquemia", ACENTO),
     (3.0, "DÍA 1", "hemocultivos con\ngramnegativos;\n«¿95% seguros?»", GRIS),
     (5.1, "DÍA 3", "E. coli; sin vasoactivos;\nla ficha HII-D", GRIS),
     (7.2, "DÍA 7", "sin sonda, evaluación\npreoperatoria;\nla conversación", ACENTO),
@@ -416,10 +416,10 @@ def balanza(ax, x, titulo, a_t, a_h, b_t, b_h, veredicto):
     ax.text(x + 2.3, 0.62, veredicto, ha="center", va="center", fontsize=6.4, fontweight="bold", color=ACENTO)
 
 
-balanza(ax, 0.4, "Madrugada: ¿operar en shock?",
-        "OPERAR AHORA\n(pabellón con la\npaciente inestable)", 1.15,
-        "ESPERAR\n(SNG, antibióticos:\nel cuadro cede)", 0.4,
-        "umbral de cirugía de rescate: alto → no se cruza")
+balanza(ax, 0.4, "Madrugada: ¿operar de urgencia?",
+        "OPERAR AHORA\n(sin isquemia ni\nsignos peritoneales)", 1.15,
+        "REANIMAR Y VIGILAR\n(volumen, noradrenalina,\nantibióticos, SNG)", 0.4,
+        "sin indicación de urgencia → no se cruza")
 balanza(ax, 5.8, "Día 7: ¿alta sin operar?",
         "ALTA SIN OPERAR\n(quinto atascamiento\nen casa, con shock)", 1.15,
         "OPERAR PROGRAMADA\n(riesgo perioperatorio\nmoderado)", 0.5,

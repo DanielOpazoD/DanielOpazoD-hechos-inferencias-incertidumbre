@@ -25,8 +25,9 @@ su CI) aplica al libro. El lector de anotaciones tiene su propio repo, `DanielOp
   `fuentes/auditoria_evidencia.md`.
 - **Voz**: sin plural autorial («yo» para la experiencia, «este libro» para la tesis); comillas angulares en el cuerpo;
   decimales con coma; las citas parentéticas no se pasan a forma narrativa (README, punto 40).
-- **Los pasajes en primera persona son composiciones docentes** hasta que el autor los valide (README, «PENDIENTE DEL
-  AUTOR»): no se inventan vivencias ni se presentan como reales.
+- **Los pasajes en primera persona son composiciones docentes**, como todas las viñetas, y así se declaran (página
+  legal, Prefacio; decisión del autor, README punto 44): no se presentan como vivencias reales. Los datos clínicos de
+  Carmen son los del autor (punto 44); no se cambian sin su pedido.
 - **Lo reservado al autor no se ejecuta sin su pedido**: los ítems 23, 29, 31, 47 y 52–57 de
   `gestiones/recomendaciones_finales_2026-10-14.md` y lo que `ESTADO.md` lista como pendiente del autor.
 - **Sin techo de páginas**: la extensión se juzga por lo que cada página aporta (punto 37; el techo de 140 páginas de
