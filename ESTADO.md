@@ -1,15 +1,15 @@
 # Estado del libro
 
-Al 16 de octubre de 2026. Para retomar el trabajo sin la conversación en que se hizo: qué hay, qué funciona, qué
+Al 17 de octubre de 2026. Para retomar el trabajo sin la conversación en que se hizo: qué hay, qué funciona, qué
 espera al autor y qué quedó decidido. Las reglas para trabajar están en `AGENTS.md`. Actualiza este archivo cuando
 cambie el estado o se tome una decisión.
 
 ## Qué hay
 
-- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 166 páginas (162 de cuerpo), DOCX y EPUB
-  (44 capítulos). 15 figuras, 162 referencias, 18 capítulos, 18 talleres, TOC de 40 entradas; 58.612 palabras en las
-  fuentes (55.040 sin las referencias). Cifras de la construcción y de las fuentes del 17 de octubre, tras el
-  punto 44.
+- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 170 páginas (166 de cuerpo), DOCX y EPUB
+  (45 capítulos). 15 figuras, 162 referencias, 18 capítulos, 18 talleres reunidos en el Apéndice D, TOC de 41
+  entradas; 58.979 palabras en las fuentes (55.407 sin las referencias). Cifras de la construcción y de las fuentes del
+  17 de octubre, tras el punto 45.
 - **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
   cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
   archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
@@ -21,22 +21,23 @@ cambie el estado o se tome una decisión.
   el EPUB con los mismos archivos), con el TOC estable entre pasadas. `fuentes/comprobar.py` da 0 problemas y
   `fuentes/cotejo_figuras.py`, cero derivas.
 - **Edición**: las recomendaciones A–G (`gestiones/recomendaciones_finales_2026-10-14.md`) están ejecutadas, y también
-  las pasadas de coherencia (registro en `README.md`, puntos 25–42) y las correcciones de la evaluación del panel
-  (punto 43; auditoría de evidencia, ítems 58–64).
+  las pasadas de coherencia (registro en `README.md`, puntos 25–42), las correcciones de la evaluación del panel
+  (punto 43; auditoría de evidencia, ítems 58–64), el nuevo ingreso de Carmen (punto 44) y los talleres en un apéndice
+  (punto 45).
 - **Lector de anotaciones**: el repo `DanielOpazoD/lector-anotaciones` está en la 0.6.1 (`main` en 1df5ff8), con la CI
   verde, 151 pruebas de navegador y cobertura de 97 % en Python, 71 % en el núcleo y 92,9 % en la página. Los 52
   mutantes de `herramientas/mutar.py` hacen lo que esperan. `lector/index.html` es su `web/index.html` del commit
-  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (42 secciones, 1065 bloques) está al día con las fuentes
-  y marca como cambiados los 16 bloques que tocó el punto 44.
-- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 29 (con el `libro.json` y las Figuras 2 y 11 del punto 44). Su base tiene una sola anotación
+  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (43 secciones, 1069 bloques) está al día con las fuentes
+  y marca como cambiados los 17 bloques que tocó el punto 45.
+- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 30 (con el `libro.json` del punto 45). Su base tiene una sola anotación
   (Prefacio), resuelta y respondida: no hay anotaciones del autor esperando.
 
 ## Pendiente del autor
 
 - Final de la viñeta 6, viñetas 7 y 8, pasajes 38 y 39; los ítems 23, 29, 31, 47 y 52–57 de las recomendaciones.
 - Dos decisiones que dejó la evaluación del panel (`gestiones/evaluacion_multiparametrica_2026-10-16.md`): la viñeta 5,
-  sin evaluación de la capacidad de decidir, y la saturación de 89 % del Taller 2B, que en un EPOC está en su rango
-  objetivo. Las otras dos se resolvieron el 17 de octubre (README, punto 44): el ingreso de Carmen se rehízo con los
+  sin evaluación de la capacidad de decidir, y la saturación de 89 % del taller «Cinco hipótesis en tres minutos»
+  (Apéndice D), que en un EPOC está en su rango objetivo. Las otras dos se resolvieron el 17 de octubre (README, punto 44): el ingreso de Carmen se rehízo con los
   datos del autor, y la madrugada es ahora un umbral explícito y vigilado; las escenas en primera persona quedan como
   composiciones docentes, declaradas así en la página legal y en el Prefacio.
 - Lo que más subiría la nota, según el mismo panel: una pasada de producción en el generador (idioma `es-CL` y
@@ -54,6 +55,9 @@ cambie el estado o se tome una decisión.
   Prefacio); Carmen es un personaje compuesto. Las citas de Parra no se tocan. Terminología hospitalaria chilena y términos canónicos
   (`gestiones/terminos_canonicos.md`). Toda referencia se verifica antes de citarse (`fuentes/auditoria_evidencia.md`).
 - No hay techo de páginas (punto 37); las citas parentéticas no pasan a narrativa (punto 40).
+- Los talleres no van al final de cada capítulo: están reunidos en el Apéndice D, nombrados por su capítulo, con
+  «Una versión posible» o «Comentario» y sin tono de examen (punto 45). Una versión sólo en línea, como programa, queda
+  para cuando exista; ese apéndice sería su fuente.
 - El lector es un repo aparte y genérico; este libro sólo copia su página y fija su versión. En el lector: sin framework
   ni empaquetador, sin unificar el código repetido entre Python y JS; se aceptan dos límites conocidos (un documento
   armado a propósito para romper la página; `mypy` no ve una clave mal escrita del JSON). Que la página tenga un índice
