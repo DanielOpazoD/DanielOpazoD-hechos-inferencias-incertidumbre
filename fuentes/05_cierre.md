@@ -144,7 +144,7 @@ Esta guía condensa el capítulo 16 en un plan concreto para un servicio que qui
 ### Mes 3 en adelante: el circuito de aprendizaje
 
 - Reformatear una reunión de morbimortalidad al formato de la viñeta 6: reconstrucción por capas, con la información disponible en cada momento, sin nombres de sesgos como conclusión y con una barrera concreta como producto de cada sesión.
-- Ofrecer (voluntario, privado) el portafolio de calibración del Taller 5: hipótesis, confianza, alternativa, desenlace. Quien lo lleve tres meses tendrá el primer dato real sobre su propia calibración.
+- Ofrecer (voluntario, privado) el portafolio de calibración del capítulo 5: hipótesis, confianza, alternativa, desenlace. Quien lo lleve tres meses tendrá el primer dato real sobre su propia calibración.
 - Cerrar el circuito de feedback más barato disponible: una vía sistemática para enterarse del desenlace de derivaciones y altas inciertas (interconsulta con respuesta obligatoria, revisión quincenal de reconsultas a urgencias).
 
 ### Qué medir (sin inflar métricas)
@@ -153,18 +153,162 @@ Tres indicadores simples, auditables sobre una muestra mensual de fichas: propor
 
 ### Hoja de ruta para el docente
 
-Qué talleres usar con quién, en el orden en que rinden más. Salvo los que se sostienen en el tiempo (Talleres 5, 15 y 16), cada uno cabe en una reunión de treinta minutos.
+Qué talleres del Apéndice D usar con quién, en el orden en que rinden más; cada uno se nombra por su capítulo. Salvo los que se sostienen en el tiempo (los de los capítulos 5, 15 y 16), cada uno cabe en una reunión de treinta minutos.
 
-- **Interno y residente de primer año**: Taller 1 (qué tan hecho es este hecho), Taller 2 (la sentencia del TAC), Taller 4 (cinco frases para reescribir), Taller 10 (frecuencias naturales), Taller 11 (la observación activa, por escrito) y Taller 12B (conjugue los verbos). Enseñan el léxico y las capas antes que el juicio.
-- **Residente de segundo año en adelante**: Taller 3 (el mapa de lo que no sabemos), Taller 5 (calibración personal, sostenido tres meses), Taller 7 (reconstruir una trayectoria), Taller 8 (presentar sin la etiqueta), Taller 12 (desfosilizar una evolución), Taller 13 (traducir un desacuerdo) y Taller 15 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
-- **Jefe de servicio, docente y comité**: Taller 10B (las cuatro casillas), Taller 16 (rediseñar la visita de sala), Taller 17 (la autopsia de una respuesta de IA) y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
-- **Para todos, al cierre de un ciclo**: Taller 2B (cinco hipótesis en tres minutos) y Taller 18 (la prueba de Parra), que entrenan la generación y el oído.
+- **Interno y residente de primer año**: los talleres de los capítulos 1 (qué tan hecho es este hecho), 2 (la sentencia del TAC), 4 (cinco frases para reescribir), 10 (frecuencias naturales), 11 (la observación activa, por escrito) y 12 (conjugue los verbos). Enseñan el léxico y las capas antes que el juicio.
+- **Residente de segundo año en adelante**: los de los capítulos 3 (el mapa de lo que no sabemos), 5 (calibración personal, sostenido tres meses), 7 (reconstruir una trayectoria), 8 (presentar sin la etiqueta), 12 (desfosilizar una evolución), 13 (traducir un desacuerdo) y 15 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
+- **Jefe de servicio, docente y comité**: los de los capítulos 10 (las cuatro casillas), 16 (rediseñar la visita de sala) y 17 (la autopsia de una respuesta de IA), y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
+- **Para todos, al cierre de un ciclo**: los de los capítulos 2 (cinco hipótesis en tres minutos) y 18 (la prueba de Parra), que entrenan la generación y el oído.
 
-Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: Taller 4 en las semanas 1–2 (el lenguaje), Talleres 8 y 11 en las semanas 3–4 (la pausa en la visita de sala), Talleres 12 y 12B en el mes 2 (la ficha) y Taller 7 desde el mes 3, junto a la reunión de morbimortalidad; el resto, a demanda. Los «errores típicos» anotados en los Talleres 7, 8, 10 y 12B son lo que los grupos suelen responder primero; mostrarlos antes de la solución enseña por contraste.
+Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: el taller del capítulo 4 en las semanas 1–2 (el lenguaje), los de los capítulos 8 y 11 en las semanas 3–4 (la pausa en la visita de sala), los dos del capítulo 12 en el mes 2 (la ficha) y el del capítulo 7 desde el mes 3, junto a la reunión de morbimortalidad; el resto, a demanda. Los «errores típicos» anotados en los talleres de los capítulos 7, 8, 10 (frecuencias naturales) y 12 (conjugue los verbos) son lo que los grupos suelen responder primero; mostrarlos antes de la solución enseña por contraste.
 
-# Apéndice D. Las preguntas para la próxima visita
+# Apéndice D. Talleres
 
-Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, reunidas para la visita de sala, la entrega de turno o el portafolio de calibración del Taller 5. Tres por capítulo; una por semana basta. Ninguna pide más de dos minutos y todas se responden con un paciente concreto.
+Los ejercicios de este apéndice son para quien quiera practicar. Hay uno por capítulo, salvo en los capítulos 6, 9 y 14, que no tienen, y en los capítulos 2, 10 y 12, que tienen dos; cada uno lleva el número del capítulo cuyo concepto ejercita y rinde más después de leerlo. Casi todos se hacen por escrito, y muchos piden reescribir una frase clínica real. Ninguno tiene una respuesta única: lo que acompaña a cada uno muestra un camino, no el camino, y algunos anotan antes el error típico, lo que los grupos suelen responder primero. La hoja de ruta para el docente, al final del Apéndice C, propone cuáles usar con quién y en qué orden.
+
+#### Taller del capítulo 1. ¿Qué tan hecho es este hecho?
+
+Clasifique cada afirmación según el gradiente de facticidad (medido / observado por profesional / relato / heredado / ausencia inferida) y reescriba la que considere más frágil:
+
+1. «Lactato 3,9 mmol/L (04:15, arterial).»
+2. «Abdomen sin signos de irritación peritoneal.»
+3. «Alérgica a penicilina.»
+4. «Sin episodios previos de sangrado.»
+5. «La hernia no se dejó acomodar y el dolor era distinto al de otras veces.»
+
+*Solución comentada.* (1) Dato medido, con hora, unidad y origen de la muestra: el hecho de mayor verificabilidad externa de la lista. (2) Observación profesional: útil, pero sujeta a variabilidad interobservador y caducidad rápida; en un abdomen agudo dinámico, el examen físico de las 04:00 no garantiza el estado peritoneal de las 09:00 si no consigna quién examinó y bajo qué analgesia. (3) Registro heredado: casi ninguna ficha especifica quién documentó la alergia ni con qué clínica; exige reescribirse como «alergia a penicilina referida por la paciente (exantema cutáneo en la juventud, sin registro clínico verificable)». (4) Silencio documental o relato, según su fuente: «niega sangrados previos» (anamnesis) no equivale a «sin episodios de sangrado consignados en fichas previas» (revisión de registro). (5) Testimonio de la paciente con su carga fenomenológica intacta: irreemplazable como marcador de cambio respecto de su basal; debe conservarse entre comillas.
+
+#### Taller del capítulo 2. La sentencia del TAC
+
+El informe dice: «hernia incisional con asas dilatadas, sin signos de isquemia ni perforación». El residente escribió: «TAC descarta complicación». Reescriba la frase para que conserve (a) lo que la imagen mostró, (b) lo que la imagen no puede mostrar, y (c) la inferencia que de verdad autoriza.
+
+*Solución comentada.* Una formulación epistemológicamente rigurosa:
+
+> TAC de abdomen confirma obstrucción en hernia incisional sin signos actuales de necrosis transmural, perforación ni sufrimiento vascular mesentérico; por sensibilidad del método, la imagen no excluye isquemia mucosa incipiente ni predice recurrencia a corto plazo. Con la estabilización hemodinámica actual, la probabilidad de estrangulación irreversible es suficientemente baja para diferir cirugía de emergencia y mantener vigilancia activa
+
+La diferencia es operativa: «TAC descarta complicación» apaga las alarmas del equipo; la reescritura especifica qué amenaza sigue viva, qué parámetros obligan a reevaluar (reaparición del dolor, defensa abdominal, ascenso del lactato) y qué autoriza realmente el examen (no entrar a pabellón esta madrugada, no archivar el problema quirúrgico). Nótese el patrón general: el hallazgo negativo se limita al rendimiento del método y al momento; la conducta se justifica por umbral, no por exclusión ontológica.
+
+#### Taller del capítulo 2. Cinco hipótesis en tres minutos
+
+Un paciente con EPOC conocido consulta por disnea que no ha respondido a dos rondas de broncodilatadores en urgencias. La saturación es 89%, la auscultación muestra escasas sibilancias. Tome tres minutos y un papel: (a) genere al menos cinco hipótesis sin censurar ninguna, (b) escriba una reformulación del problema que no use la palabra «EPOC», (c) recién entonces pode con las cuatro preguntas de la prueba de resistencia.
+
+*Solución comentada.* Una lista generativa sin censura inicial incluye: tromboembolismo pulmonar (el EPOC y la inmovilidad aumentan el riesgo, y la escasez de sibilancias no explica una saturación de 89%), neumotórax secundario a ruptura de bula, edema pulmonar cardiogénico, neumonía basal oculta, síndrome coronario agudo con equivalente disneico, anemia severa o fatiga muscular respiratoria. La reformulación que replantea el problema (problem setting) es: «insuficiencia respiratoria hipoxémica aguda desproporcionada al broncoespasmo auscultado». Ese giro lingüístico desactiva el reflejo de indicar una tercera tanda de nebulizaciones y abre el espacio mental donde viven el TEP y el neumotórax. Nótese la secuencia: primero volumen divergente sin filtro —pues la autocensura temprana es el motor del cierre prematuro— y recién después poda severa contra los datos del caso. Tres minutos de generación libre cuestan mucho menos que veinticuatro horas de anclaje. La poda, con las cuatro preguntas de la prueba de resistencia: el dato más difícil de explicar con otra exacerbación de EPOC es una disnea que no cede con dos rondas de broncodilatadores y casi sin sibilancias, que es justo el hallazgo que la exacerbación haría esperar y no está. El tromboembolismo pulmonar y el neumotórax explican ambos datos y cambiarían la conducta (anticoagular, drenar), así que encabezan la lista; la neumonía, el edema pulmonar, el síndrome coronario y la anemia quedan a una radiografía, un electrocardiograma con troponina y un hemograma de distancia. También queda escrito qué cambiaría la jerarquía: un neumotórax en la radiografía la resuelve; su ausencia deja arriba al tromboembolismo.
+
+#### Taller del capítulo 3. El mapa de lo que no sabemos de Carmen
+
+Tome las cuatro dudas del equipo: (a) ¿por qué este episodio fue tan grave?, (b) ¿la bacteriemia vino del abdomen?, (c) ¿cuándo volverá a obstruirse?, (d) ¿resistirá una cirugía electiva? Clasifique cada una según la cartografía del capítulo 3 (reducible con examen / dependiente de evolución / irrelevante para la conducta inmediata / peligrosa si está equivocada / dependiente de valores).
+
+*Solución comentada.* (a) Parcialmente reducible y retrospectiva: revisar la cronología y la imagen ayuda, pero quedará un residuo fisiopatológico no demostrable que no bloquea la toma de decisiones hoy. (b) Parcialmente reducible mediante descarte de focos alternativos (urocultivo, revisión de catéteres): no exige certeza absoluta para completar el esquema antibiótico, pero su alta plausibilidad refuerza que el shock fue consecuencia directa del episodio obstructivo. (c) Aleatoria e irreductible mediante exámenes: ningún test predice el día del quinto atascamiento; es la incertidumbre **peligrosa** y dominante del caso, porque el costo del error (esperar y que se obstruya en su casa) puede ser letal. (d) Mixta (epistémica y axiológica): la espirometría y la evaluación preoperatoria reducen la duda biológica, pero el resto depende de los valores de Carmen —cuánto riesgo quirúrgico programado está dispuesta a asumir hoy para evitar una urgencia vital mañana—. La cartografía no adivina el futuro: ordena qué se mide, qué se vigila, qué se tolera y qué se delibera con la enferma.
+
+#### Taller del capítulo 4. Cinco frases para reescribir
+
+Reescriba cada frase para que la fuerza del lenguaje corresponda a la fuerza de la evidencia disponible (invente los mínimos datos verosímiles que necesite):
+
+1. «Se descarta tromboembolismo pulmonar.»
+2. «Neumonía que respondió a antibióticos.»
+3. «Paciente poco colaborador.»
+4. «ITU en tratamiento» (paciente sondado, urocultivo positivo, afebril, sin síntomas nuevos).
+5. «Fracaso de manejo médico.»
+
+*Solución comentada.* (1) «AngioTAC de tórax sin defectos de llenado hasta arterias segmentarias; con probabilidad clínica pretest intermedia y estabilidad hemodinámica, el valor predictivo negativo supera el umbral para no anticoagular y mantener vigilancia clínica» —separa la técnica, su alcance anatómico y la decisión por umbral—. (2) «Opacidad alveolar basal con defervescencia y caída de parámetros inflamatorios tras 72 h de ceftriaxona, oxigenoterapia y kinesioterapia respiratoria; neumonía bacteriana probable, respuesta microbiológica directa no demostrada» —distingue el hecho de la mejoría temporal de la atribución causal a un solo factor—. (3) «Paciente responde con monosílabos, se queja de dolor 8/10 y cursó con insomnio; anamnesis y examen físico limitados por dolor agudo no controlado» —reemplaza una etiqueta moralizante por una barrera clínica modificable—. (4) «Bacteriuria y piuria asintomática en portador crónico de sonda Foley, afebril y sin respuesta inflamatoria sistémica nueva: colonización probable; se difiere antibiótico y se definen criterios de alarma» —desactiva el reflejo de tratar el papel del laboratorio—. (5) «El manejo médico con reposo intestinal y descompresión por sonda nasogástrica tenía como meta recuperar tránsito en 48 h; al persistir débito alto al tercer día, se cumple criterio de resolución quirúrgica» —sustituye la retórica de «fracaso» por el cumplimiento de un umbral predefinido—.
+
+#### Taller del capítulo 5. Un experimento de calibración personal
+
+Llevar durante dos semanas el portafolio de calibración del capítulo 5: para cada diagnóstico de trabajo relevante, la hipótesis principal, la confianza aproximada, la alternativa que más preocupa y, cuando llegue, el desenlace. Al final, agrupar por la confianza declarada: de los diagnósticos anotados con 90%, ¿qué proporción se confirmó?
+
+*Solución comentada.* No hay solución única: el ejercicio produce el dato que la práctica cotidiana casi nunca devuelve. Los patrones típicos que emergen en ejercicios docentes: confianza declarada de 90% con tasa real de confirmación de 70–75% (sobreconfianza moderada, la más frecuente); dominios específicos sistemáticamente peor calibrados (los propios «cólicos renales» de cada uno); y alternativas anotadas que nunca se buscaron activamente. Quien repite el ejercicio dos o tres veces al año construye la serie que convierte experiencia en calibración.
+
+#### Taller del capítulo 7. Reconstruir una trayectoria, no asignar un sesgo
+
+Tome el error de la colecistitis narrado al inicio del capítulo 7 (o, mejor, un error propio que recuerde con suficiente detalle). Prohibido usar nombres de sesgos. Responda: (1) ¿qué información existía y en qué formato viajaba?, (2) ¿qué dato confirmatorio valía menos de lo que se le atribuyó, y por qué?, (3) ¿en qué momento exacto una señal discordante fue reinterpretada para encajar?, (4) ¿qué barrera —humana, escrita o tecnológica— habría interceptado el error, y cuánto habría costado tenerla?
+
+*Error típico.* En ejercicios docentes, la respuesta más frecuente viola la regla en la segunda línea: «hubo anclaje y sesgo de confirmación». Nombrar el sesgo se siente como análisis, pero no responde ninguna de las cuatro preguntas: no dice en qué formato viajaba la frase, por qué el urocultivo valía menos, en qué minuto «sigue decaída» se volvió «responde lento» ni qué barrera habría costado diez segundos. El sesgo es el nombre del desenlace; la trayectoria es lo que se puede cambiar.
+
+*Solución comentada.* Sobre el caso del capítulo 7: (1) «ITU a repetición» viajaba como antecedente sin procedencia —el formato (frase heredada en ficha) le daba más autoridad que su origen (nadie sabía quién la escribió ni con qué base). (2) El urocultivo: en una mujer de ochenta y dos años sin síndrome miccional, la bacteriuria tiene alta prevalencia basal; confirma poco cuando la probabilidad pretest de otra causa es sustancial. (3) El día 3: «sigue decaída» se convirtió en «responde lento», una reinterpretación que inmunizaba la hipótesis. (4) Dos barreras de bajo costo y alto impacto: dejar escrito un criterio de reapertura obligatorio al indicar el tratamiento empírico («si no recupera estado basal ni apetito en 48 h, reexaminar abdomen dirigido y solicitar pruebas hepáticas o imagen») e instituir en la visita médica de sala la pregunta de resistencia: «¿qué hallazgo de esta paciente no queda explicado por una infección urinaria?». La hipoactividad severa sin síndrome miccional era la pieza suelta. El análisis de trayectoria termina cuando se diseña la barrera operativa, no cuando se rotula el sesgo del médico.
+
+#### Taller del capítulo 8. Presentar sin la etiqueta
+
+Elija al paciente hospitalizado de su lista actual cuyo diagnóstico de ingreso lleve más días repitiéndose en las evoluciones sin ser cuestionado. Redacte su presentación en cinco líneas describiendo exclusivamente los hallazgos primarios, la línea temporal y el contexto basal, con prohibición estricta de usar el diagnóstico de trabajo o sus sinónimos. Luego responda: ¿qué dato discordante reapareció apenas quitó la etiqueta que lo mantenía subordinado?, ¿qué hipótesis alternativa se volvió visible?, ¿se sostiene el plan terapéutico actual frente a la nueva representación?
+
+*Error típico.* El sinónimo disfrazado: «cuadro infeccioso de origen urinario en tratamiento» cumple la prohibición de la palabra y viola su propósito, porque sigue organizando la percepción desde el diagnóstico. La presentación que funciona empieza por la persona y la línea temporal —lesión medular, sonda, recambio traumático, orina turbia, afebril— y deja que el oyente arme la hipótesis; si la etiqueta entra por la puerta de atrás, el ejercicio no ocurrió.
+
+*Solución comentada.* El ejercicio funciona por sustracción: la etiqueta organiza la percepción, y quitarla obliga a re-observar. En el caso de la cama 12, la reformulación hizo visible que (a) los «síntomas urinarios» eran inevaluables —dato clave que la palabra «pielonefritis» ocultaba—, (b) los marcadores inflamatorios tenían una explicación alternativa activa (neoplasia), y (c) la «buena respuesta» era atribuible al menos a dos causas. En la cama 12 eso cambió el plan: era una bacteriuria asociada a sonda, el antibiótico se suspendió y quedó una vigilancia con criterios de reapertura (capítulo 12). Otras veces el ejercicio no exige cambiar el tratamiento hoy; exige saber qué se vigila y qué reabriría el caso. Si al hacer el ejercicio con su propio paciente no reaparece ningún dato, enhorabuena: la etiqueta probablemente está bien puesta. El costo fueron cinco minutos; el beneficio, saberlo.
+
+#### Taller del capítulo 10. Frecuencias naturales con los números del servicio
+
+Elegir una prueba que el servicio pide a diario —un urocultivo, una troponina— y anotar, antes de calcular, qué proporción de sus resultados positivos parece corresponder a la enfermedad. Luego rehacer el cálculo del capítulo 10 sobre 1.000 pacientes, con la probabilidad pretest de quienes se estudian en el servicio y la sensibilidad y especificidad publicadas de la prueba.
+
+*Error típico.* Quien ya conoce la trampa responde «muy baja» sin calcular, y pasa de la sobreconfianza a la desconfianza sin pasar por el número. Las frecuencias naturales existen para que la respuesta sea una cifra y no una actitud.
+
+*Comentario.* La cifra que importa es la local. Saber qué proporción de los «urocultivos positivos» del propio servicio son infección suele ser más correctivo que cualquier lectura teórica.
+
+#### Taller del capítulo 10. Las cuatro casillas en cinco minutos
+
+Elija un paciente actual de su servicio con una decisión mayor pendiente —cirugía, ingreso a diálisis, conexión a ventilación mecánica o inicio de una nueva línea oncológica—. Dibuje en un papel las cuatro casillas de Jonsen: indicaciones médicas, preferencias del paciente, calidad de vida y rasgos contextuales. Complételas en cinco minutos utilizando únicamente lo que recuerda hoy, sin abrir la ficha clínica. Luego ábrala y contraste: ¿qué casilla quedó vacía, y ese vacío refleja una incógnita real del caso o una omisión en el estudio del paciente?
+
+*Solución comentada.* El ejercicio suele revelar dos hallazgos. Primero: mientras la casilla de indicaciones biomédicas se llena sin esfuerzo, las otras tres exhiben lagunas que no son opiniones discutibles sino hechos nunca recabados. Nadie preguntó con quién vive el paciente; la funcionalidad basal figura como «previamente autovalente» por arrastre documental, sin evaluación objetiva; y las preferencias registradas son presunciones de la familia, no la voz directa del enfermo. Segundo: completar las cuatro casillas rara vez cambia el aspecto técnico de la intervención, pero transforma de raíz la deliberación. Hace evidente con quién falta conversar, qué datos basales urge verificar y qué decisiones está tomando el equipo por pura inercia asistencial. Y cuando las cuatro casillas están completas y aun así persiste el desacuerdo, el ejercicio entrega un último diagnóstico crucial: el caso ya no requiere más exámenes; requiere deliberación estructurada y, a menudo, tiempo.
+
+#### Taller del capítulo 11. La observación activa, por escrito
+
+Un paciente con dolor abdominal inespecífico y exámenes iniciales tranquilizadores quedará hospitalizado o en urgencias «en observación». Redacte el plan en no más de cuatro líneas, de modo que la espera opere como una intervención diagnóstica estructurada y no como una postergación pasiva.
+
+*Solución comentada.* Una formulación defendible es:
+
+> Observación clínica activa por dolor abdominal agudo en estudio, con probabilidad pretest baja pero no excluida de patología quirúrgica. Plan: reevaluación abdominal presencial a las 4 h (o antes si presenta dolor en ascenso, vómitos, fiebre o taquicardia >100 lpm); control de parámetros inflamatorios a las 6 h. Si el dolor migra o localiza, aparece irritación peritoneal o no tolera prueba de vía oral, avisar al médico de turno de inmediato para solicitar tomografía. Si a las 8 h permanece afebril, sin dolor a la deambulación y tolerando régimen líquido, proceder al alta con pauta escrita de signos de alarma.
+
+Esta estructura explicita los cuatro pilares que validan al tiempo como prueba diagnóstica. Qué se busca evaluar: la trayectoria del dolor y la tolerancia oral. En qué ventana: 4 a 8 horas. Qué variables gatillan acción, con plazos y responsables definidos. Y cuáles son las salidas en ambas direcciones: escalar el estudio o dar el alta. Compárese con la anotación habitual «control según evolución», una fórmula vacía que delega en el azar lo que debía quedar gobernado por el diseño del plan.
+
+#### Taller del capítulo 12. Desfosilizar una evolución
+
+La siguiente nota se ha copiado casi idéntica durante cinco días seguidos: «Paciente cursando neumonía en tratamiento antibiótico, hemodinamia estable, afebril, se mantiene manejo». Al quinto día, los datos reales en la hoja de enfermería y en el sistema son otros. Sigue afebril, pero el requerimiento de oxígeno subió de 2 a 4 L/min en 48 horas, la PCR está estacionaria (180→165 mg/L) y hay un derrame pleural nuevo en la radiografía de tórax de control. Reescriba la evolución del día 5 aplicando la estructura HII-D.
+
+*Solución comentada.* La evolución desfosilizada:
+
+> *Hechos:* día 5 de tratamiento antibiótico por neumonía adquirida en la comunidad. Afebril desde el día 2 y normotenso, pero con deterioro del intercambio gaseoso (requerimiento de O2 por naricera en ascenso de 2 a 4 L/min en 48 h), PCR estancada (180→165 mg/L) y aparición de derrame pleural ipsilateral en la radiografía de hoy. *Inferencia:* evolución clínica y radiológica discordante con una neumonía en resolución; alta probabilidad de derrame paraneumónico complicado o empiema; falla de cobertura antimicrobiana o diagnóstico alternativo pasan a ser posibles. *Incertidumbre:* naturaleza fisicoquímica y microbiológica del líquido pleural desconocida hasta su punción; la ausencia de fiebre no excluye una colección supurada. *Decisión:* toracocentesis diagnóstica hoy, guiada por ecografía, y ajuste del esquema según el estudio del líquido; si el procedimiento no se concreta en 24 h, interconsulta a cirugía de tórax. Criterio de reapertura inmediata: cualquier incremento adicional en el aporte de oxígeno o taquipnea progresiva obliga a adelantar el drenaje.
+
+Nótese que la nota copiada durante cinco días no contenía mentiras literales —el paciente seguía afebril y normotenso—, pero operaba como un fósil narrativo: describía la fisiología del día 2 ignorando la trayectoria del día 5. Desfosilizar la evolución no exigió inventar datos sofisticados, sino dejar de omitir las tendencias que ya estaban a la vista.
+
+#### Taller del capítulo 12. Conjugue los verbos
+
+Tome su última evolución de una línea —«X en tratamiento, estable»— y escriba primero las preguntas que esconde (al menos seis). Después, reescríbala como ficha de proceso en no más de ocho líneas, con los verbos: sospecho, dudé, descarto, priorizo, infiero, realizo, comprobaré, repetiré, aprendí.
+
+*Error típico.* La ficha de proceso conjugada en pasiva y sin sujeto: «se sospechó», «se descartó», «se comprobará». Los verbos están, pero nadie los ejecuta, y «se comprobará» sin fecha ni responsable es «control según evolución» con mejor vocabulario. El segundo error es el inventario: nueve verbos usados una vez cada uno y en orden, como lista de asistencia, cuando el caso real necesitaba tres «dudé» y ningún «repetiré».
+
+*Solución comentada.* No hay solución única. El ejercicio suele mostrar tres cosas. La mitad de las preguntas escondidas nunca se formularon: nadie dudó de nada porque nadie preguntó. «Descarté» casi nunca viene con método. Y «comprobaré» es el verbo que más cuesta conjugar, porque obliga a predecir y a ponerle fecha a la predicción. Si la ficha de proceso no cabe en ocho líneas, está describiendo y no decidiendo: no es la ficha clínica completa, es el esqueleto de las decisiones. Y si cabe en dos, probablemente faltan verbos: una nota sin «dudé» ni «comprobaré» es una ficha de resultados con otro formato.
+
+#### Taller del capítulo 13. Traducir un desacuerdo
+
+En la entrega de turno de la mañana, al discutir el caso de Carmen, el intensivista plantea: «Yo la operaría en esta hospitalización; si la mandamos a la casa, esto se va a volver a obstruir». La internista replica: «Operarla ahora me parece apresurado; acaba de salir de un shock séptico grave». Traduzca esta fricción verbal a proposiciones evaluables: ¿están discrepando en los hechos, en las inferencias, en la incertidumbre, en los valores o en el umbral de decisión?
+
+*Solución comentada.* Cuando el desacuerdo se desarma por capas, el conflicto aparente cambia de naturaleza. En los **hechos** no existe disputa alguna: ambos conocen los cuatro episodios en el año, el shock reciente y la tomografía sin isquemia. En la **inferencia** pronóstica coinciden mucho más de lo que su tono sugiere: ambos estiman como altamente probable una nueva recurrencia obstructiva a corto o mediano plazo. La divergencia real está en dos puntos. Primero, en una **incertidumbre** epistémica reducible: cuánto eleva el riesgo perioperatorio el shock recién resuelto, una duda que no se dirime con opiniones en la entrega de turno sino con una evaluación funcional y preoperatoria formal. Segundo, en el **umbral de decisión**: cuánto riesgo quirúrgico programado es razonable asumir hoy para evitar el riesgo incierto de una urgencia futura. Esa ponderación exige los **valores** y temores de la propia Carmen, que aún no ha sido escuchada. Traducida la discusión a esta matriz, el plan de trabajo se redacta solo: objetivar la capacidad funcional, optimizar su condición respiratoria y nutricional, y sentarse a conversar con Carmen sobre ambos escenarios de riesgo. Ninguno de los dos médicos «ganó» la discusión: el equipo utilizó el desacuerdo para diagnosticar qué información le faltaba.
+
+#### Taller del capítulo 15. Su paciente, esta semana
+
+Elija el caso más incómodo de su lista actual —el que genera discusión en cada visita o el que nadie discute hace días— y complete por escrito la plantilla condensada del Apéndice A. Después compárela con la última evolución de la ficha: ¿qué contiene la plantilla que la ficha no registra?
+
+*Solución comentada.* No hay solución única, pero hay un patrón casi universal al comparar: la ficha suele contener los hechos y la decisión, y omitir las dos capas intermedias —el grado de la inferencia («neumonía» sin «probable/demostrada») y la incertidumbre crítica con su vigilancia—. Es decir: registra qué se piensa y qué se hace, pero no cuánto derecho hay a pensarlo ni qué lo haría cambiar. Si su plantilla y su ficha coinciden, este libro le debe una disculpa por las horas invertidas. Si no coinciden, la plantilla acaba de mostrarle qué escribir mañana.
+
+#### Taller del capítulo 16. Rediseñar la visita de sala
+
+Describa por escrito la visita de sala de su servicio tal como ocurre de verdad: minutos por paciente, quién habla, qué se pregunta siempre y qué no se pregunta nunca. Luego rediséñela con tres cambios como máximo —un disparador objetivo de pausa, una pregunta obligatoria por paciente inestable o incierto, una regla de entrega de turno— y estime el costo en minutos por visita.
+
+*Solución comentada.* A modo de ejemplo, una descripción honesta puede parecerse a esto: dos a cuatro minutos por paciente, habla quien presenta y decide quien dirige, se pregunta «¿cómo está?» y «¿qué le falta?», y casi nunca «¿qué nos haría cambiar?». El rediseño más barato es esa tercera pregunta, hecha sólo a los pacientes que cumplen un disparador (reconsulta, discordancia entre gravedad y diagnóstico, 72 horas sin discusión): cuesta alrededor de un minuto por caso seleccionado y produce, de inmediato, criterios de reapertura que antes no existían. Si el rediseño necesita más de tres cambios o más de diez minutos por visita, probablemente está diseñando una reunión nueva en lugar de mejorar la que existe — y las reuniones nuevas mueren por inasistencia.
+
+#### Taller del capítulo 17. La autopsia de una respuesta
+
+Tome un caso real ya resuelto de su servicio —debidamente anonimizado— y péguelo en un asistente de lenguaje pidiendo evaluación y plan. Imprima la respuesta y márquela con tres colores: (1) afirmaciones sustentadas en datos que el caso contenía; (2) contenido que el modelo agregó — detalles «típicos», causalidades, datos que nadie le dio; (3) incertidumbre declarada. Después, haga una segunda pregunta al modelo: «¿qué evidencia haría improbable tu diagnóstico principal?».
+
+*Solución comentada.* En ejercicios docentes, tres hallazgos vuelven una y otra vez. Primero, el color 2 aparece más de lo esperado: el modelo rellena huecos con verosimilitud — una evolución «esperable», un factor de riesgo «presumible» — y esa es la definición de confabulación; contarlas cura más que leer sobre ellas. Segundo, el color 3 suele ser genérico («se sugiere correlacionar con la clínica») y no específico del caso: incertidumbre de fórmula, no de contenido — compárela con la que exige el léxico de certeza. Tercero, la respuesta a la segunda pregunta suele ser mejor que la primera: el modelo enumera con soltura los datos que refutarían su propia propuesta — pero sólo si alguien se lo pide. La herramienta contiene su propio antídoto; la pregunta que lo libera sigue siendo humana.
+
+#### Taller del capítulo 18. La prueba de Parra
+
+Tome la frase medular de su paciente más reciente y sométala a dos preguntas. Primera: ¿hay en ella alguna palabra huidobriana — que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión — y si al traducirla se desinfla, qué la sostenía: la evidencia o la retórica?
+
+*Solución comentada.* Ejemplo: «Shock séptico de foco urinario, descartándose foco abdominal». Prueba uno: «de foco urinario» hace florecer una causal (¿demostrada o presunta?), y «descartándose» es un gerundio que promete lo que todavía no ocurrió — dos rosas creadas en ocho palabras. Prueba dos, en lengua parriana: «Shock con urocultivo positivo; foco urinario probable; abdomen aún sin imagen». La segunda versión es menos imponente y más útil: sobrevive a la visita de la mañana. Si su frase pasa las dos pruebas, tiene lo que aquí se entiende por estilo: exactitud que se puede defender en voz alta.
+
+# Apéndice E. Las preguntas para la próxima visita
+
+Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, reunidas para la visita de sala, la entrega de turno o el portafolio de calibración del capítulo 5. Tres por capítulo; una por semana basta. Ninguna pide más de dos minutos y todas se responden con un paciente concreto.
 
 **Introducción**
 
@@ -438,7 +582,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Documentación defensiva — 14
 - Ensombrecimiento diagnóstico — CC (viñeta 8)
 - Errores asimétricos — 10, CC (viñeta 3)
-- Errores típicos en los talleres — 7, 8, 10, 12
+- Errores típicos en los talleres — Ap D
 - Escribas ambientales (regla «la capa H sí, la capa D no») — 17
 - Estado de verificación de un diagnóstico en la ficha electrónica — 12
 - Estado del razonador (esfuerzo, sueño, ánimo; turnos como condición epistémica) — 8, 16, Ap A
@@ -447,7 +591,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Falsabilidad del método HII-D — 15
 - Feedback diagnóstico — 5, 16, Ap C
 - Ficha como dispositivo que produce lo visible (Foucault) — 12
-- Ficha de proceso vs. ficha de resultados (los verbos del razonamiento) — 12; Taller 12B
+- Ficha de proceso vs. ficha de resultados (los verbos del razonamiento) — 12, Ap D
 - Fichas clínicas y plantillas — 12, 16, Ap C; ficha electrónica pensada desde HII-D — 12
 - Formación clínica en la era de la IA (deskilling, never-skilling, mis-skilling) — 17
 - Fragilidad y funcionalidad como hechos clínicos — 10, 15, Ap A
@@ -478,17 +622,18 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Nota clínica generada por IA (degradación del registro) — 17
 - Nota de enfermería como hecho clínico — 13
 - Objetividad entre paréntesis y observador (Maturana) — 1; emociones como dominio de acción — 8
-- Observación activa — 11
+- Observación activa — 11, Ap D
 - Paradoja de la automatización — 17
 - Pausa diagnóstica — 8, 16, Ap B, Ap C
 - Pericia y práctica deliberada — 6
 - Phronesis — 6, 14
 - Poesía y juicio clínico (Huidobro, Parra; belleza como señal y trampa) — 18
-- Preguntas para la próxima visita (reunidas) — Ap D
+- Portafolio de calibración — 5, 8, 14, 16, Ap C, Ap D
+- Preguntas para la próxima visita (reunidas) — Ap E
 - Pronóstico e incertidumbre de plazo — CC (viñeta 5)
 - Proporcionalidad terapéutica (Taboada) — 10, 15, CC (viñeta 5)
 - Proteína C reactiva: cinética y lectura temporal — 11, 12
-- Prueba de Parra (Taller 18) — 18
+- Prueba de Parra (taller del capítulo 18) — Ap D
 - Pruebas severas (Popper) — 2
 - Puntos de inflexión — 11, Interludio III
 - Red de seguridad (safety-netting) — 11, CC (viñetas 3, 4 y 7)
@@ -502,6 +647,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Sesgos cognitivos: alcance y límites del vocabulario — 7
 - Sobreconfianza — 5, 7
 - Sobreestudio e intervenciones innecesarias — 3
+- Talleres (ejercicios por capítulo) — Ap D
 - Tarjeta HII-D en sesenta segundos — última página
 - Testimonio del paciente — 1, 14; epistemología del testimonio (Coady, Lackey) — 14; testimonio de terceros y cuidadores — CC (viñeta 7)
 - Trayectoria del error (estaciones y barreras) — 7
@@ -525,7 +671,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Figura 9. Una década sobre un mismo dato (Capítulo 9).
 - Figura 10. El enfoque de umbrales de Pauker y Kassirer (Capítulo 10).
 - Figura 11. La línea de tiempo de Carmen y el umbral que se mueve (Capítulo 10).
-- Figura 12. El cálculo del Taller 10 en frecuencias naturales (Capítulo 10).
+- Figura 12. El cálculo en frecuencias naturales (Capítulo 10).
 - Figura 13. El viaje de una frase (Capítulo 12).
 - Figura 14. El método HII-D en una página (Capítulo 15).
 - Figura 15. Parentescos: cada riesgo de la IA clínica junto al sesgo ya descrito (Capítulo 17).

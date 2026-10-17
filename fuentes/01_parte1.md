@@ -70,18 +70,6 @@ Los hallazgos negativos exigen especial cautela. «Sin peritonismo» puede signi
 
 Una práctica útil consiste en adjuntar mentalmente tres metadatos a cada hecho que sostiene una conclusión importante: **fuente** (¿quién lo produjo: el paciente, un profesional, un instrumento, una nota anterior?), **momento** (¿cuándo, y qué ha pasado desde entonces?) y **método** (¿con qué sensibilidad y en qué condiciones?). Cuando una conclusión depende de un dato frágil, esa fragilidad debe elevarse a la formulación del problema. La trazabilidad no agrega burocracia cuando está bien hecha: permite que otro clínico pueda reconstruir el juicio, detectar dónde cambiaría y evitar que una frase repetida adquiera autoridad sólo por antigüedad.
 
-#### Taller 1. ¿Qué tan hecho es este hecho?
-
-Clasifique cada afirmación según el gradiente de facticidad (medido / observado por profesional / relato / heredado / ausencia inferida) y reescriba la que considere más frágil:
-
-1. «Lactato 3,9 mmol/L (04:15, arterial).»
-2. «Abdomen sin signos de irritación peritoneal.»
-3. «Alérgica a penicilina.»
-4. «Sin episodios previos de sangrado.»
-5. «La hernia no se dejó acomodar y el dolor era distinto al de otras veces.»
-
-*Solución comentada.* (1) Dato medido, con hora, unidad y origen de la muestra: el hecho de mayor verificabilidad externa de la lista. (2) Observación profesional: útil, pero sujeta a variabilidad interobservador y caducidad rápida; en un abdomen agudo dinámico, el examen físico de las 04:00 no garantiza el estado peritoneal de las 09:00 si no consigna quién examinó y bajo qué analgesia. (3) Registro heredado: casi ninguna ficha especifica quién documentó la alergia ni con qué clínica; exige reescribirse como «alergia a penicilina referida por la paciente (exantema cutáneo en la juventud, sin registro clínico verificable)». (4) Silencio documental o relato, según su fuente: «niega sangrados previos» (anamnesis) no equivale a «sin episodios de sangrado consignados en fichas previas» (revisión de registro). (5) Testimonio de la paciente con su carga fenomenológica intacta: irreemplazable como marcador de cambio respecto de su basal; debe conservarse entre comillas.
-
 **En una frase.** Un hecho clínico vale lo que vale su procedencia: fuente, momento, método y límites deben viajar con la afirmación.
 
 **Tres preguntas para la próxima visita.**
@@ -149,22 +137,6 @@ La abducción propone las explicaciones y la prueba de resistencia retiene la m�
 
 Una inferencia gana calidad cuando produce compromisos observables: «si esta explicación es correcta, debería mejorar X antes de Y», «esperaría encontrar Z», «la ausencia persistente de W disminuiría su probabilidad». Estos compromisos evitan que la hipótesis se vuelva inmune a la experiencia. También hacen posible una revisión prospectiva, menos contaminada por el desenlace conocido. El buen razonamiento no se limita a contar una historia coherente; especifica qué realidad podría desmentirla.
 
-#### Taller 2. La sentencia del TAC
-
-El informe dice: «hernia incisional con asas dilatadas, sin signos de isquemia ni perforación». El residente escribió: «TAC descarta complicación». Reescriba la frase para que conserve (a) lo que la imagen mostró, (b) lo que la imagen no puede mostrar, y (c) la inferencia que de verdad autoriza.
-
-*Solución comentada.* Una formulación epistemológicamente rigurosa:
-
-> TAC de abdomen confirma obstrucción en hernia incisional sin signos actuales de necrosis transmural, perforación ni sufrimiento vascular mesentérico; por sensibilidad del método, la imagen no excluye isquemia mucosa incipiente ni predice recurrencia a corto plazo. Con la estabilización hemodinámica actual, la probabilidad de estrangulación irreversible es suficientemente baja para diferir cirugía de emergencia y mantener vigilancia activa
-
-La diferencia es operativa: «TAC descarta complicación» apaga las alarmas del equipo; la reescritura especifica qué amenaza sigue viva, qué parámetros obligan a reevaluar (reaparición del dolor, defensa abdominal, ascenso del lactato) y qué autoriza realmente el examen (no entrar a pabellón esta madrugada, no archivar el problema quirúrgico). Nótese el patrón general: el hallazgo negativo se limita al rendimiento del método y al momento; la conducta se justifica por umbral, no por exclusión ontológica.
-
-#### Taller 2B. Cinco hipótesis en tres minutos
-
-Un paciente con EPOC conocido consulta por disnea que no ha respondido a dos rondas de broncodilatadores en urgencias. La saturación es 89%, la auscultación muestra escasas sibilancias. Tome tres minutos y un papel: (a) genere al menos cinco hipótesis sin censurar ninguna, (b) escriba una reformulación del problema que no use la palabra «EPOC», (c) recién entonces pode con las cuatro preguntas de la prueba de resistencia.
-
-*Solución comentada.* Una lista generativa sin censura inicial incluye: tromboembolismo pulmonar (el EPOC y la inmovilidad aumentan el riesgo, y la escasez de sibilancias no explica una saturación de 89%), neumotórax secundario a ruptura de bula, edema pulmonar cardiogénico, neumonía basal oculta, síndrome coronario agudo con equivalente disneico, anemia severa o fatiga muscular respiratoria. La reformulación que replantea el problema (problem setting) es: «insuficiencia respiratoria hipoxémica aguda desproporcionada al broncoespasmo auscultado». Ese giro lingüístico desactiva el reflejo de indicar una tercera tanda de nebulizaciones y abre el espacio mental donde viven el TEP y el neumotórax. Nótese la secuencia: primero volumen divergente sin filtro —pues la autocensura temprana es el motor del cierre prematuro— y recién después poda severa contra los datos del caso. Tres minutos de generación libre cuestan mucho menos que veinticuatro horas de anclaje. La poda, con las cuatro preguntas de la prueba de resistencia: el dato más difícil de explicar con otra exacerbación de EPOC es una disnea que no cede con dos rondas de broncodilatadores y casi sin sibilancias, que es justo el hallazgo que la exacerbación haría esperar y no está. El tromboembolismo pulmonar y el neumotórax explican ambos datos y cambiarían la conducta (anticoagular, drenar), así que encabezan la lista; la neumonía, el edema pulmonar, el síndrome coronario y la anemia quedan a una radiografía, un electrocardiograma con troponina y un hemograma de distancia. También queda escrito qué cambiaría la jerarquía: un neumotórax en la radiografía la resuelve; su ausencia deja arriba al tromboembolismo.
-
 **En una frase.** Inferir es proponer la mejor explicación disponible sabiendo que es una apuesta graduada, no un hecho que la realidad ya entregó.
 
 **Tres preguntas para la próxima visita.**
@@ -219,12 +191,6 @@ Puede existir alta incertidumbre epistémica y fuerte compromiso práctico. «No
 Reconocer incertidumbre no disminuye la responsabilidad; la hace más precisa. El médico responde por buscar la información razonablemente accesible, interpretar con competencia, comunicar límites y establecer una estrategia de reevaluación — no por volver determinista un mundo que no lo es.
 
 > La incertidumbre no es el espacio vacío entre los hechos y la decisión; es una dimensión positiva del caso que debe describirse y gobernarse.
-
-#### Taller 3. El mapa de lo que no sabemos de Carmen
-
-Tome las cuatro dudas del equipo: (a) ¿por qué este episodio fue tan grave?, (b) ¿la bacteriemia vino del abdomen?, (c) ¿cuándo volverá a obstruirse?, (d) ¿resistirá una cirugía electiva? Clasifique cada una según la cartografía del capítulo (reducible con examen / dependiente de evolución / irrelevante para la conducta inmediata / peligrosa si está equivocada / dependiente de valores).
-
-*Solución comentada.* (a) Parcialmente reducible y retrospectiva: revisar la cronología y la imagen ayuda, pero quedará un residuo fisiopatológico no demostrable que no bloquea la toma de decisiones hoy. (b) Parcialmente reducible mediante descarte de focos alternativos (urocultivo, revisión de catéteres): no exige certeza absoluta para completar el esquema antibiótico, pero su alta plausibilidad refuerza que el shock fue consecuencia directa del episodio obstructivo. (c) Aleatoria e irreductible mediante exámenes: ningún test predice el día del quinto atascamiento; es la incertidumbre **peligrosa** y dominante del caso, porque el costo del error (esperar y que se obstruya en su casa) puede ser letal. (d) Mixta (epistémica y axiológica): la espirometría y la evaluación preoperatoria reducen la duda biológica, pero el resto depende de los valores de Carmen —cuánto riesgo quirúrgico programado está dispuesta a asumir hoy para evitar una urgencia vital mañana—. La cartografía no adivina el futuro: ordena qué se mide, qué se vigila, qué se tolera y qué se delibera con la enferma.
 
 **En una frase.** No hay una incertidumbre sino varias: distinguir cuál se reduce, cuál se vigila, cuál se tolera y cuál se conversa es parte del trabajo clínico, no su fracaso.
 
@@ -304,18 +270,6 @@ La sintaxis misma funciona como un registro de auditoría causal. Escribir «sho
 Los verbos cumplen una función epistémica: «muestra» y «documenta» se reservan para evidencia directa; «apoya» expresa contribución; «sugiere» reconoce interpretación; «explica» compromete una relación más fuerte; «no excluye» delimita el rendimiento negativo. Los adverbios de certeza sólo son útiles si corresponden a criterios compartidos. Sin ellos, «probablemente» puede significar desde una intuición leve hasta una convicción casi definitiva.
 
 La escritura clínica mejora cuando cada oración responde una pregunta: ¿qué ocurrió?, ¿qué significa?, ¿cuánto respaldo tiene?, ¿por qué importa ahora? Una frase que intenta responderlas todas sin marcadores suele mezclar niveles. Separar no empobrece la prosa. Hace visible el razonamiento y permite que la discrepancia futura se localice con precisión.
-
-#### Taller 4. Cinco frases para reescribir
-
-Reescriba cada frase para que la fuerza del lenguaje corresponda a la fuerza de la evidencia disponible (invente los mínimos datos verosímiles que necesite):
-
-1. «Se descarta tromboembolismo pulmonar.»
-2. «Neumonía que respondió a antibióticos.»
-3. «Paciente poco colaborador.»
-4. «ITU en tratamiento» (paciente sondado, urocultivo positivo, afebril, sin síntomas nuevos).
-5. «Fracaso de manejo médico.»
-
-*Solución comentada.* (1) «AngioTAC de tórax sin defectos de llenado hasta arterias segmentarias; con probabilidad clínica pretest intermedia y estabilidad hemodinámica, el valor predictivo negativo supera el umbral para no anticoagular y mantener vigilancia clínica» —separa la técnica, su alcance anatómico y la decisión por umbral—. (2) «Opacidad alveolar basal con defervescencia y caída de parámetros inflamatorios tras 72 h de ceftriaxona, oxigenoterapia y kinesioterapia respiratoria; neumonía bacteriana probable, respuesta microbiológica directa no demostrada» —distingue el hecho de la mejoría temporal de la atribución causal a un solo factor—. (3) «Paciente responde con monosílabos, se queja de dolor 8/10 y cursó con insomnio; anamnesis y examen físico limitados por dolor agudo no controlado» —reemplaza una etiqueta moralizante por una barrera clínica modificable—. (4) «Bacteriuria y piuria asintomática en portador crónico de sonda Foley, afebril y sin respuesta inflamatoria sistémica nueva: colonización probable; se difiere antibiótico y se definen criterios de alarma» —desactiva el reflejo de tratar el papel del laboratorio—. (5) «El manejo médico con reposo intestinal y descompresión por sonda nasogástrica tenía como meta recuperar tránsito en 48 h; al persistir débito alto al tercer día, se cumple criterio de resolución quirúrgica» —sustituye la retórica de «fracaso» por el cumplimiento de un umbral predefinido—.
 
 **En una frase.** La gramática de la frase clínica debe corresponder a la arquitectura de la evidencia: eso la vuelve auditable y convierte la escritura en metacognición.
 

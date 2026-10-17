@@ -181,12 +181,6 @@ HII-D no sustituye protocolos, guías, probabilidades cuantitativas ni experienc
 
 El valor del método depende de una actitud: aceptar que la claridad no consiste en eliminar la complejidad, sino en ordenar qué tipo de conocimiento representa cada afirmación.
 
-#### Taller 15. Su paciente, esta semana
-
-Elija el caso más incómodo de su lista actual —el que genera discusión en cada visita o el que nadie discute hace días— y complete por escrito la plantilla condensada del Apéndice A. Después compárela con la última evolución de la ficha: ¿qué contiene la plantilla que la ficha no registra?
-
-*Solución comentada.* No hay solución única, pero hay un patrón casi universal al comparar: la ficha suele contener los hechos y la decisión, y omitir las dos capas intermedias —el grado de la inferencia («neumonía» sin «probable/demostrada») y la incertidumbre crítica con su vigilancia—. Es decir: registra qué se piensa y qué se hace, pero no cuánto derecho hay a pensarlo ni qué lo haría cambiar. Si su plantilla y su ficha coinciden, este libro le debe una disculpa por las horas invertidas. Si no coinciden, la plantilla acaba de mostrarle qué escribir mañana.
-
 **En una frase.** HII-D es el libro entero plegado en una hoja: pregunta, hechos con procedencia, inferencias graduadas, incertidumbre priorizada, decisión por umbral y reapertura programada.
 
 **Tres preguntas para la próxima visita.**
@@ -372,7 +366,7 @@ Debe evitarse el hindsight bias. El desenlace no convierte automáticamente en o
 
 La forma privada es el feedback diagnóstico: los médicos necesitan saber qué ocurrió con pacientes derivados, dados de alta o transferidos. Sistemas simples pueden devolver diagnósticos finales, resultados discrepantes, reconsultas y cambios terapéuticos. La calibración requiere series, no recuerdos aislados.
 
-Un portafolio privado puede registrar: hipótesis principal, confianza aproximada, alternativa relevante, desenlace y aprendizaje. No busca puntuar moralmente; busca detectar patrones: sobreconfianza en un dominio, subestimación de recurrencias, tendencia a tratar cultivos sin síndrome o dificultad para reconocer diagnósticos funcionales. El Taller 5 es su versión mínima. El portafolio como instrumento docente tiene además desarrollo propio en la educación médica latinoamericana, incluida la validación en español de instrumentos para evaluar su uso (Riquelme et al., 2011).
+Un portafolio privado puede registrar: hipótesis principal, confianza aproximada, alternativa relevante, desenlace y aprendizaje. No busca puntuar moralmente; busca detectar patrones: sobreconfianza en un dominio, subestimación de recurrencias, tendencia a tratar cultivos sin síndrome o dificultad para reconocer diagnósticos funcionales. El portafolio de calibración del capítulo 5 es su versión mínima. El portafolio como instrumento docente tiene además desarrollo propio en la educación médica latinoamericana, incluida la validación en español de instrumentos para evaluar su uso (Riquelme et al., 2011).
 
 La tercera palanca es la ficha, y su primera forma es la plantilla. Las plantillas de ficha pueden apoyar o degradar el pensamiento. Campos obligatorios interminables producen copia; campos demasiado libres ocultan información crítica. Una plantilla equilibrada incluye problema, hechos nuevos, evaluación con grado de certeza, plan y criterios de reapertura. La tecnología debería facilitar comparación temporal y procedencia de datos, no sólo acumular texto.
 
@@ -387,12 +381,6 @@ La metacognición no reemplaza conocimiento, técnica ni ética. Los coordina. P
 La medicina del futuro necesitará profesionales capaces de trabajar con información creciente, equipos complejos e inteligencia artificial. La competencia decisiva no será sólo producir más respuestas, sino reconocer qué tipo de respuesta se está produciendo y qué evidencia le da derecho a orientar una acción.
 
 Enseñar metacognición es enseñar una relación con el conocimiento: suficiente confianza para actuar, suficiente humildad para revisar y suficiente precisión para explicar por qué.
-
-#### Taller 16. Rediseñar la visita de sala
-
-Describa por escrito la visita de sala de su servicio tal como ocurre de verdad: minutos por paciente, quién habla, qué se pregunta siempre y qué no se pregunta nunca. Luego rediséñela con tres cambios como máximo —un disparador objetivo de pausa, una pregunta obligatoria por paciente inestable o incierto, una regla de entrega de turno— y estime el costo en minutos por visita.
-
-*Solución comentada.* A modo de ejemplo, una descripción honesta puede parecerse a esto: dos a cuatro minutos por paciente, habla quien presenta y decide quien dirige, se pregunta «¿cómo está?» y «¿qué le falta?», y casi nunca «¿qué nos haría cambiar?». El rediseño más barato es esa tercera pregunta, hecha sólo a los pacientes que cumplen un disparador (reconsulta, discordancia entre gravedad y diagnóstico, 72 horas sin discusión): cuesta alrededor de un minuto por caso seleccionado y produce, de inmediato, criterios de reapertura que antes no existían. Si el rediseño necesita más de tres cambios o más de diez minutos por visita, probablemente está diseñando una reunión nueva en lugar de mejorar la que existe — y las reuniones nuevas mueren por inasistencia.
 
 **En una frase.** La metacognición clínica se enseña con representaciones y feedback, y se organiza con visitas de sala, fichas y revisiones diseñadas para hacer visible el pensamiento — no se decreta.
 
@@ -489,12 +477,6 @@ Las defensas individuales no bastan, porque varios riesgos del catálogo operan 
 
 > La IA puede ampliar el espacio de hipótesis; no puede asumir por sí sola la responsabilidad de transformar una hipótesis en conducta clínica.
 
-#### Taller 17. La autopsia de una respuesta
-
-Tome un caso real ya resuelto de su servicio —debidamente anonimizado— y péguelo en un asistente de lenguaje pidiendo evaluación y plan. Imprima la respuesta y márquela con tres colores: (1) afirmaciones sustentadas en datos que el caso contenía; (2) contenido que el modelo agregó — detalles «típicos», causalidades, datos que nadie le dio; (3) incertidumbre declarada. Después, haga una segunda pregunta al modelo: «¿qué evidencia haría improbable tu diagnóstico principal?».
-
-*Solución comentada.* En ejercicios docentes, tres hallazgos vuelven una y otra vez. Primero, el color 2 aparece más de lo esperado: el modelo rellena huecos con verosimilitud — una evolución «esperable», un factor de riesgo «presumible» — y esa es la definición de confabulación; contarlas cura más que leer sobre ellas. Segundo, el color 3 suele ser genérico («se sugiere correlacionar con la clínica») y no específico del caso: incertidumbre de fórmula, no de contenido — compárela con la que exige el léxico de certeza. Tercero, la respuesta a la segunda pregunta suele ser mejor que la primera: el modelo enumera con soltura los datos que refutarían su propia propuesta — pero sólo si alguien se lo pide. La herramienta contiene su propio antídoto; la pregunta que lo libera sigue siendo humana.
-
 **En una frase.** La IA generativa produce aquello contra lo que este libro entrena: prosa fluida donde hechos, inferencias e incertidumbre llegan mezclados — auditarla con HII-D es el mismo ejercicio que auditar la propia escritura.
 
 **Tres preguntas para la próxima visita.**
@@ -539,12 +521,6 @@ Si el parentesco es real, leer poesía no es un lujo cultural del médico, sino 
 No es casualidad que el investigador principal de la saga del capítulo 9 —el ensayo que enseñó a medio mundo a mirar la piel antes que el número— escriba también poesía. El oído que distingue una palabra que trabaja de una palabra que decora es el mismo que distingue un blanco de reanimación que informa de uno que sólo tranquiliza.
 
 > El poeta busca la palabra que vuelva visible una conexión; el clínico, la conexión que sobreviva cuando la palabra sea puesta a prueba. Ambos fracasan de la misma manera: cuando la frase queda más bella que verdadera.
-
-#### Taller 18. La prueba de Parra
-
-Tome la frase medular de su paciente más reciente y sométala a dos preguntas. Primera: ¿hay en ella alguna palabra huidobriana — que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión — y si al traducirla se desinfla, qué la sostenía: la evidencia o la retórica?
-
-*Solución comentada.* Ejemplo: «Shock séptico de foco urinario, descartándose foco abdominal». Prueba uno: «de foco urinario» hace florecer una causal (¿demostrada o presunta?), y «descartándose» es un gerundio que promete lo que todavía no ocurrió — dos rosas creadas en ocho palabras. Prueba dos, en lengua parriana: «Shock con urocultivo positivo; foco urinario probable; abdomen aún sin imagen». La segunda versión es menos imponente y más útil: sobrevive a la visita de la mañana. Si su frase pasa las dos pruebas, tiene lo que aquí se entiende por estilo: exactitud que se puede defender en voz alta.
 
 **En una frase.** La poesía y el juicio clínico comparten el arte de la conexión exacta y difieren en el tribunal — al poema lo juzga el oído, al diagnóstico lo juzga la evolución — y por eso la ficha lúcida se escribe con Parra, no con Huidobro.
 
