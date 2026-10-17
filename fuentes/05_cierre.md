@@ -465,6 +465,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Cascada de atención (cascade of care).** Secuencia de exámenes, interconsultas y procedimientos que desencadena un resultado o un hallazgo incidental, cuyo valor para el paciente es incierto.
 
+**Certeza de la evidencia (certainty of evidence).** En GRADE, la seguridad de que el efecto verdadero queda a un lado de un umbral elegido; se califica en cuatro niveles (alta, moderada, baja y muy baja) y antes se llamó «calidad de la evidencia».
+
 **Cierre prematuro (premature closure).** Aceptación de un diagnóstico antes de haberlo verificado suficientemente, con suspensión de la búsqueda de alternativas.
 
 **Cognición distribuida (distributed cognition).** Marco que estudia cómo el procesamiento de información se realiza a través de personas y artefactos coordinados, no sólo dentro de mentes individuales (Hutchins).
@@ -529,6 +531,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Incertidumbre aleatoria (aleatory uncertainty).** La que proviene de variabilidad o contingencia que persiste aun con conocimiento completo del sistema.
 
+**Incertidumbre de la enfermedad (uncertainty in illness).** Para Mishel, la incapacidad del paciente de determinar el significado de lo que le ocurre con su enfermedad: síntomas ambiguos, tratamientos complejos, información insuficiente, curso imprevisible.
+
 **Incertidumbre epistémica (epistemic uncertainty).** La que proviene de conocimiento insuficiente y puede, en principio, reducirse con información.
 
 **Incertidumbre que conviene dejar∗.** Duda clínica que ningún resultado disponible convertiría en un cambio de conducta, de vigilancia o de información que el paciente necesite. Se declara por escrito y no se persigue; no debe confundirse con la duda que, si estuviera equivocada, produciría daño grave, que obliga a buscar.
@@ -587,6 +591,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Testimonio (epistemología del; epistemology of testimony).** Estudio del conocimiento obtenido mediante informes de otros. Coady defendió la confianza por defecto como condición de todo conocimiento compartido; Lackey añadió la vigilancia activa del oyente. La anamnesis es su caso clínico paradigmático.
 
+**Tolerancia a la incertidumbre (uncertainty tolerance).** Disposición a reconocer y sobrellevar lo que no se sabe sin cerrarlo con una certeza ficticia; en los médicos se ha medido como estrés ante la incertidumbre y renuencia a revelarla (Gerrity).
+
 **Umbral de decisión (decision threshold).** Nivel de probabilidad sobre el cual una conducta (testear, tratar) supera a sus alternativas, dado el balance de daños y beneficios (Pauker y Kassirer).
 
 **Validez del entorno (high-validity environment).** Grado en que un ambiente de práctica ofrece regularidades estables entre señales y desenlaces, junto a oportunidad de aprenderlas con feedback oportuno; condición para que la intuición experta sea confiable (Kahneman y Klein).
@@ -615,6 +621,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Carga teórica de la observación — 1
 - Cascadas de atención y hallazgos incidentales — 11
 - Causalidad: puntos de vista de Hill — 16
+- Certeza de la evidencia (GRADE) y umbral — 3
 - Cierre prematuro — 2, 7, CC (viñeta 6)
 - Cognición distribuida — 14
 - Colectivo y estilo de pensamiento (Fleck) — 16
@@ -672,7 +679,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Illness scripts — 2, 6, 18
 - Improvisación y saber hacer (jazz; Limb y Braun) — 6
 - Incertidumbre que conviene dejar — 3, 11
-- Incertidumbre: taxonomía y cartografía — 3; epistémica y aleatoria — 3; knightiana — 3
+- Incertidumbre: taxonomía y cartografía — 3; epistémica y aleatoria — 3; knightiana — 3; del paciente (Mishel) — 3; de la evidencia (GRADE) — 3
 - Injusticia epistémica — 15, CC (viñetas 6 y 8)
 - Inteligencia artificial: rol diagnóstico y terapéutico, catálogo de riesgos, defensas — 19
 - Intuición experta — 5, 6, Interludio II
@@ -724,6 +731,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Talleres (ejercicios por capítulo) — Ap D
 - Tarjeta HII-D en sesenta segundos — última página
 - Testimonio del paciente — 1, 15; epistemología del testimonio (Coady, Lackey) — 15; testimonio de terceros y cuidadores — CC (viñeta 7)
+- Tolerancia a la incertidumbre (escala de Gerrity; gasto; bienestar del médico) — 3
 - Trayectoria del error (estaciones y barreras) — 7
 - Trayectoria y temporalidad — 12, Interludio I
 - Umbral y geografía (hospital insular, evacuación aeromédica) — 12
@@ -763,7 +771,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 
 **Uso de inteligencia artificial.** Este manuscrito se desarrolló a partir de ideas y formulaciones del autor, con asistencia de inteligencia artificial en búsqueda inicial, organización, comparación bibliográfica, apoyo en redacción y edición. La IA no sustituyó la verificación de fuentes, el juicio clínico, la autoría ni la responsabilidad: las tesis, las decisiones de contenido y los errores pertenecen al autor. El libro intenta aplicar a su propia escritura la disciplina que su capítulo 19 recomienda.
 
-**Verificación de las referencias.** Cada referencia se cotejó contra su fuente primaria antes de citarse, y el registro de ese cotejo —cifra por cifra— acompaña a las fuentes del libro. Cinco se verificaron sólo por metadatos o por fuentes secundarias, y el lector debe saberlo: Estrada, Isen y Young (1997), cuyo texto completo no estuvo accesible, por lo que el hallazgo se enuncia tal como lo formula el título y sin cifras; la frase de Maturana (1970), tomada de su reimpresión y de *El árbol del conocimiento*; la cita de Suzuki (1970), confirmada contra la edición y no contra una copia del prólogo; y la localización de la tesis de Clifford (1877), tomada de la *Stanford Encyclopedia of Philosophy* y no del volumen original de la *Contemporary Review*; y el artículo de Ledley y Lusted (1959), cuyo texto completo no estuvo accesible, por lo que se describe por su subtítulo y por lo que dicen de él sus contemporáneos. Ninguna de ellas sostiene por sí sola una cifra ni una conducta. La distribución de citas es plana: de las 210 citas del cuerpo, ningún autor supera el 4%, y Croskerry, Norman y Kahneman —las voces dominantes de la literatura sobre razonamiento clínico— suman el 8%. Las referencias con siete o más autores listan los seis primeros seguidos de «et al.»; los ensayos firmados por un grupo conservan el nombre del grupo.
+**Verificación de las referencias.** Cada referencia se cotejó contra su fuente primaria antes de citarse, y el registro de ese cotejo —cifra por cifra— acompaña a las fuentes del libro. Seis se verificaron sólo por metadatos o por fuentes secundarias, y el lector debe saberlo: Estrada, Isen y Young (1997), cuyo texto completo no estuvo accesible, por lo que el hallazgo se enuncia tal como lo formula el título y sin cifras; la frase de Maturana (1970), tomada de su reimpresión y de *El árbol del conocimiento*; la cita de Suzuki (1970), confirmada contra la edición y no contra una copia del prólogo; y la localización de la tesis de Clifford (1877), tomada de la *Stanford Encyclopedia of Philosophy* y no del volumen original de la *Contemporary Review*; el artículo de Ledley y Lusted (1959), cuyo texto completo no estuvo accesible, por lo que se describe por su subtítulo y por lo que dicen de él sus contemporáneos; y la teoría de Mishel (1988), cuya definición se tomó de los trabajos que la citan textualmente. Ninguna de ellas sostiene por sí sola una cifra ni una conducta. La distribución de citas es plana: de las 210 citas del cuerpo, ningún autor supera el 4%, y Croskerry, Norman y Kahneman —las voces dominantes de la literatura sobre razonamiento clínico— suman el 8%. Las referencias con siete o más autores listan los seis primeros seguidos de «et al.»; los ensayos firmados por un grupo conservan el nombre del grupo.
 
 **HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 17 («Qué evidencia me haría abandonar este método»); su evaluación empírica —concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo— es un programa pendiente, no un resultado.
 
@@ -779,6 +787,8 @@ Afshar, M., Baumann, M. R., Resnik, F., Hintzke, J., Sullivan, A. G., Wills, G.,
 
 Akram, A. R., Chalmers, J. D., Taylor, J. K., Rutherford, J., Singanayagam, A., & Hill, A. T. (2013). An evaluation of clinical stability criteria to predict hospital course in community-acquired pneumonia. *Clinical Microbiology and Infection, 19*(12), 1174–1180.
 
+Allison, J. J., Kiefe, C. I., Cook, E. F., Gerrity, M. S., Orav, E. J., & Centor, R. (1998). The association of physician attitudes about uncertainty and risk taking with resource use in a Medicare HMO. *Medical Decision Making, 18*(3), 320–329.
+
 Alves de Lima, A. (2008). Devolución constructiva: Una estrategia para mejorar el aprendizaje. *Medicina (Buenos Aires), 68*(1), 88–92.
 
 Andreadis, K., Chan, E., Park, M., Benda, N. C., Sharma, M. M., Demetres, M., et al. (2021). Imprecision and preferences in interpretation of verbal probabilities in health: A systematic review. *Journal of General Internal Medicine, 36*(12), 3820–3829.
@@ -792,6 +802,8 @@ Auerbach, A. D., Lee, T. M., Hubbard, C. C., Ranji, S. R., Raffel, K., Valdes, G
 Austin, J. L. (1962). *How to Do Things with Words*. Clarendon Press.
 
 Balint, M. (1957). *The Doctor, His Patient and the Illness*. International Universities Press.
+
+Balshem, H., Helfand, M., Schünemann, H. J., Oxman, A. D., Kunz, R., Brozek, J., et al. (2011). GRADE guidelines: 3. Rating the quality of evidence. *Journal of Clinical Epidemiology, 64*(4), 401–406.
 
 Barrows, H. S., & Feltovich, P. J. (1987). The clinical reasoning process. *Medical Education, 21*(2), 86–91.
 
@@ -899,6 +911,8 @@ Gadamer, H.-G. (1996). *El estado oculto de la salud* (N. Machaín, Trad.). Gedi
 
 Ganguli, I., Simpkin, A. L., Lupo, C., Weissman, A., Mainor, A. J., Orav, E. J., et al. (2019). Cascades of care after incidental findings in a US national survey of physicians. *JAMA Network Open, 2*(10), e1913325.
 
+Gerrity, M. S., DeVellis, R. F., & Earp, J. A. (1990). Physicians' reactions to uncertainty in patient care: A new measure and new insights. *Medical Care, 28*(8), 724–736.
+
 Gérvas, J., & Pérez Fernández, M. (2013). *Sano y salvo (y libre de intervenciones médicas innecesarias)*. Los Libros del Lince.
 
 Ghaemi, S. N. (2009). The rise and fall of the biopsychosocial model. *British Journal of Psychiatry, 195*(1), 3–4.
@@ -929,6 +943,8 @@ Guth, S., Theune, U., Aberle, J., Galach, A., & Bamberger, C. M. (2009). Very hi
 
 Han, P. K. J., Klein, W. M. P., & Arora, N. K. (2011). Varieties of uncertainty in health care: A conceptual taxonomy. *Medical Decision Making, 31*(6), 828–838.
 
+Hancock, J., & Mattick, K. (2020). Tolerance of ambiguity and psychological well-being in medical training: A systematic review. *Medical Education, 54*(2), 125–137.
+
 Hempel, C. G. (1965). Science and human values. In *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science* (pp. 81–96). Free Press.
 
 Hepburn, B., & Andersen, H. (2026). Scientific method. En E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2026 ed.).
@@ -950,6 +966,8 @@ Hipócrates. (1923b). *Hippocrates, Vol. II* (W. H. S. Jones, Trad.). William He
 Hoffrage, U., & Gigerenzer, G. (1998). Using natural frequencies to improve diagnostic inferences. *Academic Medicine, 73*(5), 538–540.
 
 Huidobro, V. (1916). *El espejo de agua*. Orión.
+
+Hultcrantz, M., Rind, D., Akl, E. A., Treweek, S., Mustafa, R. A., Iorio, A., et al. (2017). The GRADE Working Group clarifies the construct of certainty of evidence. *Journal of Clinical Epidemiology, 87*, 4–13.
 
 Hunter, K. M. (1991). *Doctors' Stories: The Narrative Structure of Medical Knowledge*. Princeton University Press.
 
@@ -1034,6 +1052,10 @@ McDuff, D., Schaekermann, M., Tu, T., Palepu, A., Wang, A., Garrison, J., et al.
 Metlay, J. P., Waterer, G. W., Long, A. C., Anzueto, A., Brozek, J., Crothers, K., et al. (2019). Diagnosis and treatment of adults with community-acquired pneumonia: An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. *American Journal of Respiratory and Critical Care Medicine, 200*(7), e45–e67.
 
 Meyer, A. N. D., Payne, V. L., Meeks, D. W., Rao, R., & Singh, H. (2013). Physicians' diagnostic accuracy, confidence, and resource requests: A vignette study. *JAMA Internal Medicine, 173*(21), 1952–1958.
+
+Mishel, M. H. (1988). Uncertainty in illness. *Image: Journal of Nursing Scholarship, 20*(4), 225–232.
+
+Mishel, M. H. (1990). Reconceptualization of the uncertainty in illness theory. *Image: Journal of Nursing Scholarship, 22*(4), 256–262.
 
 Monteiro, S., & Norman, G. (2013). Diagnostic reasoning: Where we've been, where we're going. *Teaching and Learning in Medicine, 25*(Suppl 1), S26–S32.
 
@@ -1156,6 +1178,8 @@ Stang, A., Standl, F., & Poole, C. (2022). A twenty-first century perspective on
 Steinkamp, J., Kantrowitz, J. J., & Airan-Javia, S. (2022). Prevalence and sources of duplicate information in the electronic medical record. *JAMA Network Open, 5*(9), e2233348.
 
 Stetson, P. D., Bakken, S., Wrenn, J. O., & Siegler, E. L. (2012). Assessing electronic note quality using the Physician Documentation Quality Instrument (PDQI-9). *Applied Clinical Informatics, 3*(2), 164–174.
+
+Strout, T. D., Hillen, M., Gutheil, C., Anderson, E., Hutchinson, R., Ward, H., et al. (2018). Tolerance of uncertainty: A systematic review of health and healthcare-related outcomes. *Patient Education and Counseling, 101*(9), 1518–1537.
 
 Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. Weatherhill. [Trad. esp.: *Mente zen, mente de principiante*.]
 
