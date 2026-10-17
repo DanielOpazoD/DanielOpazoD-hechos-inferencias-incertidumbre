@@ -224,7 +224,7 @@ Sirve el error de la colecistitis narrado al inicio del capítulo 7 o, mejor, un
 
 *Error típico.* En ejercicios docentes, la respuesta más frecuente viola la regla en la segunda línea: «hubo anclaje y sesgo de confirmación». Nombrar el sesgo se siente como análisis, pero no responde ninguna de las cuatro preguntas: no dice en qué formato viajaba la frase, por qué el urocultivo valía menos, en qué minuto «sigue decaída» se volvió «responde lento» ni qué barrera habría costado diez segundos. El sesgo es el nombre del desenlace; la trayectoria es lo que se puede cambiar.
 
-*Una versión posible.* Sobre el caso del capítulo 7: (1) «ITU a repetición» viajaba como antecedente sin procedencia —el formato (frase heredada en ficha) le daba más autoridad que su origen (nadie sabía quién la escribió ni con qué base). (2) El urocultivo: en una mujer de ochenta y dos años sin síndrome miccional, la bacteriuria tiene alta prevalencia basal; confirma poco cuando la probabilidad pretest de otra causa es sustancial. (3) El día 3: «sigue decaída» se convirtió en «responde lento», una reinterpretación que inmunizaba la hipótesis. (4) Dos barreras de bajo costo y alto impacto: dejar escrito un criterio de reapertura obligatorio al indicar el tratamiento empírico («si no recupera estado basal ni apetito en 48 h, reexaminar abdomen dirigido y solicitar pruebas hepáticas o imagen») e instituir en la visita médica de sala la pregunta de resistencia: «¿qué hallazgo de esta paciente no queda explicado por una infección urinaria?». La hipoactividad severa sin síndrome miccional era la pieza suelta. El análisis de trayectoria termina cuando se diseña la barrera operativa, no cuando se rotula el sesgo del médico.
+*Una versión posible.* Sobre el caso del capítulo 7: (1) «ITU a repetición» viajaba como antecedente sin procedencia —el formato (frase heredada en ficha) le daba más autoridad que su origen (nadie sabía quién la escribió ni con qué base)—. (2) El urocultivo: en una mujer de ochenta y dos años sin síndrome miccional, la bacteriuria tiene alta prevalencia basal; confirma poco cuando la probabilidad pretest de otra causa es sustancial. (3) El día 3: «sigue decaída» se convirtió en «responde lento», una reinterpretación que inmunizaba la hipótesis. (4) Dos barreras de bajo costo y alto impacto: dejar escrito un criterio de reapertura obligatorio al indicar el tratamiento empírico («si no recupera estado basal ni apetito en 48 h, reexaminar abdomen dirigido y solicitar pruebas hepáticas o imagen») e instituir en la visita médica de sala la pregunta de resistencia: «¿qué hallazgo de esta paciente no queda explicado por una infección urinaria?». La hipoactividad severa sin síndrome miccional era la pieza suelta. El análisis de trayectoria termina cuando se diseña la barrera operativa, no cuando se rotula el sesgo del médico.
 
 #### Taller del capítulo 8. Presentar sin la etiqueta
 
@@ -292,19 +292,19 @@ El caso es el más incómodo de la lista actual —el que genera discusión en c
 
 Primero, describir por escrito la visita de sala del servicio tal como ocurre de verdad: minutos por paciente, quién habla, qué se pregunta siempre y qué no se pregunta nunca. Luego, rediseñarla con tres cambios como máximo —un disparador objetivo de pausa, una pregunta obligatoria por paciente inestable o incierto, una regla de entrega de turno— y estimar el costo en minutos por visita.
 
-*Una versión posible.* Una descripción honesta puede parecerse a esto: dos a cuatro minutos por paciente, habla quien presenta y decide quien dirige, se pregunta «¿cómo está?» y «¿qué le falta?», y casi nunca «¿qué nos haría cambiar?». El rediseño más barato es esa tercera pregunta, hecha sólo a los pacientes que cumplen un disparador (reconsulta, discordancia entre gravedad y diagnóstico, 72 horas sin discusión): cuesta alrededor de un minuto por caso seleccionado y produce, de inmediato, criterios de reapertura que antes no existían. Si el rediseño necesita más de tres cambios o más de diez minutos por visita, probablemente está diseñando una reunión nueva en lugar de mejorar la que existe — y las reuniones nuevas mueren por inasistencia.
+*Una versión posible.* Una descripción honesta puede parecerse a esto: dos a cuatro minutos por paciente, habla quien presenta y decide quien dirige, se pregunta «¿cómo está?» y «¿qué le falta?», y casi nunca «¿qué nos haría cambiar?». El rediseño más barato es esa tercera pregunta, hecha sólo a los pacientes que cumplen un disparador (reconsulta, discordancia entre gravedad y diagnóstico, 72 horas sin discusión): cuesta alrededor de un minuto por caso seleccionado y produce, de inmediato, criterios de reapertura que antes no existían. Si el rediseño necesita más de tres cambios o más de diez minutos por visita, probablemente está diseñando una reunión nueva en lugar de mejorar la que existe —y las reuniones nuevas mueren por inasistencia—.
 
 #### Taller del capítulo 17. La autopsia de una respuesta
 
-Un caso real ya resuelto del servicio, debidamente anonimizado, se pega en un asistente de lenguaje con el pedido de evaluación y plan. La respuesta, impresa, se marca con tres colores: (1) afirmaciones sustentadas en datos que el caso contenía; (2) contenido que el modelo agregó — detalles «típicos», causalidades, datos que nadie le dio; (3) incertidumbre declarada. Después, una segunda pregunta al modelo: «¿qué evidencia haría improbable tu diagnóstico principal?».
+Un caso real ya resuelto del servicio, debidamente anonimizado, se pega en un asistente de lenguaje con el pedido de evaluación y plan. La respuesta, impresa, se marca con tres colores: (1) afirmaciones sustentadas en datos que el caso contenía; (2) contenido que el modelo agregó (detalles «típicos», causalidades, datos que nadie le dio); (3) incertidumbre declarada. Después, una segunda pregunta al modelo: «¿qué evidencia haría improbable tu diagnóstico principal?».
 
-*Comentario.* En ejercicios docentes, tres hallazgos vuelven una y otra vez. Primero, el color 2 aparece más de lo esperado: el modelo rellena huecos con verosimilitud — una evolución «esperable», un factor de riesgo «presumible» — y esa es la definición de confabulación; contarlas cura más que leer sobre ellas. Segundo, el color 3 suele ser genérico («se sugiere correlacionar con la clínica») y no específico del caso: incertidumbre de fórmula, no de contenido — conviene compararla con la que exige el léxico de certeza. Tercero, la respuesta a la segunda pregunta suele ser mejor que la primera: el modelo enumera con soltura los datos que refutarían su propia propuesta — pero sólo si alguien se lo pide. La herramienta contiene su propio antídoto; la pregunta que lo libera sigue siendo humana.
+*Comentario.* En ejercicios docentes, tres hallazgos vuelven una y otra vez. Primero, el color 2 aparece más de lo esperado: el modelo rellena huecos con verosimilitud —una evolución «esperable», un factor de riesgo «presumible»— y esa es la definición de confabulación; contarlas cura más que leer sobre ellas. Segundo, el color 3 suele ser genérico («se sugiere correlacionar con la clínica») y no específico del caso: incertidumbre de fórmula, no de contenido —conviene compararla con la que exige el léxico de certeza—. Tercero, la respuesta a la segunda pregunta suele ser mejor que la primera: el modelo enumera con soltura los datos que refutarían su propia propuesta —pero sólo si alguien se lo pide—. La herramienta contiene su propio antídoto; la pregunta que lo libera sigue siendo humana.
 
 #### Taller del capítulo 18. La prueba de Parra
 
-Dos preguntas para la frase medular del paciente más reciente. Primera: ¿hay en ella alguna palabra huidobriana — que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión — y si al traducirla se desinfla, qué la sostenía: la evidencia o la retórica?
+Dos preguntas para la frase medular del paciente más reciente. Primera: ¿hay en ella alguna palabra huidobriana —que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)—? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión? Y si al traducirla se desinfla, ¿qué la sostenía: la evidencia o la retórica?
 
-*Una versión posible.* La frase es «Shock séptico de foco urinario, descartándose foco abdominal». Prueba uno: «de foco urinario» hace florecer una causal (¿demostrada o presunta?), y «descartándose» es un gerundio que promete lo que todavía no ocurrió — dos rosas creadas en ocho palabras. Prueba dos, en lengua parriana: «Shock con urocultivo positivo; foco urinario probable; abdomen aún sin imagen». La segunda versión es menos imponente y más útil: sobrevive a la visita de la mañana. Si su frase pasa las dos pruebas, tiene lo que aquí se entiende por estilo: exactitud que se puede defender en voz alta.
+*Una versión posible.* La frase es «Shock séptico de foco urinario, descartándose foco abdominal». Prueba uno: «de foco urinario» hace florecer una causal (¿demostrada o presunta?), y «descartándose» es un gerundio que promete lo que todavía no ocurrió —dos rosas creadas en ocho palabras—. Prueba dos, en lengua parriana: «Shock con urocultivo positivo; foco urinario probable; abdomen aún sin imagen». La segunda versión es menos imponente y más útil: sobrevive a la visita de la mañana. Si su frase pasa las dos pruebas, tiene lo que aquí se entiende por estilo: exactitud que se puede defender en voz alta.
 
 # Apéndice E. Las preguntas para la próxima visita
 
@@ -367,14 +367,14 @@ Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, re
 **Capítulo 9. La evidencia y el caso singular**
 
 - Para mi indicación más importante de hoy: ¿qué demostró exactamente el estudio que la respalda, y en qué se parece mi paciente a esa población?
-- El último ensayo «negativo» que cité: ¿mostró ausencia de efecto o ausencia de significación — y traté esa diferencia como si no existiera?
+- El último ensayo «negativo» que cité: ¿mostró ausencia de efecto o ausencia de significación —y traté esa diferencia como si no existiera—?
 - ¿Qué conocimiento local (resistencias, tiempos, capacidad de seguimiento) está modificando mi decisión sin estar declarado en ninguna parte?
 
 **Capítulo 10. Decidir sin certeza: umbrales, valores y bioética**
 
 - ¿Cuál es el umbral implícito de mi decisión: qué probabilidad de estar equivocado la haría cambiar?
 - ¿Estoy exigiendo certeza diagnóstica donde bastaría compromiso práctico, o actuando para no tolerar una duda?
-- De mi paciente más grave de hoy: ¿sé cómo funcionaba antes de enfermar, con quién vive y qué espera del tratamiento — y está escrito en alguna parte?
+- De mi paciente más grave de hoy: ¿sé cómo funcionaba antes de enfermar, con quién vive y qué espera del tratamiento —y está escrito en alguna parte—?
 
 **Capítulo 11. Temporalidad, trayectoria y razonamiento contrafactual**
 
@@ -392,7 +392,7 @@ Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, re
 
 - ¿Qué observó enfermería en las últimas 24 horas que no pasó por mi evaluación?
 - En mi último desacuerdo clínico, ¿discrepábamos en hechos, inferencias, incertidumbre, valores o umbral?
-- ¿Mi paciente sabe qué sabemos, qué creemos, qué no sabemos aún y qué haremos —o sólo recibió una etiqueta?
+- ¿Mi paciente sabe qué sabemos, qué creemos, qué no sabemos aún y qué haremos —o sólo recibió una etiqueta—?
 
 **Capítulo 14. Humildad epistémica y responsabilidad clínica**
 
@@ -402,14 +402,14 @@ Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, re
 
 **Capítulo 15. El método HII-D: una epistemología operativa**
 
-- ¿Cuál es la pregunta operativa de mi caso más difícil —la decisión real en juego, no «el diagnóstico»?
+- ¿Cuál es la pregunta operativa de mi caso más difícil —la decisión real en juego, no «el diagnóstico»—?
 - ¿Mi nota de hoy permite a otro médico reconstruir mis cuatro capas, o sólo mi conclusión?
 - ¿Qué decisión de esta semana tomé sin criterio de reapertura, y todavía estoy a tiempo de escribirlo?
 
 **Capítulo 16. Enseñar y organizar la metacognición clínica**
 
 - La última vez que enseñé un caso, ¿pedí el diagnóstico o pedí primero la representación del problema?
-- ¿Qué pasó con el último paciente que derivé o di de alta con diagnóstico incierto — y cómo podría enterarme sistemáticamente?
+- ¿Qué pasó con el último paciente que derivé o di de alta con diagnóstico incierto —y cómo podría enterarme sistemáticamente—?
 - Si mañana dirigiera mi servicio, ¿cuál de las tres palancas (visita de sala, ficha, revisión de errores) cambiaría primero, y qué costaría?
 
 **Capítulo 17. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas**
@@ -434,7 +434,7 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Calibración (calibration).** Correspondencia entre la confianza declarada y la proporción real de aciertos, evaluada sobre una serie de juicios.
 
-**Captura cognitiva∗.** Condicionamiento de la búsqueda de hipótesis, la lectura de los datos y la ponderación por una respuesta vista antes de razonar — típicamente la de un asistente de IA. No exige que la respuesta sea errónea: una hipótesis correcta entregada demasiado pronto también sustituye las operaciones que forman el juicio.
+**Captura cognitiva∗.** Condicionamiento de la búsqueda de hipótesis, la lectura de los datos y la ponderación por una respuesta vista antes de razonar —típicamente la de un asistente de IA—. No exige que la respuesta sea errónea: una hipótesis correcta entregada demasiado pronto también sustituye las operaciones que forman el juicio.
 
 **Cierre prematuro (premature closure).** Aceptación de un diagnóstico antes de haberlo verificado suficientemente, con suspensión de la búsqueda de alternativas.
 
@@ -486,7 +486,7 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Hindsight bias (sesgo retrospectivo).** Tendencia a percibir un desenlace conocido como si hubiera sido predecible, contaminando la evaluación de decisiones pasadas.
 
-**Humildad epistémica (epistemic humility).** Atención y apropiación de las propias limitaciones cognitivas (Whitcomb et al., que hablan de intellectual humility). No es timidez para afirmar: es la disposición que mantiene el caso abierto — permite seguir explorando, seguir aprendiendo y reubicar el foco y el manejo cuando la trayectoria contradice el mapa.
+**Humildad epistémica (epistemic humility).** Atención y apropiación de las propias limitaciones cognitivas (Whitcomb et al., que hablan de intellectual humility). No es timidez para afirmar: es la disposición que mantiene el caso abierto —permite seguir explorando, seguir aprendiendo y reubicar el foco y el manejo cuando la trayectoria contradice el mapa—.
 
 **Illness script.** Estructura de conocimiento que integra condiciones predisponentes, mecanismo fisiopatológico y consecuencias clínicas de una enfermedad, y permite el reconocimiento rápido de patrones.
 
@@ -510,7 +510,7 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Observación activa.** Espera diseñada como intervención diagnóstica: con objetivo, plazo, variables vigiladas, responsable y criterios de salida en ambas direcciones; lo contrario de «control según evolución».
 
-**Paradoja de la automatización (automation paradox).** Cuanto más competente es un sistema automatizado, menos ejercita el humano las habilidades necesarias para detectar sus fallas — que es cuando más se las necesita (Abdulnour et al.).
+**Paradoja de la automatización (automation paradox).** Cuanto más competente es un sistema automatizado, menos ejercita el humano las habilidades necesarias para detectar sus fallas —que es cuando más se las necesita (Abdulnour et al.)—.
 
 **Pausa diagnóstica (diagnostic time-out).** Interrupción breve y selectiva del flujo clínico, activada por disparadores definidos (reconsulta, evolución inesperada o discordante con el diagnóstico, transición de cuidados, estado del razonador), para reformular el caso sin su etiqueta y localizar la incertidumbre peligrosa.
 
@@ -680,17 +680,17 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 
 **Naturaleza de la obra.** Este libro es un ensayo académico de integración científico-filosófica dirigido a profesionales clínicos. No es una revisión sistemática, ni una guía clínica, ni contiene instrumentos validados.
 
-**Estrategia bibliográfica.** Las fuentes provienen de tres cuerpos: investigación biomédica y de razonamiento clínico, filosofía de la ciencia y epistemología, y educación médica. Se privilegiaron fuentes primarias y revisiones reconocidas; el período cubierto llega hasta el cierre bibliográfico, en octubre de 2026. Durante la redacción se aplicó una regla fija: ninguna referencia entró al manuscrito sin verificación previa contra su fuente — autoría, año, revista y resultado. No se pretende exhaustividad sistemática: la selección sirve al argumento y se declara como tal.
+**Estrategia bibliográfica.** Las fuentes provienen de tres cuerpos: investigación biomédica y de razonamiento clínico, filosofía de la ciencia y epistemología, y educación médica. Se privilegiaron fuentes primarias y revisiones reconocidas; el período cubierto llega hasta el cierre bibliográfico, en octubre de 2026. Durante la redacción se aplicó una regla fija: ninguna referencia entró al manuscrito sin verificación previa contra su fuente —autoría, año, revista y resultado—. No se pretende exhaustividad sistemática: la selección sirve al argumento y se declara como tal.
 
-**Estatuto de las afirmaciones.** El lector encontrará seis clases de enunciados, y el texto procura que cada uno se presente como lo que es: resultados verificados de fuentes primarias, citados con autor y año; conclusiones de revisiones o consensos; argumentos filosóficos, atribuidos a sus autores; experiencia autoral, narrada en primera persona; ejemplos docentes construidos, señalados como tales («en ejercicios docentes suele observarse…»); y propuestas originales del libro — la densidad epistémica, la frase medular y el método HII-D —, que no deben leerse como hallazgos sino como hipótesis de trabajo.
+**Estatuto de las afirmaciones.** El lector encontrará seis clases de enunciados, y el texto procura que cada uno se presente como lo que es: resultados verificados de fuentes primarias, citados con autor y año; conclusiones de revisiones o consensos; argumentos filosóficos, atribuidos a sus autores; experiencia autoral, narrada en primera persona; ejemplos docentes construidos, señalados como tales («en ejercicios docentes suele observarse…»); y propuestas originales del libro —la densidad epistémica, la frase medular y el método HII-D—, que no deben leerse como hallazgos sino como hipótesis de trabajo.
 
-**Los casos.** Las escenas clínicas de este libro — Carmen, los interludios, las viñetas y los pasajes en primera persona — son composiciones docentes en el sentido declarado en la página legal: condensan experiencias reales y situaciones compuestas, sin reproducir episodios literales ni permitir identificación de personas o instituciones.
+**Los casos.** Las escenas clínicas de este libro —Carmen, los interludios, las viñetas y los pasajes en primera persona— son composiciones docentes en el sentido declarado en la página legal: condensan experiencias reales y situaciones compuestas, sin reproducir episodios literales ni permitir identificación de personas o instituciones.
 
 **Uso de inteligencia artificial.** Este manuscrito se desarrolló a partir de ideas y formulaciones del autor, con asistencia de inteligencia artificial en búsqueda inicial, organización, comparación bibliográfica, apoyo en redacción y edición. La IA no sustituyó la verificación de fuentes, el juicio clínico, la autoría ni la responsabilidad: las tesis, las decisiones de contenido y los errores pertenecen al autor. El libro intenta aplicar a su propia escritura la disciplina que su capítulo 17 recomienda.
 
 **Verificación de las referencias.** Cada referencia se cotejó contra su fuente primaria antes de citarse, y el registro de ese cotejo —cifra por cifra— acompaña a las fuentes del libro. Cuatro se verificaron sólo por metadatos o por fuentes secundarias, y el lector debe saberlo: Estrada, Isen y Young (1997), cuyo texto completo no estuvo accesible, por lo que el hallazgo se enuncia tal como lo formula el título y sin cifras; la frase de Maturana (1970), tomada de su reimpresión y de *El árbol del conocimiento*; la cita de Suzuki (1970), confirmada contra la edición y no contra una copia del prólogo; y la localización de la tesis de Clifford (1877), tomada de la *Stanford Encyclopedia of Philosophy* y no del volumen original de la *Contemporary Review*. Ninguna de ellas sostiene por sí sola una cifra ni una conducta. La distribución de citas es plana: de las 210 citas del cuerpo, ningún autor supera el 4%, y Croskerry, Norman y Kahneman —las voces dominantes de la literatura sobre razonamiento clínico— suman el 8%. Las referencias con siete o más autores listan los seis primeros seguidos de «et al.»; los ensayos firmados por un grupo conservan el nombre del grupo.
 
-**HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 15 («Qué evidencia me haría abandonar este método»); su evaluación empírica — concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo — es un programa pendiente, no un resultado.
+**HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 15 («Qué evidencia me haría abandonar este método»); su evaluación empírica —concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo— es un programa pendiente, no un resultado.
 
 # Referencias
 

@@ -3,6 +3,7 @@
   "private": true,
   "description": "Dependencias de node para construir el libro (fuentes/build_docx.cjs). Ver construir.sh.",
   "dependencies": {
-    "docx": "9.7.1"
+    "docx": "9.7.1",
+    "jszip": "3.10.2"
   }
 }

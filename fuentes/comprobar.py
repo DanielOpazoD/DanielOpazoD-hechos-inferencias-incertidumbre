@@ -5,7 +5,12 @@
   cita), y cada año entre paréntesis del cuerpo que acompaña a un apellido tiene su entrada.
 - Figuras: las marcas `[FIGURA: archivo | Figura N. …]` van numeradas 1, 2, 3… sin saltos.
 - TOC: `toc.json` tiene una página para cada entrada de `toc_keys.json`.
-- PDF (si existe y hay pdftotext): cero comillas rectas en el texto maquetado.
+- Rayas: los incisos van con raya pegada y cerrada («texto —inciso— texto», también «—inciso—.» al final), nunca
+  con la raya espaciada inglesa « — »; quedan fuera las citas entre «», los bloques citados, el índice analítico, las
+  referencias, la lista de figuras y las etiquetas «**H — Hechos**».
+- Idioma: el DOCX declara es-CL y la partición automática; el PDF, /Lang(es-CL).
+- PDF (si existe y hay pdftotext): cero comillas rectas en el texto maquetado y ningún título ni etiqueta
+  («Una versión posible.», «Tres preguntas…») como última línea de una página.
 
 Uso (desde fuentes/): python3 comprobar.py
 `cotejo_figuras.py` revisa aparte el texto de las figuras; `construir.sh` corre los dos al final.
@@ -19,11 +24,13 @@ import shutil
 import subprocess
 import sys
 import unicodedata
+import zipfile
 
 DIR = os.path.dirname(os.path.abspath(__file__))
-PDF = os.path.join(
-    os.environ.get("LIBRO_OUT", os.path.join(DIR, "..")), "Hechos_inferencias_incertidumbre_edicion_revisada.pdf"
-)
+SALIDA = os.environ.get("LIBRO_OUT", os.path.join(DIR, ".."))
+PDF = os.path.join(SALIDA, "Hechos_inferencias_incertidumbre_edicion_revisada.pdf")
+DOCX = os.path.join(SALIDA, "Hechos_inferencias_incertidumbre_edicion_revisada.docx")
+SIN_RAYAS = ("# Índice analítico", "# Referencias", "# Lista de figuras")
 
 
 def ascii(s):
@@ -81,12 +88,71 @@ def toc():
     return ([f"entradas del TOC sin página: {faltan}"] if faltan else []), len(claves)
 
 
-def pdf():
+def oraciones(parrafo):
+    """Corta un párrafo en oraciones (punto, cierre de interrogación o exclamación seguido de mayúscula)."""
+    cortes, ini = [], 0
+    for m in re.finditer(r"(?<=[.?!…])(?:[»”)]*)\s+(?=[A-ZÁÉÍÓÚÑ¿¡«(*\d])", parrafo):
+        if re.search(r"\b(et al|p|pp|vs|cap|caps|fig)\.$", parrafo[ini : m.start()]):
+            continue
+        cortes.append(parrafo[ini : m.end()])
+        ini = m.end()
+    return cortes + [parrafo[ini:]]
+
+
+def rayas():
+    problemas = []
+    for f in sorted(glob.glob(os.path.join(DIR, "0*.md"))):
+        seccion = ""
+        for n, linea in enumerate(open(f, encoding="utf-8").read().split("\n"), 1):
+            if linea.startswith("# "):
+                seccion = linea
+            if seccion.startswith(SIN_RAYAS) or linea.startswith(">") or re.match(r"^(- )?\*\*[HID] — ", linea):
+                continue
+            for o in oraciones(linea):
+                fuera = [m.start() for m in re.finditer("—", o) if o.count("«", 0, m.start()) <= o.count("»", 0, m.start())]
+                espaciadas = [k for k in fuera if o[k - 1 : k + 2] == " — "]
+                donde = f"{os.path.basename(f)}:{n}"
+                if espaciadas:
+                    problemas.append(f"raya espaciada en {donde}: «…{o[max(0, espaciadas[0] - 30) : espaciadas[0] + 30]}…»")
+                elif len(fuera) % 2:
+                    problemas.append(f"inciso sin raya de cierre en {donde}: «…{o[max(0, fuera[-1] - 30) : fuera[-1] + 40]}…»")
+    return problemas
+
+
+def idioma():
+    problemas = []
+    if os.path.exists(DOCX):
+        with zipfile.ZipFile(DOCX) as z:
+            if 'w:lang w:val="es-CL"' not in z.read("word/styles.xml").decode():
+                problemas.append("el DOCX no declara es-CL")
+            if "<w:autoHyphenation" not in z.read("word/settings.xml").decode():
+                problemas.append("el DOCX no activa la partición automática")
+    if os.path.exists(PDF) and b"/Lang(es-CL)" not in open(PDF, "rb").read():
+        problemas.append("el PDF no declara /Lang(es-CL)")
+    return problemas
+
+
+def titulos(cuerpo):
+    """Títulos de sección, de taller y etiquetas sueltas, tal como salen en el PDF."""
+    t = set(re.findall(r"^#{3,4} (.+)$", cuerpo, re.M))
+    t |= {re.sub(r"\*", "", x) for x in re.findall(r"^(\*{1,2}[^*\n]{1,78}\*{1,2})$", cuerpo, re.M)}
+    return {" ".join(x.split()) for x in t if len(x) > 3}
+
+
+def pdf(cuerpo):
     if not os.path.exists(PDF) or not shutil.which("pdftotext"):
         return [], None
     t = subprocess.run(["pdftotext", PDF, "-"], capture_output=True, text=True, check=True).stdout
     rectas = t.count('"')
-    return ([f"{rectas} comillas rectas en el PDF"] if rectas else []), rectas
+    problemas = [f"{rectas} comillas rectas en el PDF"] if rectas else []
+    nombres = titulos(cuerpo)
+    for n, pagina in enumerate(t.split("\f"), 1):
+        lineas = [x.strip() for x in pagina.split("\n") if x.strip() and not x.strip().isdigit()]
+        cola = " ".join(" ".join(lineas[-2:]).split())
+        al_pie = [x for x in nombres if cola.endswith(x)]
+        if al_pie:
+            problemas.append(f"página física {n} termina en un título o etiqueta: «{al_pie[0]}»")
+    return problemas, rectas
 
 
 def main():
@@ -98,7 +164,9 @@ def main():
     problemas += p
     p, n_toc = toc()
     problemas += p
-    p, rectas = pdf()
+    problemas += rayas()
+    problemas += idioma()
+    p, rectas = pdf(cuerpo)
     problemas += p
     for x in problemas:
         print("problema:", x)

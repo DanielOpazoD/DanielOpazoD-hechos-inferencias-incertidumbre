@@ -10,6 +10,7 @@ const {
   Footer, Header, PageNumber, LevelFormat, Tab, TabStopType, LeaderType,
   LineRuleType, VerticalAlign,
 } = require("docx");
+const JSZip = require("jszip");
 
 const DIR = __dirname;
 const LIBRO = path.resolve(DIR, "..");
@@ -101,6 +102,18 @@ function runs(text, base = {}) {
   return out.length ? out : [new TextRun({ text: "", ...base })];
 }
 
+// ---------------------------------------------------------------- páginas
+// Un párrafo que sólo es una etiqueta («*Una versión posible.*») o que anuncia con dos puntos la lista, la cita o la
+// tabla que sigue no queda solo al pie de la página: va con lo que anuncia. Las listas cortas no se parten.
+function anuncia(text, next) {
+  const etiqueta = /^\*{1,2}[^*]+\*{1,2}$/.test(text) && text.length < 80;
+  const sigue = next && ["ol", "ul", "quote", "table", "figure"].includes(next.t);
+  return etiqueta || (sigue && /:$/.test(text));
+}
+function juntarLista(items, j) {
+  return items.length <= 5 && j < items.length - 1 && items.every(it => it.length < 400);
+}
+
 // ---------------------------------------------------------------- numbering
 const olRefs = [];
 let olCount = 0;
@@ -119,7 +132,7 @@ function png(file) {
 // ---------------------------------------------------------------- estilos
 const styles = {
   default: {
-    document: { run: { font: SERIF, size: 22, color: INK }, paragraph: { spacing: { after: 120, line: 276, lineRule: LineRuleType.AUTO } } },
+    document: { run: { font: SERIF, size: 22, color: INK, language: { value: "es-CL" } }, paragraph: { spacing: { after: 120, line: 276, lineRule: LineRuleType.AUTO } } },
   },
   paragraphStyles: [
     { id: "BodyJ", name: "BodyJ", basedOn: "Normal", run: { font: SERIF, size: 22, color: INK },
@@ -155,9 +168,9 @@ const styles = {
           bottom: { style: BorderStyle.SINGLE, size: 4, color: ACENTO2, space: 4 },
         } } },
     { id: "TocPart", name: "TocPart", basedOn: "Normal",
-      run: { font: SERIF, size: 22, color: INK, bold: true }, paragraph: { spacing: { before: 160, after: 60 } } },
+      run: { font: SERIF, size: 22, color: INK, bold: true }, paragraph: { spacing: { before: 160, after: 60 }, indent: { right: 700 } } },
     { id: "TocEntry", name: "TocEntry", basedOn: "Normal",
-      run: { font: SERIF, size: 21, color: INK }, paragraph: { spacing: { after: 50 }, indent: { left: 280 } } },
+      run: { font: SERIF, size: 21, color: INK }, paragraph: { spacing: { after: 50 }, indent: { left: 280, right: 700 } } },
   ],
 };
 
@@ -176,12 +189,12 @@ function pushHeadingBody(tok) {
       const m = tok.text.match(/^(PARTE\s+\S+)\.\s*(.*)$/);
       const label = m ? m[1] : tok.text, title = m ? m[2] : "";
       tocEntries.push({ text: tok.text, level: "part", key: tok.text });
-      body.push(new Paragraph({ style: "PartLabel", pageBreakBefore: true, children: [new TextRun(label)] }));
-      body.push(new Paragraph({ style: "PartTitle", children: [new TextRun(title)] }));
+      body.push(new Paragraph({ style: "PartLabel", pageBreakBefore: true, keepNext: true, children: [new TextRun(label)] }));
+      body.push(new Paragraph({ style: "PartTitle", keepNext: true, children: [new TextRun(title)] }));
     } else {
       tocEntries.push({ text: tok.text, level: "major", key: tok.text });
       body.push(new Paragraph({
-        heading: HeadingLevel.HEADING_1, pageBreakBefore: true,
+        heading: HeadingLevel.HEADING_1, pageBreakBefore: true, keepNext: true, keepLines: true,
         spacing: { before: 720, after: 320 },
         children: [new TextRun({ text: tok.text, font: SERIF, size: 34, bold: true, color: INK })],
       }));
@@ -198,23 +211,24 @@ function pushHeadingBody(tok) {
       kids.push(new TextRun({ text: tok.text, font: SERIF, size: 32, bold: true, color: ACENTO2 }));
     }
     body.push(new Paragraph({
-      heading: HeadingLevel.HEADING_2, pageBreakBefore: true,
+      heading: HeadingLevel.HEADING_2, pageBreakBefore: true, keepNext: true, keepLines: true,
       spacing: { before: 600, after: 300 }, children: kids,
     }));
   } else if (tok.t === "h3") {
     body.push(new Paragraph({
-      heading: HeadingLevel.HEADING_3,
+      heading: HeadingLevel.HEADING_3, keepNext: true, keepLines: true,
       spacing: { before: 280, after: 120 },
       children: [new TextRun({ text: tok.text, font: SERIF, size: 25, bold: true, color: INK })],
     }));
   } else if (tok.t === "h4") {
-    body.push(new Paragraph({ style: "TallerHead", children: [new TextRun(tok.text)] }));
+    body.push(new Paragraph({ style: "TallerHead", keepNext: true, keepLines: true, children: [new TextRun(tok.text)] }));
   }
 }
 
 for (const f of FILES) {
   const toks = parse(fs.readFileSync(path.join(DIR, f), "utf8"));
-  for (const tok of toks) {
+  toks.forEach((tok, k) => {
+    const next = toks[k + 1];
     if (tok.t === "portada") {
       const [t1, t2, t3, autor, anio] = tok.lines;
       front.push(new Paragraph({ spacing: { before: 3600, after: 200 }, alignment: AlignmentType.CENTER,
@@ -260,12 +274,14 @@ for (const f of FILES) {
       }));
       body.push(new Paragraph({ spacing: { after: 60 }, children: [] }));
     } else if (tok.t === "ul") {
-      for (const it of tok.items)
-        body.push(new Paragraph({ style: "BodyJ", numbering: { reference: "bullets", level: 0 }, children: runs(it) }));
+      tok.items.forEach((it, j) =>
+        body.push(new Paragraph({ style: "BodyJ", numbering: { reference: "bullets", level: 0 },
+          keepNext: juntarLista(tok.items, j), children: runs(it) })));
     } else if (tok.t === "ol") {
       const ref = newOlRef();
-      for (const it of tok.items)
-        body.push(new Paragraph({ style: "BodyJ", numbering: { reference: ref, level: 0 }, children: runs(it) }));
+      tok.items.forEach((it, j) =>
+        body.push(new Paragraph({ style: "BodyJ", numbering: { reference: ref, level: 0 },
+          keepNext: juntarLista(tok.items, j), children: runs(it) })));
     } else if (tok.t === "table") {
       const header = tok.rows[0];
       const dataRows = tok.rows.slice(1);
@@ -283,7 +299,7 @@ for (const f of FILES) {
         width: { size: colW.reduce((a, b) => a + b, 0), type: WidthType.DXA },
         rows: [
           new TableRow({ tableHeader: true, children: header.map((c, k) => mkCell(c.replace(/\*\*/g, ""), true, colW[k])) }),
-          ...dataRows.map(r => new TableRow({ children: r.map((c, k) => mkCell(c, false, colW[k])) })),
+          ...dataRows.map(r => new TableRow({ cantSplit: true, children: r.map((c, j) => mkCell(c, false, colW[j])) })),
         ],
       }));
       body.push(new Paragraph({ spacing: { after: 120 }, children: [] }));
@@ -293,12 +309,12 @@ for (const f of FILES) {
       } else if (tok.text.startsWith("**En una frase.**")) {
         body.push(new Paragraph({ style: "EnUnaFrase", children: runs(tok.text) }));
       } else if (tok.text.startsWith("**Tres preguntas")) {
-        body.push(new Paragraph({ style: "BodyJ", spacing: { before: 160, after: 80 }, children: runs(tok.text) }));
+        body.push(new Paragraph({ style: "BodyJ", spacing: { before: 160, after: 80 }, keepNext: true, children: runs(tok.text) }));
       } else {
-        body.push(new Paragraph({ style: "BodyJ", children: runs(tok.text) }));
+        body.push(new Paragraph({ style: "BodyJ", keepNext: anuncia(tok.text, next), children: runs(tok.text) }));
       }
     }
-  }
+  });
 }
 
 // ---------------------------------------------------------------- contenido
@@ -338,6 +354,7 @@ const doc = new Document({
   title: "Hechos, inferencias e incertidumbre — Metacognición, lenguaje y decisión clínica",
   description: "Una epistemología operativa para médicos. Edición de trabajo revisada, 2026.",
   styles,
+  hyphenation: { autoHyphenation: true, consecutiveHyphenLimit: 2, doNotHyphenateCaps: true },
   numbering: { config: numberingCfg },
   sections: [
     {
@@ -355,7 +372,42 @@ const doc = new Document({
   ],
 });
 
-Packer.toBuffer(doc).then(buf => {
+// ---------------------------------------------------------------- sin partición en títulos
+// La partición automática (es-CL) vale para el cuerpo justificado. Los títulos, el contenido, las leyendas y la parte
+// preliminar no se parten: docx no expone w:suppressAutoHyphens, así que se agrega al XML ya empaquetado, en el lugar
+// que le toca dentro de w:pPr según el esquema de OOXML.
+const SIN_PARTICION = ["Heading1", "Heading2", "Heading3", "TallerHead", "TocPart", "TocEntry", "PartLabel", "PartTitle", "Caption"];
+const DESPUES = ["kinsoku", "wordWrap", "overflowPunct", "topLinePunct", "autoSpaceDE", "autoSpaceDN", "bidi",
+  "adjustRightInd", "snapToGrid", "spacing", "ind", "contextualSpacing", "mirrorIndents", "suppressOverlap", "jc",
+  "textDirection", "textAlignment", "textboxTightWrap", "outlineLvl", "divId", "cnfStyle", "rPr", "sectPr", "pPrChange"];
+function conSupresion(pPr) {
+  if (pPr.includes("<w:suppressAutoHyphens")) return pPr;
+  const m = pPr.match(new RegExp(`<w:(${DESPUES.join("|")})[ />]`));
+  const k = m ? m.index : pPr.lastIndexOf("</w:pPr>");
+  return pPr.slice(0, k) + "<w:suppressAutoHyphens/>" + pPr.slice(k);
+}
+function enParrafo(p) {  // p: un <w:p ...>...</w:p> o el interior de un <w:style>
+  if (/<w:pPr>/.test(p)) return p.replace(/<w:pPr>[\s\S]*?<\/w:pPr>/, conSupresion);
+  if (p.startsWith("<w:p")) return p.replace(/^<w:p( [^>]*)?>/, m => m + "<w:pPr><w:suppressAutoHyphens/></w:pPr>");
+  return p.replace(/(<w:rPr>|$)/, "<w:pPr><w:suppressAutoHyphens/></w:pPr>$1");
+}
+async function sinParticion(buf) {
+  const zip = await JSZip.loadAsync(buf);
+  let estilos = await zip.file("word/styles.xml").async("string");
+  for (const id of SIN_PARTICION) {
+    const re = new RegExp(`(<w:style [^>]*w:styleId="${id}"[^>]*>)([\\s\\S]*?)(</w:style>)`);
+    if (!re.test(estilos)) throw new Error(`falta el estilo ${id}`);
+    estilos = estilos.replace(re, (_, a, dentro, z) => a + enParrafo(dentro) + z);
+  }
+  zip.file("word/styles.xml", estilos);
+  let docu = await zip.file("word/document.xml").async("string");
+  const finPreliminar = docu.indexOf("<w:sectPr");  // el sectPr de la primera sección cierra la parte preliminar
+  docu = docu.slice(0, finPreliminar).replace(/<w:p(?: [^>]*)?>[\s\S]*?<\/w:p>/g, enParrafo) + docu.slice(finPreliminar);
+  zip.file("word/document.xml", docu);
+  return zip.generateAsync({ type: "nodebuffer", compression: "DEFLATE" });
+}
+
+Packer.toBuffer(doc).then(sinParticion).then(buf => {
   const out = path.join(OUT_DIR, "Hechos_inferencias_incertidumbre_edicion_revisada.docx");
   fs.writeFileSync(out, buf);
   fs.writeFileSync(path.join(DIR, "toc_keys.json"), JSON.stringify(tocEntries.map(e => e.key), null, 1));

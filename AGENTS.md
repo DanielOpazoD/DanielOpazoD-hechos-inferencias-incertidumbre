@@ -53,7 +53,9 @@ Un cambio en el libro está listo cuando:
 
 1. `./construir.sh` termina sin error: cotejo de las figuras sin derivas, TOC estable entre las dos pasadas y
    `fuentes/comprobar.py` con 0 problemas (cada referencia citada y cada cita con su referencia, figuras numeradas sin
-   saltos, TOC completo, cero comillas rectas en el PDF).
+   saltos, TOC completo, rayas de inciso pegadas y cerradas, idioma es-CL con partición, cero comillas rectas en el PDF
+   y ningún título o etiqueta como última línea de una página). La CI del repo (`.github/workflows/libro.yml`) corre lo
+   mismo en cada push.
 2. Lo tocado se revisó en la página del PDF, no sólo en el Markdown.
 3. Si cambió el texto: `python3 lector/construir_lector.py` (desde `lector/`) sin «problema:», y la página del lector
    republicada (receta en `README.md`, sección del lector).
@@ -63,9 +65,11 @@ Un cambio en el libro está listo cuando:
 
 ## Entorno
 
-- `npm install` (fija `docx` 9.7.1 para `fuentes/build_docx.cjs`) y `pip install -r requirements.txt` (matplotlib y el
+- `npm install` (fija `docx` 9.7.1 y `jszip` 3.10.2 para `fuentes/build_docx.cjs`) y `pip install -r requirements.txt` (matplotlib y el
   paquete del lector, fijados).
-- LibreOffice (`soffice`), poppler (`pdftotext`, `pdfinfo`) y pandoc. Probado con node 22, Python 3.11, LibreOffice
+- LibreOffice (`soffice`), poppler (`pdftotext`, `pdfinfo`), pandoc y los patrones de partición en español (paquete
+  `hyphen-es`; sin ellos LibreOffice no parte palabras y la paginación cambia). Georgia no está en estos contenedores:
+  LibreOffice la reemplaza por DejaVu Serif, y con esa fuente se mide todo. Probado con node 22, Python 3.11, LibreOffice
   24.2, pandoc 3.1 y poppler 24.02.
 - `./construir.sh` tarda unos 15 segundos; `./construir.sh --figuras` regenera además `figs/*.png`.
 

@@ -1,0 +1,40 @@
+# Construye el libro desde fuentes/ y corre sus comprobaciones (construir.sh: cotejo de figuras, DOCX, PDF, TOC
+# estable, EPUB y comprobar.py). Un verde aquí dice que el libro se construye y pasa sus guiones; no reemplaza mirar
+# el PDF (AGENTS.md, «Criterio de listo»).
+name: Libro
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  construir:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: LibreOffice, poppler, pandoc y partición en español
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer poppler-utils pandoc hyphen-es fonts-dejavu-core
+      - run: npm ci
+      - name: Construir y comprobar
+        run: ./construir.sh
+        env:
+          LIBRO_OUT: ${{ runner.temp }}/libro
+      - name: Guardar el PDF construido
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: libro-pdf
+          path: ${{ runner.temp }}/libro/*.pdf
+          if-no-files-found: ignore

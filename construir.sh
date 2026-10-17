@@ -13,6 +13,7 @@ set -euo pipefail
 RAIZ="$(cd "$(dirname "$0")" && pwd)"
 SALIDA="${LIBRO_OUT:-$RAIZ}"
 export LIBRO_OUT="$SALIDA"  # build_docx.cjs, toc_extract.py, build_epub.py y comprobar.py leen y escriben ahí
+mkdir -p "$SALIDA"
 DOCX="$SALIDA/Hechos_inferencias_incertidumbre_edicion_revisada.docx"
 PDF="$SALIDA/Hechos_inferencias_incertidumbre_edicion_revisada.pdf"
 EPUB="$SALIDA/Hechos_inferencias_incertidumbre.epub"
