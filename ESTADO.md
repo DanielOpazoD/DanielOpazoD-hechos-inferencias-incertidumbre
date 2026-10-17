@@ -58,6 +58,10 @@ cambie el estado o se tome una decisión.
 - El capítulo 11, «Cuando saber más no cambia nada: el valor de un examen», entró el 17 de octubre a pedido del autor,
   con sus casos (ecografía tiroidea en hipotiroidismo con examen normal; ANA sin sospecha autoinmune). Los antiguos
   capítulos 11 a 18 son ahora 12 a 19; el registro del README conserva la numeración de cuando se escribió cada punto.
+- Capítulos nuevos (decisión del autor, 17 de octubre): una genealogía del razonamiento clínico antes del capítulo
+  de HII-D, sin Salvador Allende, contando de cada figura su contexto médico, sus ideas y cuán originales fueron. No
+  habrá interludio contado por Carmen. «Diagnosticar entre lenguas» queda para más adelante; «medicina a distancia»,
+  quizá, no ahora. «La ficha que lee el paciente» sigue propuesta, sin decisión.
 - La fuente del libro es Gelasio (decisión del autor, 17 de octubre; punto 50), versionada en `fuentes/tipografia/` con
   su licencia OFL. Se descartaron, tras verlas con el texto del libro, DejaVu Serif, Literata, Source Serif 4, Crimson
   Pro y EB Garamond.
