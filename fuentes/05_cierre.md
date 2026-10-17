@@ -84,7 +84,7 @@ Una o dos frases que expresen la naturaleza del evento, la inferencia con su gra
 
 **Plantilla condensada** (una línea por campo, para la nota difícil): pregunta operativa · hechos decisivos · inferencia principal y grado · alternativa que cambiaría la conducta · incertidumbre crítica · contexto global · decisión y razón · criterio de reapertura.
 
-**Versión de sesenta segundos** (para casos de rutina o alta presión de tiempo): las cuatro preguntas de la caja del capítulo 16, reproducidas en la tarjeta de la última página.
+**Versión de sesenta segundos** (para casos de rutina o alta presión de tiempo): las cuatro preguntas de la caja del capítulo 17, reproducidas en la tarjeta de la última página.
 
 # Apéndice B. Léxico de certeza y pausa diagnóstica
 
@@ -121,7 +121,7 @@ Una o dos frases que expresen la naturaleza del evento, la inferencia con su gra
 
 # Apéndice C. Guía de implementación en un servicio clínico
 
-Esta guía condensa el capítulo 17 en un plan concreto para un servicio que quiera adoptar el lenguaje y las prácticas del libro. Está pensada para un jefe de servicio, un programa de residencia o un grupo de clínicos con voluntad y poco tiempo. Tres advertencias previas: nada de esto está validado como tecnología (véase el capítulo 16, «Límites»); todo debe adaptarse al contexto local; y la palanca más barata —cómo se habla en la visita de sala— es también la más poderosa.
+Esta guía condensa el capítulo 18 en un plan concreto para un servicio que quiera adoptar el lenguaje y las prácticas del libro. Está pensada para un jefe de servicio, un programa de residencia o un grupo de clínicos con voluntad y poco tiempo. Tres advertencias previas: nada de esto está validado como tecnología (véase el capítulo 17, «Límites»); todo debe adaptarse al contexto local; y la palanca más barata —cómo se habla en la visita de sala— es también la más poderosa.
 
 ### Semana 1–2: instalar el lenguaje
 
@@ -154,12 +154,12 @@ Tres indicadores simples, auditables sobre una muestra mensual de fichas: propor
 
 ### Hoja de ruta para el docente
 
-Qué talleres del Apéndice D usar con quién, en el orden en que rinden más; cada uno se nombra por su capítulo. Salvo los que se sostienen en el tiempo (los de los capítulos 5, 16 y 17), cada uno cabe en una reunión de treinta minutos.
+Qué talleres del Apéndice D usar con quién, en el orden en que rinden más; cada uno se nombra por su capítulo. Salvo los que se sostienen en el tiempo (los de los capítulos 5, 17 y 18), cada uno cabe en una reunión de treinta minutos.
 
 - **Interno y residente de primer año**: los talleres de los capítulos 1 (qué tan hecho es este hecho), 2 (la sentencia del TAC), 4 (cinco frases para reescribir), 10 (frecuencias naturales), 11 (si sale…, haré…), 12 (la observación activa, por escrito) y 13 (conjugar los verbos). Enseñan el léxico y las capas antes que el juicio.
-- **Residente de segundo año en adelante**: los de los capítulos 3 (el mapa de lo que no sabemos), 5 (calibración personal, sostenido tres meses), 7 (reconstruir una trayectoria), 8 (presentar sin la etiqueta), 13 (desfosilizar una evolución), 14 (traducir un desacuerdo) y 16 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
-- **Jefe de servicio, docente y comité**: los de los capítulos 10 (las cuatro casillas), 17 (rediseñar la visita de sala) y 18 (la autopsia de una respuesta de IA), y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
-- **Para todos, al cierre de un ciclo**: los de los capítulos 2 (cinco hipótesis en tres minutos) y 19 (la prueba de Parra), que entrenan la generación y el oído.
+- **Residente de segundo año en adelante**: los de los capítulos 3 (el mapa de lo que no sabemos), 5 (calibración personal, sostenido tres meses), 7 (reconstruir una trayectoria), 8 (presentar sin la etiqueta), 13 (desfosilizar una evolución), 14 (traducir un desacuerdo) y 17 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
+- **Jefe de servicio, docente y comité**: los de los capítulos 10 (las cuatro casillas), 16 (el método de Louis, aplicado a una costumbre del servicio), 18 (rediseñar la visita de sala) y 19 (la autopsia de una respuesta de IA), y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
+- **Para todos, al cierre de un ciclo**: los de los capítulos 2 (cinco hipótesis en tres minutos) y 20 (la prueba de Parra), que entrenan la generación y el oído.
 
 Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: el taller del capítulo 4 en las semanas 1–2 (el lenguaje), los de los capítulos 8 y 12 en las semanas 3–4 (la pausa en la visita de sala), los dos del capítulo 13 en el mes 2 (la ficha) y el del capítulo 7 desde el mes 3, junto a la reunión de morbimortalidad; el resto, a demanda. Los «errores típicos» anotados en los talleres de los capítulos 7, 8, 10 (frecuencias naturales) y 13 (conjugar los verbos) son lo que los grupos suelen responder primero; mostrarlos antes de la versión posible enseña por contraste.
 
@@ -289,25 +289,33 @@ En la entrega de turno de la mañana, al discutir el caso de Carmen, el intensiv
 
 *Una versión posible.* Cuando el desacuerdo se desarma por capas, el conflicto aparente cambia de naturaleza. En los **hechos** no existe disputa alguna: ambos conocen los cuatro episodios en el año, el shock reciente y la tomografía sin isquemia. En la **inferencia** pronóstica coinciden mucho más de lo que su tono sugiere: ambos estiman como altamente probable una nueva recurrencia obstructiva a corto o mediano plazo. La divergencia real está en dos puntos. Primero, en una **incertidumbre** epistémica reducible: cuánto eleva el riesgo perioperatorio el shock recién resuelto, una duda que no se dirime con opiniones en la entrega de turno sino con una evaluación funcional y preoperatoria formal. Segundo, en el **umbral de decisión**: cuánto riesgo quirúrgico programado es razonable asumir hoy para evitar el riesgo incierto de una urgencia futura. Esa ponderación exige los **valores** y temores de la propia Carmen, que aún no ha sido escuchada. Traducida la discusión a esta matriz, el plan de trabajo se redacta solo: objetivar la capacidad funcional, optimizar su condición respiratoria y nutricional, y sentarse a conversar con Carmen sobre ambos escenarios de riesgo. Ninguno de los dos médicos «ganó» la discusión: el equipo utilizó el desacuerdo para diagnosticar qué información le faltaba.
 
-#### Taller del capítulo 16. Su paciente, esta semana
+#### Taller del capítulo 16. El método de Louis, aplicado a una costumbre del servicio
+
+Se elige una costumbre del servicio que nadie ha contado: un examen que se pide a todos los que ingresan, una sonda que se deja «por si acaso», un ayuno que se prolonga hasta la visita. Luego se diseña, como Louis, la comparación que la pondría a prueba con los datos del propio servicio: qué dos grupos, qué desenlace, qué diferencia entre los grupos podría explicar por sí sola el resultado y qué resultado obligaría a abandonar la costumbre.
+
+*Error típico.* Comparar a quienes recibieron la costumbre con quienes no la recibieron, sin preguntar por qué unos sí y otros no. Es el error que Louis evitó con la edad: si la sonda se le deja al más grave, el grupo con sonda tendrá peores desenlaces aunque la sonda no haga nada.
+
+*Una versión posible.* La costumbre: sonda vesical a permanencia en todo adulto mayor que ingresa con insuficiencia cardiaca descompensada, para medir la diuresis. Los grupos: los pacientes de los últimos seis meses con sonda y sin ella. Los desenlaces: infección urinaria asociada a catéter, delirium y días de hospitalización. Lo que podría explicar la diferencia por sí solo: la gravedad al ingreso, la movilidad previa y la demencia, que vuelven más probables tanto la sonda como el mal desenlace; se comparan, entonces, pacientes semejantes en esas tres variables. El resultado que obligaría a cambiar: si entre pacientes comparables la sonda no mejora el manejo del balance hídrico y sí aumenta las infecciones o el delirium, deja de ser norma y pasa a ser excepción con indicación escrita. Lo que el ejercicio no puede hacer es probar con certeza que la costumbre sirve o daña. Como a Louis, le permite algo más modesto y más útil: mostrar que nadie lo sabía.
+
+#### Taller del capítulo 17. Su paciente, esta semana
 
 El caso es el más incómodo de la lista actual —el que genera discusión en cada visita o el que nadie discute hace días—. Se escribe en la plantilla condensada del Apéndice A y se compara con la última evolución de la ficha: ¿qué contiene la plantilla que la ficha no registra?
 
 *Comentario.* No hay una respuesta única, pero sí un patrón casi universal al comparar: la ficha suele contener los hechos y la decisión, y omitir las dos capas intermedias —el grado de la inferencia («neumonía» sin «probable/demostrada») y la incertidumbre crítica con su vigilancia—. Es decir: registra qué se piensa y qué se hace, pero no cuánto derecho hay a pensarlo ni qué lo haría cambiar. Si su plantilla y su ficha coinciden, este libro le debe una disculpa por las horas invertidas. Si no coinciden, la plantilla acaba de mostrarle qué escribir mañana.
 
-#### Taller del capítulo 17. Rediseñar la visita de sala
+#### Taller del capítulo 18. Rediseñar la visita de sala
 
 Primero, describir por escrito la visita de sala del servicio tal como ocurre de verdad: minutos por paciente, quién habla, qué se pregunta siempre y qué no se pregunta nunca. Luego, rediseñarla con tres cambios como máximo —un disparador objetivo de pausa, una pregunta obligatoria por paciente inestable o incierto, una regla de entrega de turno— y estimar el costo en minutos por visita.
 
 *Una versión posible.* Una descripción honesta puede parecerse a esto: dos a cuatro minutos por paciente, habla quien presenta y decide quien dirige, se pregunta «¿cómo está?» y «¿qué le falta?», y casi nunca «¿qué nos haría cambiar?». El rediseño más barato es esa tercera pregunta, hecha sólo a los pacientes que cumplen un disparador (reconsulta, discordancia entre gravedad y diagnóstico, 72 horas sin discusión): cuesta alrededor de un minuto por caso seleccionado y produce, de inmediato, criterios de reapertura que antes no existían. Si el rediseño necesita más de tres cambios o más de diez minutos por visita, probablemente está diseñando una reunión nueva en lugar de mejorar la que existe —y las reuniones nuevas mueren por inasistencia—.
 
-#### Taller del capítulo 18. La autopsia de una respuesta
+#### Taller del capítulo 19. La autopsia de una respuesta
 
 Un caso real ya resuelto del servicio, debidamente anonimizado, se pega en un asistente de lenguaje con el pedido de evaluación y plan. La respuesta, impresa, se marca con tres colores: (1) afirmaciones sustentadas en datos que el caso contenía; (2) contenido que el modelo agregó (detalles «típicos», causalidades, datos que nadie le dio); (3) incertidumbre declarada. Después, una segunda pregunta al modelo: «¿qué evidencia haría improbable tu diagnóstico principal?».
 
 *Comentario.* En ejercicios docentes, tres hallazgos vuelven una y otra vez. Primero, el color 2 aparece más de lo esperado: el modelo rellena huecos con verosimilitud —una evolución «esperable», un factor de riesgo «presumible»— y esa es la definición de confabulación; contarlas cura más que leer sobre ellas. Segundo, el color 3 suele ser genérico («se sugiere correlacionar con la clínica») y no específico del caso: incertidumbre de fórmula, no de contenido —conviene compararla con la que exige el léxico de certeza—. Tercero, la respuesta a la segunda pregunta suele ser mejor que la primera: el modelo enumera con soltura los datos que refutarían su propia propuesta —pero sólo si alguien se lo pide—. La herramienta contiene su propio antídoto; la pregunta que lo libera sigue siendo humana.
 
-#### Taller del capítulo 19. La prueba de Parra
+#### Taller del capítulo 20. La prueba de Parra
 
 Dos preguntas para la frase medular del paciente más reciente. Primera: ¿hay en ella alguna palabra huidobriana —que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)—? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión? Y si al traducirla se desinfla, ¿qué la sostenía: la evidencia o la retórica?
 
@@ -315,7 +323,7 @@ Dos preguntas para la frase medular del paciente más reciente. Primera: ¿hay e
 
 # Apéndice E. Las preguntas para la próxima visita
 
-Las 60 preguntas con que cierran la Introducción y los diecinueve capítulos, reunidas para la visita de sala, la entrega de turno o el portafolio de calibración del capítulo 5. Tres por capítulo; una por semana basta. Ninguna pide más de dos minutos y todas se responden con un paciente concreto.
+Las 63 preguntas con que cierran la Introducción y los veinte capítulos, reunidas para la visita de sala, la entrega de turno o el portafolio de calibración del capítulo 5. Tres por capítulo; una por semana basta. Ninguna pide más de dos minutos y todas se responden con un paciente concreto.
 
 **Introducción**
 
@@ -413,25 +421,31 @@ Las 60 preguntas con que cierran la Introducción y los diecinueve capítulos, r
 - Mi última recomendación firme: ¿podría explicar qué hechos la sostienen, qué incertidumbres la modificarían y qué valores del paciente pesan?
 - ¿Hay en mis fichas una etiqueta («funcional», «no adherente», «poco colaborador») que esté distribuyendo credibilidad en lugar de información?
 
-**Capítulo 16. El método HII-D: una epistemología operativa**
+**Capítulo 16. Una genealogía de las capas: de Hipócrates a Balint**
+
+- ¿Qué hecho de mi nota de hoy depende de un instrumento o de un oído entrenado, y contra qué patrón de referencia se validó alguna vez?
+- ¿Qué costumbre del servicio sostenemos sólo porque nadie la ha contado, como la sangría antes de Louis?
+- En mi último paciente que pasó por varios especialistas, ¿quién firmó la síntesis, o hubo colusión del anonimato?
+
+**Capítulo 17. El método HII-D: una epistemología operativa**
 
 - ¿Cuál es la pregunta operativa de mi caso más difícil —la decisión real en juego, no «el diagnóstico»—?
 - ¿Mi nota de hoy permite a otro médico reconstruir mis cuatro capas, o sólo mi conclusión?
 - ¿Qué decisión de esta semana tomé sin criterio de reapertura, y todavía estoy a tiempo de escribirlo?
 
-**Capítulo 17. Enseñar y organizar la metacognición clínica**
+**Capítulo 18. Enseñar y organizar la metacognición clínica**
 
 - La última vez que enseñé un caso, ¿pedí el diagnóstico o pedí primero la representación del problema?
 - ¿Qué pasó con el último paciente que derivé o di de alta con diagnóstico incierto —y cómo podría enterarme sistemáticamente—?
 - Si mañana dirigiera mi servicio, ¿cuál de las tres palancas (visita de sala, ficha, revisión de errores) cambiaría primero, y qué costaría?
 
-**Capítulo 18. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas**
+**Capítulo 19. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas**
 
 - Si uso IA en este caso, ¿qué dato de su respuesta verifiqué contra una fuente primaria antes de actuar?
 - ¿Qué agregó el modelo que el caso no contenía?
 - ¿Estoy usando la herramienta para ampliar hipótesis o para confirmar rápido la que ya tenía?
 
-**Capítulo 19. La palabra exacta: lo que la poesía sabe del juicio clínico**
+**Capítulo 20. La palabra exacta: lo que la poesía sabe del juicio clínico**
 
 - ¿Qué palabra de mi última nota está «haciendo florecer» algo que nadie observó?
 - El diagnóstico que más me satisface hoy: ¿me convence por la evidencia o por lo bien que cierra la historia?
@@ -454,6 +468,12 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 **Cierre prematuro (premature closure).** Aceptación de un diagnóstico antes de haberlo verificado suficientemente, con suspensión de la búsqueda de alternativas.
 
 **Cognición distribuida (distributed cognition).** Marco que estudia cómo el procesamiento de información se realiza a través de personas y artefactos coordinados, no sólo dentro de mentes individuales (Hutchins).
+
+**Colectivo de pensamiento / estilo de pensamiento (thought collective / thought style).** Para Fleck, la comunidad de personas que intercambian ideas y la disposición compartida a percibir de cierto modo —qué problemas interesan, qué juicios parecen evidentes, qué métodos valen— que decide qué cuenta como hecho en esa comunidad.
+
+**Colusión del anonimato (collusion of anonymity).** Situación en que un paciente circula entre su médico y varios especialistas, y se toman decisiones importantes sin que nadie se sienta plenamente responsable de ellas (Balint).
+
+**Confusión (confounding).** Distorsión de una comparación entre grupos cuando éstos difieren en otra característica que también influye en el desenlace. Louis la advirtió en 1835, al notar que los pacientes sangrados más temprano eran también los de más edad.
 
 **Conocimiento tácito (tacit knowledge).** Capacidad de reconocer o ejecutar más de lo que puede formularse explícitamente (Polanyi).
 
@@ -523,7 +543,11 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Meta-d′ / M-ratio.** Medida de sensibilidad metacognitiva basada en teoría de detección de señales: expresa cuánta de la información disponible para la decisión aprovecha el observador al evaluar sus propias respuestas; el cociente meta-d′/d′ (M-ratio) permite comparar entre personas y tareas (Maniscalco y Lau).
 
+**Método numérico (numerical method).** Propuesta de Louis de evaluar un tratamiento contando sus desenlaces en grupos de pacientes semejantes en todo lo demás, en lugar de confiar en la impresión de la experiencia.
+
 **Modalidad epistémica (epistemic modality).** Recursos del lenguaje que expresan el grado de certeza de una afirmación («demostrado», «probable», «sin evidencia de»).
+
+**Modelo biopsicosocial (biopsychosocial model).** Propuesta de Engel de que el modelo de enfermedad incluya, además de las variables biológicas, al paciente, su contexto social y el sistema de atención, incluido el rol del médico.
 
 **Objetividad entre paréntesis.** Distinción de Maturana entre el que cree hablar de la realidad sin mediación y usa esa creencia para obligar (objetividad sin paréntesis) y el que admite que toda afirmación válida lo es dentro de condiciones que el observador puede declarar. En este libro, el fundamento de la trazabilidad: declarar al observador no vuelve relativa la observación, la vuelve auditable.
 
@@ -538,6 +562,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 **Probabilidad pretest / postest (pre-test / post-test probability).** Probabilidad de una condición antes y después de incorporar el resultado de una prueba; su relación depende del rendimiento de la prueba y de la prevalencia.
 
 **Proporcionalidad terapéutica.** Obligación moral de implementar sólo las medidas que guarden debida proporción entre los medios empleados y el resultado previsible, juzgada desde el pronóstico, las cargas y los fines del paciente (Taboada). Exige un pronóstico honesto: sin buen juicio epistémico no hay juicio de proporcionalidad.
+
+**Puntos de vista de Hill (Bradford Hill viewpoints).** Nueve consideraciones —fuerza, consistencia, especificidad, temporalidad, gradiente biológico, plausibilidad, coherencia, experimento y analogía— para examinar una asociación antes de llamarla causal. Hill advirtió que ninguna es indispensable ni suficiente, y nunca las llamó criterios.
 
 **Quiebre (breakdown).** Momento en que la respuesta inmediata del experto falla o la situación no calza con lo aprendido, y la deliberación explícita entra en escena (Varela). Las pausas selectivas de este libro son quiebres puestos por diseño.
 
@@ -574,31 +600,37 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 
 - Abducción — 2; vigilada por la metacognición — 5; mantenida abierta por la humildad — 15
 - Actos de habla en la ficha (Austin) — 4
+- Al-Razi: comparar grupos hacia el año 900 — 16
 - Anclaje — 7, 12, CC (viñeta 6)
 - Anticuerpos antinucleares sin sospecha clínica — 11
-- Antipoesía como léxico de certeza (Parra) — 19
-- Atrofia de la pericia por asistencia de IA (deskilling) — 18
+- Antipoesía como léxico de certeza (Parra) — 20
+- Atrofia de la pericia por asistencia de IA (deskilling) — 19
+- Auscultación y método anatomoclínico (Laennec) — 16
 - Ausencia de evidencia / evidencia de ausencia — 1, 4, Ap B
-- Autoridad revisable — 7, 14, 15
-- Bioética y razonamiento clínico (cuatro tópicos, proporcionalidad, deliberación) — 10, 16, CC (viñeta 5), Ap A
-- Calibración — 5, 16, 17, Ap C
+- Autoridad revisable — 7, 14, 15, 16
+- Bioética y razonamiento clínico (cuatro tópicos, proporcionalidad, deliberación) — 10, 17, CC (viñeta 5), Ap A
+- Calibración — 5, 17, 18, Ap C
 - Capacidad de decidir (cuatro criterios; lucidez fluctuante) — CC (viñeta 5)
-- Captura cognitiva por IA (la respuesta antes que el caso) — 18
+- Captura cognitiva por IA (la respuesta antes que el caso) — 19
 - Carga teórica de la observación — 1
 - Cascadas de atención y hallazgos incidentales — 11
+- Causalidad: puntos de vista de Hill — 16
 - Cierre prematuro — 2, 7, CC (viñeta 6)
 - Cognición distribuida — 14
-- Comparación de HII-D con otros modelos (SOAP, scripts, reflexión deliberada) — 16
+- Colectivo y estilo de pensamiento (Fleck) — 16
+- Colusión del anonimato (Balint) — 16
+- Comparación de HII-D con otros modelos (SOAP, scripts, reflexión deliberada) — 17
 - Comunicación de incertidumbre — 14, 15, CC (viñeta 5)
-- Conocimiento tácito — 6; saber hacer y quiebre (Varela) — 6
-- Contexto global del paciente (funcionalidad, pronóstico de fondo, red de apoyo) — 10, 16, Ap A
+- Confusión en la comparación de grupos (Louis) — 16
+- Conocimiento tácito — 6, 16; saber hacer y quiebre (Varela) — 6
+- Contexto global del paciente (funcionalidad, pronóstico de fondo, red de apoyo) — 10, 17, Ap A
 - Contrafactuales — 12
 - Conversaciones para la acción (Flores y Winograd) — 14
 - Copiado de notas (fósil narrativo; magnitud medida) — 13, Ap C
-- Creatividad en el juicio clínico (abducción, problem setting, tercera opción) — 2, 19
-- Criterio de reapertura — 8, 13, 16, Interludio III, CC (viñeta 6), Ap A, Ap C
+- Creatividad en el juicio clínico (abducción, problem setting, tercera opción) — 2, 20
+- Criterio de reapertura — 8, 13, 17, Interludio III, CC (viñeta 6), Ap A, Ap C
 - Cuatro tópicos (Jonsen, Siegler y Winslade) — 10, Ap A
-- Debate sobre la enseñanza del razonamiento (Croskerry vs. Norman/Monteiro) — 17
+- Debate sobre la enseñanza del razonamiento (Croskerry vs. Norman/Monteiro) — 18
 - Decisión compartida — 15, Interludio III
 - Deliberación moral (Gracia) — 10
 - Densidad epistémica — 4; seis dimensiones de auditoría — 4, Ap B
@@ -607,73 +639,84 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Doble proceso — 6
 - Documentación defensiva — 15
 - Ecografía tiroidea con examen normal — 11
+- Empíricos y racionalistas (Galeno) — 16
 - Ensombrecimiento diagnóstico — CC (viñeta 8)
 - Error diagnóstico: magnitud medida y estimada — 7
 - Errores asimétricos — 10, CC (viñeta 3)
 - Errores típicos en los talleres — Ap D
-- Escribas ambientales (regla «la capa H, verificada; la capa D, no») — 18
+- Escribas ambientales (regla «la capa H, verificada; la capa D, no») — 19
 - Estado de verificación de un diagnóstico en la ficha electrónica — 13
-- Estado del razonador (esfuerzo, sueño, ánimo; turnos como condición epistémica) — 8, 17, Ap A
+- Estado del razonador (esfuerzo, sueño, ánimo; turnos como condición epistémica) — 8, 18, Ap A
 - Ética de la creencia (Clifford); pensar bien como deber primordial — 15, C
-- Evidencia poblacional y particularización — 9
+- Evidencia poblacional y particularización — 9; la objeción de Bernard a los promedios — 16
 - Exámenes para tranquilizar — 11
-- Falsabilidad del método HII-D — 16
-- Feedback diagnóstico — 5, 17, Ap C
+- Experimento natural de las dos clínicas de Viena (Semmelweis) — 16
+- Falsabilidad del método HII-D — 17
+- Feedback diagnóstico — 5, 18, Ap C
 - Ficha como dispositivo que produce lo visible (Foucault) — 13
 - Ficha de proceso vs. ficha de resultados (los verbos del razonamiento) — 13, Ap D
-- Fichas clínicas y plantillas — 13, 17, Ap C; ficha electrónica pensada desde HII-D — 13
-- Formación clínica en la era de la IA (deskilling, never-skilling, mis-skilling) — 18
-- Fragilidad y funcionalidad como hechos clínicos — 10, 16, Ap A
+- Fichas clínicas y plantillas — 13, 18, Ap C; ficha electrónica pensada desde HII-D — 13
+- Formación clínica en la era de la IA (deskilling, never-skilling, mis-skilling) — 19
+- Fragilidad y funcionalidad como hechos clínicos — 10, 17, Ap A
 - Frase medular — 4, 13, C, CC (todas las viñetas); como argumento de Toulmin — 4
 - Frecuencias naturales — 2, 10
 - Fuentes del hecho clínico (matriz de procedencia) — 1
+- Genealogía del razonamiento clínico — 16
 - Grados de facticidad — 1
 - Hecho como estatus provisional (frontera hecho/inferencia) — 1
-- HII-D (método) — 13, 16, Ap A; auditoría de IA con — 18
-- Hindsight bias — 8, 12, 17, CC (viñeta 6)
+- HII-D (método) — 13, 17, Ap A; auditoría de IA con — 19
+- Hindsight bias — 8, 12, 18, CC (viñeta 6)
+- Hipótesis puesta a prueba y contraprueba (Bernard) — 16
 - Hoja de ruta para el docente (talleres por nivel) — Ap C
 - Humildad epistémica como motor (explorar, aprender, reenfocar) — 15
-- Illness scripts — 2, 6, 17
+- Illness scripts — 2, 6, 18
 - Improvisación y saber hacer (jazz; Limb y Braun) — 6
 - Incertidumbre que conviene dejar — 3, 11
 - Incertidumbre: taxonomía y cartografía — 3; epistémica y aleatoria — 3; knightiana — 3
 - Injusticia epistémica — 15, CC (viñetas 6 y 8)
-- Inteligencia artificial: rol diagnóstico y terapéutico, catálogo de riesgos, defensas — 18
+- Inteligencia artificial: rol diagnóstico y terapéutico, catálogo de riesgos, defensas — 19
 - Intuición experta — 5, 6, Interludio II
 - Lectura de ensayos clínicos (significación, reanálisis bayesiano, saga ANDROMEDA) — 9
-- Léxico de certeza — 4, Ap B; sus precedentes (Kent, radiología) — 16
+- Léxico de certeza — 4, Ap B; sus precedentes (Kent, radiología) — 17
+- Lógica, probabilidad y valor en el diagnóstico (Ledley y Lusted) — 16
 - Marcador y enfermedad (lactato, perfusión, ANDROMEDA-SHOCK) — 1, 9
 - Medicina basada en evidencia — 9
+- Médico como medicamento (Balint) — 16
 - Mente del principiante (Zen, shoshin) — 8
 - Meta-d′ y medición de la metacognición — 5
-- Metacognición: definición y niveles — Int, 5; monitoreo y control — 5; social (señales del equipo y del paciente) — 5, 14; sensibilidad vs. sesgo — Int, 5; auditoría de salidas de IA — 18
+- Metacognición: definición y niveles — Int, 5; monitoreo y control — 5; social (señales del equipo y del paciente) — 5, 14; sensibilidad vs. sesgo — Int, 5; auditoría de salidas de IA — 19
+- Método numérico (Louis) — 16
 - Miedo y decisión (documentación defensiva, sobreestudio) — 3, 15
+- Modelo biopsicosocial (Engel) — 16
 - Modelo de Toulmin (dato, garantía, calificador, refutación) — 4
-- Nota clínica generada por IA (degradación del registro) — 18
+- Nota clínica generada por IA (degradación del registro) — 19
 - Nota de enfermería como hecho clínico — 14
 - Objetividad entre paréntesis y observador (Maturana) — 1; emociones como dominio de acción — 8
 - Observación activa — 12, Ap D
-- Paradoja de la automatización — 18
-- Pausa diagnóstica — 8, 17, Ap B, Ap C
+- Originalidad de las ideas clínicas (precedentes y procedimientos) — 16
+- Paradoja de la automatización — 19
+- Pausa diagnóstica — 8, 18, Ap B, Ap C
 - Pericia y práctica deliberada — 6
 - Phronesis — 6, 15
-- Poesía y juicio clínico (Huidobro, Parra; belleza como señal y trampa) — 19
-- Portafolio de calibración — 5, 8, 15, 17, Ap C, Ap D
+- Poesía y juicio clínico (Huidobro, Parra; belleza como señal y trampa) — 20
+- Portafolio de calibración — 5, 8, 15, 18, Ap C, Ap D
 - Preguntas para la próxima visita (reunidas) — Ap E
+- Primum non nocere (origen de la fórmula) — 16
+- Probabilidad como guía del juicio («este eterno quizás», Osler) — 16
 - Pronóstico e incertidumbre de plazo — CC (viñeta 5)
-- Proporcionalidad terapéutica (Taboada) — 10, 16, CC (viñeta 5)
+- Proporcionalidad terapéutica (Taboada) — 10, 17, CC (viñeta 5)
 - Proteína C reactiva: cinética y lectura temporal — 12, 13
-- Prueba de Parra (taller del capítulo 19) — Ap D
+- Prueba de Parra (taller del capítulo 20) — Ap D
 - Pruebas severas (Popper) — 2
 - Puntos de inflexión — 12, Interludio III
 - Red de seguridad (safety-netting) — 12, CC (viñetas 3, 4 y 7)
 - Reglas de decisión clínica (PERC) y umbral — CC (viñeta 6)
-- Representación del problema — Int, 2, 8, 17
+- Representación del problema — Int, 2, 8, 18
 - Riesgo inductivo (Rudner, Douglas) — 10
 - Segunda víctima — 15
-- Segundo lector — 5, 8, 18
-- Sesgo algorítmico (Obermeyer) — 18
-- Sesgo de automatización (Goddard) — 18
+- Segundo lector — 5, 8, 19
+- Sesgo algorítmico (Obermeyer) — 19
+- Sesgo de automatización (Goddard) — 19
 - Sesgos cognitivos: alcance y límites del vocabulario — 7
 - Sobreconfianza — 5, 7
 - Sobrediagnóstico — 11
@@ -684,8 +727,8 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Trayectoria del error (estaciones y barreras) — 7
 - Trayectoria y temporalidad — 12, Interludio I
 - Umbral y geografía (hospital insular, evacuación aeromédica) — 12
-- Umbrales de decisión — 10, Interludio III, CC (viñeta 3)
-- Validación local y monitoreo de herramientas de IA — 18
+- Umbrales de decisión — 10, 16, Interludio III, CC (viñeta 3)
+- Validación local y monitoreo de herramientas de IA — 19
 - Validez del entorno e intuición (Kahneman y Klein) — 6
 - Valor de un examen («si sale…, haré…») — 11, Ap A, Ap D
 - Verbos epistémicos — 4, Ap B
@@ -705,8 +748,8 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Figura 11. La línea de tiempo de Carmen y el umbral que se mueve (Capítulo 10).
 - Figura 12. El cálculo en frecuencias naturales (Capítulo 10).
 - Figura 13. El viaje de una frase (Capítulo 13).
-- Figura 14. El método HII-D en una página (Capítulo 16).
-- Figura 15. Parentescos: cada riesgo de la IA clínica junto al sesgo ya descrito (Capítulo 18).
+- Figura 14. El método HII-D en una página (Capítulo 17).
+- Figura 15. Parentescos: cada riesgo de la IA clínica junto al sesgo ya descrito (Capítulo 19).
 
 # Nota metodológica y estatuto de las afirmaciones
 
@@ -718,11 +761,11 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 
 **Los casos.** Las escenas clínicas de este libro —Carmen, los interludios, las viñetas y los pasajes en primera persona— son composiciones docentes en el sentido declarado en la página legal: condensan experiencias reales y situaciones compuestas, sin reproducir episodios literales ni permitir identificación de personas o instituciones.
 
-**Uso de inteligencia artificial.** Este manuscrito se desarrolló a partir de ideas y formulaciones del autor, con asistencia de inteligencia artificial en búsqueda inicial, organización, comparación bibliográfica, apoyo en redacción y edición. La IA no sustituyó la verificación de fuentes, el juicio clínico, la autoría ni la responsabilidad: las tesis, las decisiones de contenido y los errores pertenecen al autor. El libro intenta aplicar a su propia escritura la disciplina que su capítulo 18 recomienda.
+**Uso de inteligencia artificial.** Este manuscrito se desarrolló a partir de ideas y formulaciones del autor, con asistencia de inteligencia artificial en búsqueda inicial, organización, comparación bibliográfica, apoyo en redacción y edición. La IA no sustituyó la verificación de fuentes, el juicio clínico, la autoría ni la responsabilidad: las tesis, las decisiones de contenido y los errores pertenecen al autor. El libro intenta aplicar a su propia escritura la disciplina que su capítulo 19 recomienda.
 
-**Verificación de las referencias.** Cada referencia se cotejó contra su fuente primaria antes de citarse, y el registro de ese cotejo —cifra por cifra— acompaña a las fuentes del libro. Cuatro se verificaron sólo por metadatos o por fuentes secundarias, y el lector debe saberlo: Estrada, Isen y Young (1997), cuyo texto completo no estuvo accesible, por lo que el hallazgo se enuncia tal como lo formula el título y sin cifras; la frase de Maturana (1970), tomada de su reimpresión y de *El árbol del conocimiento*; la cita de Suzuki (1970), confirmada contra la edición y no contra una copia del prólogo; y la localización de la tesis de Clifford (1877), tomada de la *Stanford Encyclopedia of Philosophy* y no del volumen original de la *Contemporary Review*. Ninguna de ellas sostiene por sí sola una cifra ni una conducta. La distribución de citas es plana: de las 210 citas del cuerpo, ningún autor supera el 4%, y Croskerry, Norman y Kahneman —las voces dominantes de la literatura sobre razonamiento clínico— suman el 8%. Las referencias con siete o más autores listan los seis primeros seguidos de «et al.»; los ensayos firmados por un grupo conservan el nombre del grupo.
+**Verificación de las referencias.** Cada referencia se cotejó contra su fuente primaria antes de citarse, y el registro de ese cotejo —cifra por cifra— acompaña a las fuentes del libro. Cinco se verificaron sólo por metadatos o por fuentes secundarias, y el lector debe saberlo: Estrada, Isen y Young (1997), cuyo texto completo no estuvo accesible, por lo que el hallazgo se enuncia tal como lo formula el título y sin cifras; la frase de Maturana (1970), tomada de su reimpresión y de *El árbol del conocimiento*; la cita de Suzuki (1970), confirmada contra la edición y no contra una copia del prólogo; y la localización de la tesis de Clifford (1877), tomada de la *Stanford Encyclopedia of Philosophy* y no del volumen original de la *Contemporary Review*; y el artículo de Ledley y Lusted (1959), cuyo texto completo no estuvo accesible, por lo que se describe por su subtítulo y por lo que dicen de él sus contemporáneos. Ninguna de ellas sostiene por sí sola una cifra ni una conducta. La distribución de citas es plana: de las 210 citas del cuerpo, ningún autor supera el 4%, y Croskerry, Norman y Kahneman —las voces dominantes de la literatura sobre razonamiento clínico— suman el 8%. Las referencias con siete o más autores listan los seis primeros seguidos de «et al.»; los ensayos firmados por un grupo conservan el nombre del grupo.
 
-**HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 16 («Qué evidencia me haría abandonar este método»); su evaluación empírica —concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo— es un programa pendiente, no un resultado.
+**HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 17 («Qué evidencia me haría abandonar este método»); su evaluación empírica —concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo— es un programa pendiente, no un resultado.
 
 # Referencias
 
@@ -748,7 +791,11 @@ Auerbach, A. D., Lee, T. M., Hubbard, C. C., Ranji, S. R., Raffel, K., Valdes, G
 
 Austin, J. L. (1962). *How to Do Things with Words*. Clarendon Press.
 
+Balint, M. (1957). *The Doctor, His Patient and the Illness*. International Universities Press.
+
 Barrows, H. S., & Feltovich, P. J. (1987). The clinical reasoning process. *Medical Education, 21*(2), 86–91.
+
+Bernard, C. (1865). *Introduction à l'étude de la médecine expérimentale*. J.-B. Baillière et fils.
 
 Berner, E. S., & Graber, M. L. (2008). Overconfidence as a cause of diagnostic error in medicine. *The American Journal of Medicine, 121*(5 Suppl), S2–S23.
 
@@ -769,6 +816,8 @@ Budzyń, K., Romańczyk, M., Kitala, D., Kołodziej, P., Bugajski, M., Adami, H.
 Cabitza, F., Rasoini, R., & Gensini, G. F. (2017). Unintended consequences of machine learning in medicine. *JAMA, 318*(6), 517–518.
 
 Canguilhem, G. (1971). *Lo normal y lo patológico* (R. Potschart, Trad.). Siglo XXI. (Obra original publicada en 1966).
+
+Card, W. I. (1970). The diagnostic process. *Journal of the Royal College of Physicians of London, 4*(3), 183–187.
 
 Carel, H., & Kidd, I. J. (2014). Epistemic injustice in healthcare: A philosophical analysis. *Medicine, Health Care and Philosophy, 17*(4), 529–540.
 
@@ -812,6 +861,8 @@ Elstein, A. S., Shulman, L. S., & Sprafka, S. A. (1978). *Medical Problem Solvin
 
 Elwyn, G., Frosch, D., Thomson, R., Joseph-Williams, N., Lloyd, A., Kinnersley, P., et al. (2012). Shared decision making: A model for clinical practice. *Journal of General Internal Medicine, 27*(10), 1361–1367.
 
+Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. *Science, 196*(4286), 129–136.
+
 Epstein, R. M. (1999). Mindful practice. *JAMA, 282*(9), 833–839.
 
 Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363–406.
@@ -826,7 +877,11 @@ Evans, J. St. B. T., & Stanovich, K. E. (2013). Dual-process theories of higher 
 
 Feinstein, A. R. (1967). *Clinical Judgment*. Williams & Wilkins.
 
+Feinstein, A. R. (1973). An analysis of diagnostic reasoning. I. The domains and disorders of clinical macrobiology. *Yale Journal of Biology and Medicine, 46*(3), 212–232.
+
 Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.
+
+Fleck, L. (1979). *Genesis and Development of a Scientific Fact* (T. J. Trenn & R. K. Merton, Eds.; F. Bradley & T. J. Trenn, Trans.). University of Chicago Press. (Obra original publicada en 1935).
 
 Fleming, S. M. (2021). *Know Thyself: The Science of Self-Awareness*. Basic Books.
 
@@ -845,6 +900,8 @@ Gadamer, H.-G. (1996). *El estado oculto de la salud* (N. Machaín, Trad.). Gedi
 Ganguli, I., Simpkin, A. L., Lupo, C., Weissman, A., Mainor, A. J., Orav, E. J., et al. (2019). Cascades of care after incidental findings in a US national survey of physicians. *JAMA Network Open, 2*(10), e1913325.
 
 Gérvas, J., & Pérez Fernández, M. (2013). *Sano y salvo (y libre de intervenciones médicas innecesarias)*. Los Libros del Lince.
+
+Ghaemi, S. N. (2009). The rise and fall of the biopsychosocial model. *British Journal of Psychiatry, 195*(1), 3–4.
 
 Gigerenzer, G., & Gaissmaier, W. (2011). Heuristic decision making. *Annual Review of Psychology, 62*, 451–482.
 
@@ -874,6 +931,8 @@ Han, P. K. J., Klein, W. M. P., & Arora, N. K. (2011). Varieties of uncertainty 
 
 Hempel, C. G. (1965). Science and human values. In *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science* (pp. 81–96). Free Press.
 
+Hepburn, B., & Andersen, H. (2026). Scientific method. En E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2026 ed.).
+
 Hernán, M. A., & Robins, J. M. (2020). *Causal Inference: What If*. Chapman & Hall/CRC.
 
 Hernández, G., Bellomo, R., & Bakker, J. (2019). The ten pitfalls of lactate clearance in sepsis. *Intensive Care Medicine, 45*(1), 82–85.
@@ -881,6 +940,12 @@ Hernández, G., Bellomo, R., & Bakker, J. (2019). The ten pitfalls of lactate cl
 Hernández, G., Ospina-Tascón, G. A., Damiani, L. P., Estenssoro, E., Dubin, A., Hurtado, J., et al. (2019). Effect of a resuscitation strategy targeting peripheral perfusion status vs serum lactate levels on 28-day mortality among patients with septic shock: The ANDROMEDA-SHOCK randomized clinical trial. *JAMA, 321*(7), 654–664.
 
 Hernández, G., Ospina-Tascón, G. A., Kattan, E., Ibarra-Estrada, M., Ramasco, F., Orozco, N., et al., por los investigadores de ANDROMEDA-SHOCK-2. (2025). Personalized hemodynamic resuscitation targeting capillary refill time in early septic shock: The ANDROMEDA-SHOCK-2 randomized clinical trial. *JAMA, 334*(22), 1988–1999.
+
+Hill, A. B. (1965). The environment and disease: Association or causation? *Proceedings of the Royal Society of Medicine, 58*(5), 295–300.
+
+Hipócrates. (1923a). *Hippocrates, Vol. I* (W. H. S. Jones, Trad.). William Heinemann; Harvard University Press.
+
+Hipócrates. (1923b). *Hippocrates, Vol. II* (W. H. S. Jones, Trad.). William Heinemann; Harvard University Press.
 
 Hoffrage, U., & Gigerenzer, G. (1998). Using natural frequencies to improve diagnostic inferences. *Academic Medicine, 73*(5), 538–540.
 
@@ -897,6 +962,8 @@ Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., et al. (2023). Survey of h
 Jonsen, A. R., Siegler, M., & Winslade, W. J. (2022). *Clinical Ethics: A Practical Approach to Ethical Decisions in Clinical Medicine* (9.ª ed.). McGraw-Hill. (1.ª ed., 1982).
 
 Jonsen, A. R., & Toulmin, S. (1988). *The Abuse of Casuistry: A History of Moral Reasoning*. University of California Press.
+
+Kadar, N., Romero, R., & Papp, Z. (2018). Ignaz Semmelweis: The «Savior of Mothers»: On the 200th anniversary of his birth. *American Journal of Obstetrics and Gynecology, 219*(6), 519–522.
 
 Kadavath, S., Conerly, T., Askell, A., Henighan, T., Drain, D., Perez, E., et al. (2022). Language models (mostly) know what they know. *arXiv preprint*, arXiv:2207.05221.
 
@@ -918,13 +985,19 @@ Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilizatio
 
 Krasner, M. S., Epstein, R. M., Beckman, H., Suchman, A. L., Chapman, B., Mooney, C. J., et al. (2009). Association of an educational program in mindful communication with burnout, empathy, and attitudes among primary care physicians. *JAMA, 302*(12), 1284–1293.
 
+Kuhn, T. S. (1996). *The Structure of Scientific Revolutions* (3rd ed.). University of Chicago Press. (Obra original publicada en 1962).
+
 Lackey, J. (2008). *Learning from Words: Testimony as a Source of Knowledge*. Oxford University Press.
+
+Laennec, R. T. H. (1819). *De l'auscultation médiate, ou Traité du diagnostic des maladies des poumons et du cœur* (Vol. 1). J.-A. Brosson et J.-S. Chaudé.
 
 Lambe, K. A., O'Reilly, G., Kelly, B. D., & Curristan, S. (2016). Dual-process cognitive interventions to enhance diagnostic reasoning: A systematic review. *BMJ Quality & Safety, 25*(10), 808–820.
 
 Landrigan, C. P., Rothschild, J. M., Cronin, J. W., Kaushal, R., Burdick, E., Katz, J. T., et al. (2004). Effect of reducing interns' work hours on serious medical errors in intensive care units. *New England Journal of Medicine, 351*(18), 1838–1848.
 
 Landrigan, C. P., Rahman, S. A., Sullivan, J. P., Vittinghoff, E., Barger, L. K., Sanderson, A. L., et al. (2020). Effect on patient safety of a resident physician schedule without 24-hour shifts. *New England Journal of Medicine, 382*(26), 2514–2523.
+
+Ledley, R. S., & Lusted, L. B. (1959). Reasoning foundations of medical diagnosis: Symbolic logic, probability, and value theory aid our understanding of how physicians reason. *Science, 130*(3366), 9–21.
 
 Lee, P., Bubeck, S., & Petro, J. (2023). Benefits, limits, and risks of GPT-4 as an AI chatbot for medicine. *New England Journal of Medicine, 388*, 1233–1239.
 
@@ -933,6 +1006,10 @@ Lifshitz, A. (2014). *La nueva clínica*. Academia Nacional de Medicina de Méxi
 Limb, C. J., & Braun, A. R. (2008). Neural substrates of spontaneous musical performance: An fMRI study of jazz improvisation. *PLoS ONE, 3*(2), e1679.
 
 Linder, J. A., Doctor, J. N., Friedberg, M. W., Reyes Nieva, H., Birks, C., Meeker, D., et al. (2014). Time of day and the decision to prescribe antibiotics. *JAMA Internal Medicine, 174*(12), 2029–2031.
+
+Lipkin, M., & Hardy, J. D. (1957). Differential diagnosis of hematologic diseases aided by mechanical correlation of data. *Science, 125*(3247), 551–552.
+
+Louis, P.-C.-A. (1835). *Recherches sur les effets de la saignée dans quelques maladies inflammatoires, et sur l'action de l'émétique et des vésicatoires dans la pneumonie*. J.-B. Baillière.
 
 Lukac, P. J., Turner, W., Vangala, S., Chin, A. T., Khalili, J., Shih, Y.-C. T., et al. (2025). Ambient AI scribes in clinical practice: A randomized trial. *NEJM AI, 2*(12), AIoa2501000.
 
@@ -964,7 +1041,11 @@ Monteiro, S., Sherbino, J., Sibbald, M., & Norman, G. (2020). Critical thinking,
 
 Montgomery, K. (2006). *How Doctors Think: Clinical Judgment and the Practice of Medicine*. Oxford University Press.
 
+Morabia, A. (2006). Pierre-Charles-Alexandre Louis and the evaluation of bloodletting. *Journal of the Royal Society of Medicine, 99*(3), 158–160.
+
 Moulton, C.-A. E., Regehr, G., Mylopoulos, M., & MacRae, H. M. (2007). Slowing down when you should: A new model of expert judgment. *Academic Medicine, 82*(10 Suppl), S109–S116.
+
+Nash, F. A. (1954). Differential diagnosis: An apparatus to assist the logical faculties. *The Lancet, 266*(6817), 874–875.
 
 National Academies of Sciences, Engineering, and Medicine. (2015). *Improving Diagnosis in Health Care*. The National Academies Press.
 
@@ -986,6 +1067,10 @@ O'Sullivan, J. W., Muntinga, T., Grigg, S., & Ioannidis, J. P. A. (2018). Preval
 
 Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. *Science, 366*(6464), 447–453.
 
+Osler, W. (1892). *The Principles and Practice of Medicine*. D. Appleton.
+
+Osler, W. (1905). *Aequanimitas: With Other Addresses to Medical Students, Nurses and Practitioners of Medicine*. P. Blakiston's Son & Co.
+
 Panicek, D. M., & Hricak, H. (2016). How sure are you, doctor? A standardized lexicon to describe the radiologist's level of certainty. *American Journal of Roentgenology, 207*(1), 2–3.
 
 Parra, N. (1954). *Poemas y antipoemas*. Nascimento.
@@ -1006,9 +1091,13 @@ Pepys, M. B., & Hirschfield, G. M. (2003). C-reactive protein: A critical update
 
 Philibert, I. (2005). Sleep loss and performance in residents and nonphysicians: A meta-analytic examination. *Sleep, 28*(11), 1392–1402.
 
+Phillips, C. V., & Goodman, K. J. (2004). The missed lessons of Sir Austin Bradford Hill. *Epidemiologic Perspectives & Innovations, 1*(1), 3.
+
 Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
 
 Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson.
+
+Pormann, P. E. (2018). Concepts of patient groups in 10th-century Iraq and Persia. *JLL Bulletin: Commentaries on the History of Treatment Evaluation*. James Lind Library.
 
 Qazi, I. A., Ali, A., Khawaja, A. U., Akhtar, M. J., Sheikh, A. Z., & Alizai, M. H. (2026). Automation bias in large language model–assisted diagnostic reasoning among physicians trained in AI literacy: A randomized clinical trial. *NEJM AI, 3*(5), AIoa2501001.
 
@@ -1018,6 +1107,8 @@ Riquelme, A., Méndez, B., de la Fuente, P., Padilla, O., Benaglio, C., Sirhan, 
 
 Rockwood, K., Song, X., MacKnight, C., Bergman, H., Hogan, D. B., McDowell, I., et al. (2005). A global clinical measure of fitness and frailty in elderly people. *CMAJ, 173*(5), 489–495.
 
+Roguin, A. (2006). Rene Theophile Hyacinthe Laënnec (1781–1826): The man behind the stethoscope. *Clinical Medicine & Research, 4*(3), 230–235.
+
 Rolfe, A., & Burton, C. (2013). Reassurance after diagnostic testing with a low pretest probability of serious disease: Systematic review and meta-analysis. *JAMA Internal Medicine, 173*(6), 407–416.
 
 Rouault, M., McWilliams, A., Allen, M., & Fleming, S. M. (2018). Human metacognition across domains: Insights from individual differences and neuroimaging. *Personality Neuroscience, 1*, e17.
@@ -1025,6 +1116,8 @@ Rouault, M., McWilliams, A., Allen, M., & Fleming, S. M. (2018). Human metacogni
 Rudner, R. (1953). The scientist qua scientist makes value judgments. *Philosophy of Science, 20*(1), 1–6.
 
 Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ, 312*, 71–72.
+
+Sady, W. (2025). Ludwik Fleck. En E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Winter 2025 ed.).
 
 Salager-Meyer, F. (1994). Hedges and textual communicative function in medical English written discourse. *English for Specific Purposes, 13*(2), 149–170.
 
@@ -1040,15 +1133,25 @@ Schmidt, H. G., & Rikers, R. M. J. P. (2007). How expertise develops in medicine
 
 Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 
+Schreiner, S. (2020). Ignaz Semmelweis: A victim of harassment? *Wiener Medizinische Wochenschrift, 170*(11–12), 293–302.
+
+Semmelweis, I. P. (1861). *Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers*. C. A. Hartleben.
+
 Shinagare, A. B., Lacson, R., Boland, G. W., Wang, A., Silverman, S. G., Mayo-Smith, W. W., et al. (2019). Radiologist preferences, agreement, and variability in phrases used to convey diagnostic certainty in radiology reports. *Journal of the American College of Radiology, 16*(4), 458–464.
 
 Shinagare, A. B., Alper, D. P., Hashemi, S. R., Chai, J. L., Hammer, M. M., Boland, G. W., et al. (2020). Early adoption of a certainty scale to improve diagnostic certainty communication. *Journal of the American College of Radiology, 17*(10), 1276–1284.
 
 Simpkin, A. L., & Schwartzstein, R. M. (2016). Tolerating uncertainty — The next medical revolution? *New England Journal of Medicine, 375*, 1713–1715.
 
+Singer, P. N. (2024). Galen. En E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2024 ed.).
+
 Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., et al. (2023). Large language models encode clinical knowledge. *Nature, 620*, 172–180.
 
+Smith, C. M. (2005). Origin and uses of primum non nocere—above all, do no harm! *Journal of Clinical Pharmacology, 45*(4), 371–377.
+
 Staal, J., Hooftman, J., Gunput, S. T. G., Mamede, S., Frens, M. A., Van den Broek, W. W., et al. (2022). Effect on diagnostic accuracy of cognitive reasoning tools for the workplace setting: Systematic review and meta-analysis. *BMJ Quality & Safety, 31*(12), 899–910.
+
+Stang, A., Standl, F., & Poole, C. (2022). A twenty-first century perspective on concepts of modern epidemiology in Ignaz Philipp Semmelweis' work on puerperal sepsis. *European Journal of Epidemiology, 37*(5), 437–445.
 
 Steinkamp, J., Kantrowitz, J. J., & Airan-Javia, S. (2022). Prevalence and sources of duplicate information in the electronic medical record. *JAMA Network Open, 5*(9), e2233348.
 
@@ -1096,6 +1199,8 @@ World Health Organization. (2024). *Ethics and Governance of Artificial Intellig
 
 Wu, A. W. (2000). Medical error: The second victim. The doctor who makes the mistake needs help too. *BMJ, 320*(7237), 726–727.
 
+Xiang, J., & Venkatesan, S. (2023). The role of Vesalius and his contemporaries in the transfiguration of human anatomical science. *Journal of Anatomy, 242*(2), 124–131.
+
 Xiong, M., Hu, Z., Lu, X., Li, Y., Fu, J., He, J., et al. (2024). Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs. *Proceedings of ICLR 2024*.
 
 Yazdany, J., Schmajuk, G., Robbins, M., Daikh, D., Beall, A., Yelin, E., et al. (2013). Choosing wisely: The American College of Rheumatology's Top 5 list of things physicians and patients should question. *Arthritis Care & Research, 65*(3), 329–339.
@@ -1106,7 +1211,7 @@ Zwaan, L., Monteiro, S., Sherbino, J., Ilgen, J., Howey, B., & Norman, G. (2017)
 
 # Tarjeta: HII-D en sesenta segundos
 
-Para recortar y llevar en el bolsillo del delantal. Cuatro preguntas y un criterio de reapertura; en voz alta en la visita de sala o por escrito antes de firmar un alta. La versión completa está en el capítulo 16 y en el Apéndice A.
+Para recortar y llevar en el bolsillo del delantal. Cuatro preguntas y un criterio de reapertura; en voz alta en la visita de sala o por escrito antes de firmar un alta. La versión completa está en el capítulo 17 y en el Apéndice A.
 
 | HII-D en sesenta segundos |
 |---|

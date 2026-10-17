@@ -6,10 +6,10 @@ cambie el estado o se tome una decisión.
 
 ## Qué hay
 
-- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 174 páginas (170 de cuerpo), en Gelasio, DOCX y EPUB
-  (46 capítulos). 15 figuras, 189 referencias, 19 capítulos, 19 talleres reunidos en el Apéndice D, TOC de 42
-  entradas; 63.299 palabras en las fuentes (58.841 sin las referencias). Cifras de la construcción y de las fuentes del
-  17 de octubre, tras el punto 51.
+- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 188 páginas (184 de cuerpo), en Gelasio, DOCX y EPUB
+  (47 capítulos). 15 figuras, 220 referencias, 20 capítulos, 20 talleres reunidos en el Apéndice D, TOC de 43
+  entradas; 69.856 palabras en las fuentes (64.750 sin las referencias). Cifras de la construcción y de las fuentes del
+  17 de octubre, tras el punto 52.
 - **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
   cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
   archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
@@ -29,9 +29,9 @@ cambie el estado o se tome una decisión.
 - **Lector de anotaciones**: el repo `DanielOpazoD/lector-anotaciones` está en la 0.6.1 (`main` en 1df5ff8), con la CI
   verde, 151 pruebas de navegador y cobertura de 97 % en Python, 71 % en el núcleo y 92,9 % en la página. Los 52
   mutantes de `herramientas/mutar.py` hacen lo que esperan. `lector/index.html` es su `web/index.html` del commit
-  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (44 secciones, 1130 bloques) está al día con las fuentes
-  y marca como cambiados los 56 bloques que tocó el punto 51 (reconstruirlo reinicia esas marcas).
-- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 33 (con el `libro.json` del punto 51). Su base tiene una sola anotación
+  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (45 secciones, 1220 bloques) está al día con las fuentes
+  y marca como cambiados los 28 bloques que tocó el punto 52 (reconstruirlo reinicia esas marcas).
+- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 34 (con el `libro.json` del punto 52). Su base tiene una sola anotación
   (Prefacio), resuelta y respondida: no hay anotaciones del autor esperando.
 
 ## Pendiente del autor
@@ -52,15 +52,15 @@ cambie el estado o se tome una decisión.
   Prefacio); Carmen es un personaje compuesto. Las citas de Parra no se tocan. Terminología hospitalaria chilena y términos canónicos
   (`gestiones/terminos_canonicos.md`). Toda referencia se verifica antes de citarse (`fuentes/auditoria_evidencia.md`).
 - La validación empírica de HII-D no se hará por ahora (decisión del autor, 17 de octubre de 2026). El libro ya la
-  declara pendiente y presenta el método como heurística no validada (nota metodológica, cap. 16), así que el texto no
+  declara pendiente y presenta el método como heurística no validada (nota metodológica, cap. 17), así que el texto no
   promete más de lo que hay. El protocolo queda en `gestiones/piloto_hiid_protocolo.md` por si se retoma; sin piloto,
   el panel estimaba el bloque científico en ~5,8 como techo. No proponer el piloto en cada sesión.
 - El capítulo 11, «Cuando saber más no cambia nada: el valor de un examen», entró el 17 de octubre a pedido del autor,
   con sus casos (ecografía tiroidea en hipotiroidismo con examen normal; ANA sin sospecha autoinmune). Los antiguos
-  capítulos 11 a 18 son ahora 12 a 19; el registro del README conserva la numeración de cuando se escribió cada punto.
-- Capítulos nuevos (decisión del autor, 17 de octubre): una genealogía del razonamiento clínico antes del capítulo
-  de HII-D, sin Salvador Allende, contando de cada figura su contexto médico, sus ideas y cuán originales fueron. No
-  habrá interludio contado por Carmen. «Diagnosticar entre lenguas» queda para más adelante; «medicina a distancia»,
+  capítulos 11 a 18 pasaron a ser 12 a 19; el registro del README conserva la numeración de cuando se escribió cada punto.
+- El capítulo 16, «Una genealogía de las capas: de Hipócrates a Balint», entró el mismo día a pedido del autor, antes
+  del de HII-D y sin Salvador Allende: de cada figura, su contexto médico, sus ideas, cuán originales fueron y en qué se
+  equivocaron (punto 52). Los capítulos 16 a 19 pasaron a ser 17 a 20. No habrá interludio contado por Carmen. «Diagnosticar entre lenguas» queda para más adelante; «medicina a distancia»,
   quizá, no ahora. «La ficha que lee el paciente» sigue propuesta, sin decisión.
 - La fuente del libro es Gelasio (decisión del autor, 17 de octubre; punto 50), versionada en `fuentes/tipografia/` con
   su licencia OFL. Se descartaron, tras verlas con el texto del libro, DejaVu Serif, Literata, Source Serif 4, Crimson

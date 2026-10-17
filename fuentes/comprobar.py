@@ -35,6 +35,8 @@ SIN_RAYAS = ("# Índice analítico", "# Referencias", "# Lista de figuras")
 
 
 def ascii(s):
+    # la raya de un rango («pp. 98–99») pasa a guion: sin ella, «9899» parece un año
+    s = s.replace("–", "-").replace("—", "-")
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
 
 
