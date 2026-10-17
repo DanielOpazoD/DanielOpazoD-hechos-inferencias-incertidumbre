@@ -251,9 +251,9 @@ ax.annotate("", xy=(10.1, 2.5), xytext=(0.3, 2.5),
             arrowprops=dict(arrowstyle="-|>", color=INK, lw=2.0))
 hitos = [
     (1.2, "2019", "ANDROMEDA-SHOCK\n(JAMA)", "llene capilar vs. lactato:\n−8,5 pts de mortalidad,\np = 0,06 → «negativo»", ACENTO),
-    (3.9, "2020", "Reanálisis bayesiano\n(AJRCCM)", "mismo dato, otro marco:\n>90% de probabilidad\nde beneficio", ACENTO2),
+    (3.9, "2020", "Reanálisis bayesiano\n(AJRCCM)", "mismo dato, otro marco:\n>90% de probabilidad\nde beneficio a 28 días", ACENTO2),
     (6.5, "2022–2025", "Refinamiento", "fenotipos hemodinámicos,\nalgoritmo personalizado:\nprueba más severa", GRIS),
-    (9.3, "2025", "ANDROMEDA-SHOCK-2\n(JAMA)", "86 centros, 19 países:\nsuperior al cuidado\nhabitual", ACENTO),
+    (9.3, "2025", "ANDROMEDA-SHOCK-2\n(JAMA)", "86 centros, 19 países:\nmejor desenlace compuesto;\nmisma mortalidad", ACENTO),
 ]
 for x, anio, titulo, detalle, color in hitos:
     ax.plot([x], [2.5], marker="o", ms=9, color=color, zorder=3)
