@@ -1,6 +1,6 @@
 # Piloto de HII-D: protocolo de una página
 
-Para correr con un equipo propio. Pone a prueba los dos primeros criterios de abandono del capítulo 15 («Qué evidencia
+Para correr con un equipo propio. Pone a prueba los dos primeros criterios de abandono del capítulo 16 («Qué evidencia
 me haría abandonar este método») y produce la traducción numérica del léxico de certeza. Los umbrales se fijan aquí,
 antes de mirar los datos; si se cambian, se dice por qué y cuándo.
 
@@ -48,5 +48,5 @@ antes de empezar y anonimizar las notas antes de que las vea cualquier lector.
 **Costo aproximado.** Capacitación, 1 hora por persona; lectura para el acuerdo, unas 3 horas por lector; reconstrucción,
 3 a 4 horas; análisis, 2 horas.
 
-**Qué hace el libro con el resultado.** Lo publica sea cual sea, en la nota metodológica y en el capítulo 15, con las
+**Qué hace el libro con el resultado.** Lo publica sea cual sea, en la nota metodológica y en el capítulo 16, con las
 cifras y los umbrales de este protocolo.

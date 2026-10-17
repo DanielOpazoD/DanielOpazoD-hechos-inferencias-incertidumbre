@@ -8,7 +8,7 @@ La metacognición permite sostener estas capas sin confundirlas. No ofrece una c
 
 El lenguaje clínico es uno de sus instrumentos más poderosos. La frase medular no es la más breve ni la más elegante, sino aquella que conserva la estructura decisiva del evento, distingue dato y explicación, expresa el grado de certeza y muestra por qué una conducta es razonable. Una frase así puede orientar a un equipo, proteger contra la inercia y mantener abierta la posibilidad de corrección. La historia de Carmen, que acompañó todo este libro, empezó con la frase contraria —«cuadro habitual, manejo habitual»— y terminó con una frase que cargaba, palabra por palabra, el trabajo de distinguir, graduar, dudar y decidir. Entre ambas frases no cambió la medicina disponible; cambió la epistemología con que se usó.
 
-El mapa del comienzo (Figura 1) prometió tres hilos: las capas del conocimiento, el camino de la conjetura a la humildad y la lengua que conserva o borra las capas. Tres nudos de ese tejido quedan a la vista. El primero va de la abducción a la humildad. Conjeturar, vigilar la conjetura y no cerrarla antes de tiempo son tres momentos de un mismo gesto, y el capítulo 14 le dio su nombre antiguo, phronesis. Lo que puede agregarse aquí es el orden de los fracasos: sin conjetura no hay diagnóstico; sin vigilancia, el diagnóstico se vuelve certeza; sin humildad, la certeza se vuelve ficha. El segundo va del dato al contexto: la funcionalidad, el pronóstico de fondo y la red de apoyo son hechos clínicos, y una decisión que los omitió no es más objetiva sino más incompleta. El tercero va de la ficha al razonador: escribir la nota es parte de pensar. Por eso la inteligencia artificial, que produce la prosa fluida contra la que entrena cada capítulo —hechos, inferencias e invenciones con la misma sintaxis—, no cambia la disciplina: la vuelve urgente, sobre todo para quien todavía está formando el juicio que la herramienta ofrece reemplazar. Ante una respuesta automática como ante la propia narrativa, la pregunta es la misma: qué proviene del caso, qué fue inferido, qué permanece incierto y qué responsabilidad implica actuar.
+El mapa del comienzo (Figura 1) prometió tres hilos: las capas del conocimiento, el camino de la conjetura a la humildad y la lengua que conserva o borra las capas. Tres nudos de ese tejido quedan a la vista. El primero va de la abducción a la humildad. Conjeturar, vigilar la conjetura y no cerrarla antes de tiempo son tres momentos de un mismo gesto, y el capítulo 15 le dio su nombre antiguo, phronesis. Lo que puede agregarse aquí es el orden de los fracasos: sin conjetura no hay diagnóstico; sin vigilancia, el diagnóstico se vuelve certeza; sin humildad, la certeza se vuelve ficha. El segundo va del dato al contexto: la funcionalidad, el pronóstico de fondo y la red de apoyo son hechos clínicos, y una decisión que los omitió no es más objetiva sino más incompleta. El tercero va de la ficha al razonador: escribir la nota es parte de pensar. Por eso la inteligencia artificial, que produce la prosa fluida contra la que entrena cada capítulo —hechos, inferencias e invenciones con la misma sintaxis—, no cambia la disciplina: la vuelve urgente, sobre todo para quien todavía está formando el juicio que la herramienta ofrece reemplazar. Ante una respuesta automática como ante la propia narrativa, la pregunta es la misma: qué proviene del caso, qué fue inferido, qué permanece incierto y qué responsabilidad implica actuar.
 
 HII-D resume una disciplina posible:
 
@@ -73,7 +73,7 @@ El ideal no es un médico que nunca se equivoca, sino uno cuyo razonamiento pued
 
 **Reevaluación**
 
-- Resultado pendiente.
+- Resultado pendiente y qué se hará con cada resultado posible («si sale…, haré…»).
 - Plazo.
 - Cambio clínico que obliga a reabrir el caso.
 - Responsable de verificar y comunicar.
@@ -84,7 +84,7 @@ Una o dos frases que expresen la naturaleza del evento, la inferencia con su gra
 
 **Plantilla condensada** (una línea por campo, para la nota difícil): pregunta operativa · hechos decisivos · inferencia principal y grado · alternativa que cambiaría la conducta · incertidumbre crítica · contexto global · decisión y razón · criterio de reapertura.
 
-**Versión de sesenta segundos** (para casos de rutina o alta presión de tiempo): las cuatro preguntas de la caja del capítulo 15, reproducidas en la tarjeta de la última página.
+**Versión de sesenta segundos** (para casos de rutina o alta presión de tiempo): las cuatro preguntas de la caja del capítulo 16, reproducidas en la tarjeta de la última página.
 
 # Apéndice B. Léxico de certeza y pausa diagnóstica
 
@@ -121,7 +121,7 @@ Una o dos frases que expresen la naturaleza del evento, la inferencia con su gra
 
 # Apéndice C. Guía de implementación en un servicio clínico
 
-Esta guía condensa el capítulo 16 en un plan concreto para un servicio que quiera adoptar el lenguaje y las prácticas del libro. Está pensada para un jefe de servicio, un programa de residencia o un grupo de clínicos con voluntad y poco tiempo. Tres advertencias previas: nada de esto está validado como tecnología (véase el capítulo 15, «Límites»); todo debe adaptarse al contexto local; y la palanca más barata —cómo se habla en la visita de sala— es también la más poderosa.
+Esta guía condensa el capítulo 17 en un plan concreto para un servicio que quiera adoptar el lenguaje y las prácticas del libro. Está pensada para un jefe de servicio, un programa de residencia o un grupo de clínicos con voluntad y poco tiempo. Tres advertencias previas: nada de esto está validado como tecnología (véase el capítulo 16, «Límites»); todo debe adaptarse al contexto local; y la palanca más barata —cómo se habla en la visita de sala— es también la más poderosa.
 
 ### Semana 1–2: instalar el lenguaje
 
@@ -139,6 +139,7 @@ Esta guía condensa el capítulo 16 en un plan concreto para un servicio que qui
 
 - Introducir la plantilla condensada HII-D (Apéndice A) para tres situaciones definidas: ingresos complejos, cambios de conducta mayores y altas con diagnóstico incierto. No para toda evolución diaria: la plantilla universal muere por fatiga.
 - Prohibición práctica del fósil: cada evolución debe contener al menos una línea que responda «¿qué cambió desde ayer?» (en hechos, interpretación, incertidumbre o plan). Si nada cambió, escribirlo es información.
+- Cada examen pendiente con su propósito escrito: «si sale…, haré…» (capítulo 11). Si las ramas son iguales, no se pide, o se anota como pedido por el paciente.
 - Revisar las plantillas electrónicas existentes: eliminar campos que inducen copia, agregar un campo breve de «criterio de reapertura».
 
 ### Mes 3 en adelante: el circuito de aprendizaje
@@ -153,18 +154,18 @@ Tres indicadores simples, auditables sobre una muestra mensual de fichas: propor
 
 ### Hoja de ruta para el docente
 
-Qué talleres del Apéndice D usar con quién, en el orden en que rinden más; cada uno se nombra por su capítulo. Salvo los que se sostienen en el tiempo (los de los capítulos 5, 15 y 16), cada uno cabe en una reunión de treinta minutos.
+Qué talleres del Apéndice D usar con quién, en el orden en que rinden más; cada uno se nombra por su capítulo. Salvo los que se sostienen en el tiempo (los de los capítulos 5, 16 y 17), cada uno cabe en una reunión de treinta minutos.
 
-- **Interno y residente de primer año**: los talleres de los capítulos 1 (qué tan hecho es este hecho), 2 (la sentencia del TAC), 4 (cinco frases para reescribir), 10 (frecuencias naturales), 11 (la observación activa, por escrito) y 12 (conjugar los verbos). Enseñan el léxico y las capas antes que el juicio.
-- **Residente de segundo año en adelante**: los de los capítulos 3 (el mapa de lo que no sabemos), 5 (calibración personal, sostenido tres meses), 7 (reconstruir una trayectoria), 8 (presentar sin la etiqueta), 12 (desfosilizar una evolución), 13 (traducir un desacuerdo) y 15 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
-- **Jefe de servicio, docente y comité**: los de los capítulos 10 (las cuatro casillas), 16 (rediseñar la visita de sala) y 17 (la autopsia de una respuesta de IA), y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
-- **Para todos, al cierre de un ciclo**: los de los capítulos 2 (cinco hipótesis en tres minutos) y 18 (la prueba de Parra), que entrenan la generación y el oído.
+- **Interno y residente de primer año**: los talleres de los capítulos 1 (qué tan hecho es este hecho), 2 (la sentencia del TAC), 4 (cinco frases para reescribir), 10 (frecuencias naturales), 11 (si sale…, haré…), 12 (la observación activa, por escrito) y 13 (conjugar los verbos). Enseñan el léxico y las capas antes que el juicio.
+- **Residente de segundo año en adelante**: los de los capítulos 3 (el mapa de lo que no sabemos), 5 (calibración personal, sostenido tres meses), 7 (reconstruir una trayectoria), 8 (presentar sin la etiqueta), 13 (desfosilizar una evolución), 14 (traducir un desacuerdo) y 16 (su paciente, esta semana). Trabajan sobre el propio razonamiento y sobre pacientes reales.
+- **Jefe de servicio, docente y comité**: los de los capítulos 10 (las cuatro casillas), 17 (rediseñar la visita de sala) y 18 (la autopsia de una respuesta de IA), y la reunión de morbimortalidad en el formato de la viñeta 6. Cambian el sistema, no sólo al que razona.
+- **Para todos, al cierre de un ciclo**: los de los capítulos 2 (cinco hipótesis en tres minutos) y 19 (la prueba de Parra), que entrenan la generación y el oído.
 
-Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: el taller del capítulo 4 en las semanas 1–2 (el lenguaje), los de los capítulos 8 y 11 en las semanas 3–4 (la pausa en la visita de sala), los dos del capítulo 12 en el mes 2 (la ficha) y el del capítulo 7 desde el mes 3, junto a la reunión de morbimortalidad; el resto, a demanda. Los «errores típicos» anotados en los talleres de los capítulos 7, 8, 10 (frecuencias naturales) y 12 (conjugar los verbos) son lo que los grupos suelen responder primero; mostrarlos antes de la versión posible enseña por contraste.
+Secuencia mínima para un servicio que empieza, alineada con las fases de esta guía: el taller del capítulo 4 en las semanas 1–2 (el lenguaje), los de los capítulos 8 y 12 en las semanas 3–4 (la pausa en la visita de sala), los dos del capítulo 13 en el mes 2 (la ficha) y el del capítulo 7 desde el mes 3, junto a la reunión de morbimortalidad; el resto, a demanda. Los «errores típicos» anotados en los talleres de los capítulos 7, 8, 10 (frecuencias naturales) y 13 (conjugar los verbos) son lo que los grupos suelen responder primero; mostrarlos antes de la versión posible enseña por contraste.
 
 # Apéndice D. Talleres
 
-Los ejercicios de este apéndice son para quien quiera practicar. Hay uno por capítulo, salvo en los capítulos 6, 9 y 14, que no tienen, y en los capítulos 2, 10 y 12, que tienen dos; cada uno lleva el número del capítulo cuyo concepto ejercita y rinde más después de leerlo. Casi todos se hacen por escrito, y muchos piden reescribir una frase clínica real. Ninguno tiene una respuesta única: la versión posible o el comentario que acompaña a cada uno muestra un camino, no el camino, y algunos anotan antes el error típico, lo que los grupos suelen responder primero. La hoja de ruta para el docente, al final del Apéndice C, propone cuáles usar con quién y en qué orden.
+Los ejercicios de este apéndice son para quien quiera practicar. Hay uno por capítulo, salvo en los capítulos 6, 9 y 15, que no tienen, y en los capítulos 2, 10 y 13, que tienen dos; cada uno lleva el número del capítulo cuyo concepto ejercita y rinde más después de leerlo. Casi todos se hacen por escrito, y muchos piden reescribir una frase clínica real. Ninguno tiene una respuesta única: la versión posible o el comentario que acompaña a cada uno muestra un camino, no el camino, y algunos anotan antes el error típico, lo que los grupos suelen responder primero. La hoja de ruta para el docente, al final del Apéndice C, propone cuáles usar con quién y en qué orden.
 
 #### Taller del capítulo 1. ¿Qué tan hecho es este hecho?
 
@@ -232,7 +233,7 @@ Conviene elegir al paciente hospitalizado cuyo diagnóstico de ingreso lleve má
 
 *Error típico.* El sinónimo disfrazado: «cuadro infeccioso de origen urinario en tratamiento» cumple la prohibición de la palabra y viola su propósito, porque sigue organizando la percepción desde el diagnóstico. La presentación que funciona empieza por la persona y la línea temporal —lesión medular, sonda, recambio traumático, orina turbia, afebril— y deja que el oyente arme la hipótesis; si la etiqueta entra por la puerta de atrás, el ejercicio no ocurrió.
 
-*Comentario.* El ejercicio funciona por sustracción: la etiqueta organiza la percepción, y quitarla obliga a re-observar. En el caso de la cama 12, la reformulación hizo visible que (a) los «síntomas urinarios» eran inevaluables —dato clave que la palabra «pielonefritis» ocultaba—, (b) los marcadores inflamatorios tenían una explicación alternativa activa (neoplasia), y (c) la «buena respuesta» era atribuible al menos a dos causas. En la cama 12 eso cambió el plan: era una bacteriuria asociada a sonda, el antibiótico se suspendió y quedó una vigilancia con criterios de reapertura (capítulo 12). Otras veces el ejercicio no exige cambiar el tratamiento hoy; exige saber qué se vigila y qué reabriría el caso. Si al hacer el ejercicio con su propio paciente no reaparece ningún dato, enhorabuena: la etiqueta probablemente está bien puesta. El costo fueron cinco minutos; el beneficio, saberlo.
+*Comentario.* El ejercicio funciona por sustracción: la etiqueta organiza la percepción, y quitarla obliga a re-observar. En el caso de la cama 12, la reformulación hizo visible que (a) los «síntomas urinarios» eran inevaluables —dato clave que la palabra «pielonefritis» ocultaba—, (b) los marcadores inflamatorios tenían una explicación alternativa activa (neoplasia), y (c) la «buena respuesta» era atribuible al menos a dos causas. En la cama 12 eso cambió el plan: era una bacteriuria asociada a sonda, el antibiótico se suspendió y quedó una vigilancia con criterios de reapertura (capítulo 13). Otras veces el ejercicio no exige cambiar el tratamiento hoy; exige saber qué se vigila y qué reabriría el caso. Si al hacer el ejercicio con su propio paciente no reaparece ningún dato, enhorabuena: la etiqueta probablemente está bien puesta. El costo fueron cinco minutos; el beneficio, saberlo.
 
 #### Taller del capítulo 10. Frecuencias naturales con los números del servicio
 
@@ -248,7 +249,13 @@ Hace falta un paciente actual del servicio con una decisión mayor pendiente —
 
 *Comentario.* El ejercicio suele revelar dos hallazgos. Primero: mientras la casilla de indicaciones biomédicas se llena sin esfuerzo, las otras tres exhiben lagunas que no son opiniones discutibles sino hechos nunca recabados. Nadie preguntó con quién vive el paciente; la funcionalidad basal figura como «previamente autovalente» por arrastre documental, sin evaluación objetiva; y las preferencias registradas son presunciones de la familia, no la voz directa del enfermo. Segundo: completar las cuatro casillas rara vez cambia el aspecto técnico de la intervención, pero transforma de raíz la deliberación. Hace evidente con quién falta conversar, qué datos basales urge verificar y qué decisiones está tomando el equipo por pura inercia asistencial. Y cuando las cuatro casillas están completas y aun así persiste el desacuerdo, el ejercicio entrega un último diagnóstico crucial: el caso ya no requiere más exámenes; requiere deliberación estructurada y, a menudo, tiempo.
 
-#### Taller del capítulo 11. La observación activa, por escrito
+#### Taller del capítulo 11. Si sale…, haré…
+
+Tomar los exámenes pendientes de tres pacientes de la lista propia y escribir, para cada uno, una línea por resultado posible: «si sale…, haré…». Después, contar: ¿cuántos tienen todas las ramas iguales?, ¿cuántos se pidieron para alguien que no es el paciente: el médico que teme, el protocolo, el turno anterior?
+
+*Comentario.* Una rama igual a la otra no acusa a quien pidió el examen: señala que respondía a otra pregunta, y que esa pregunta merece escribirse. Si era del paciente, se anota como suya; si era del médico, suele resolverse mejor con un criterio de reconsulta que con un informe. Lo que el ejercicio deja a la vista es cuántos exámenes viajan en la ficha sin propósito, y cuántas decisiones esperan resultados que no las van a mover.
+
+#### Taller del capítulo 12. La observación activa, por escrito
 
 Un paciente con dolor abdominal inespecífico y exámenes iniciales tranquilizadores quedará hospitalizado o en urgencias «en observación». ¿Cómo se escribe el plan, en no más de cuatro líneas, para que la espera opere como una intervención diagnóstica estructurada y no como una postergación pasiva?
 
@@ -258,7 +265,7 @@ Un paciente con dolor abdominal inespecífico y exámenes iniciales tranquilizad
 
 Esta estructura explicita los cuatro pilares que validan al tiempo como prueba diagnóstica. Qué se busca evaluar: la trayectoria del dolor y la tolerancia oral. En qué ventana: 4 a 8 horas. Qué variables gatillan acción, con plazos y responsables definidos. Y cuáles son las salidas en ambas direcciones: escalar el estudio o dar el alta. La anotación habitual, «control según evolución», es una fórmula vacía que delega en el azar lo que debía quedar gobernado por el diseño del plan.
 
-#### Taller del capítulo 12. Desfosilizar una evolución
+#### Taller del capítulo 13. Desfosilizar una evolución
 
 La siguiente nota se ha copiado casi idéntica durante cinco días seguidos: «Paciente cursando neumonía en tratamiento antibiótico, hemodinamia estable, afebril, se mantiene manejo». Al quinto día, los datos reales en la hoja de enfermería y en el sistema son otros. Sigue afebril, pero el requerimiento de oxígeno subió de 2 a 4 L/min en 48 horas, la PCR está estacionaria (180→165 mg/L) y hay un derrame pleural nuevo en la radiografía de tórax de control. ¿Cómo queda la evolución del día 5 escrita con la estructura HII-D?
 
@@ -268,7 +275,7 @@ La siguiente nota se ha copiado casi idéntica durante cinco días seguidos: «P
 
 La nota copiada durante cinco días no contenía mentiras literales —el paciente seguía afebril y normotenso—, pero operaba como un fósil narrativo: describía la fisiología del día 2 ignorando la trayectoria del día 5. Desfosilizar la evolución no exigió inventar datos sofisticados, sino dejar de omitir las tendencias que ya estaban a la vista.
 
-#### Taller del capítulo 12. Conjugar los verbos
+#### Taller del capítulo 13. Conjugar los verbos
 
 El material es la última evolución de una línea que uno haya firmado —«X en tratamiento, estable»—. Primero se escriben las preguntas que esconde (al menos seis); después se reescribe como ficha de proceso en no más de ocho líneas, con los verbos: sospecho, dudé, descarto, priorizo, infiero, realizo, comprobaré, repetiré, aprendí.
 
@@ -276,31 +283,31 @@ El material es la última evolución de una línea que uno haya firmado —«X e
 
 *Comentario.* No hay una respuesta única. El ejercicio suele mostrar tres cosas. La mitad de las preguntas escondidas nunca se formularon: nadie dudó de nada porque nadie preguntó. «Descarté» casi nunca viene con método. Y «comprobaré» es el verbo que más cuesta conjugar, porque obliga a predecir y a ponerle fecha a la predicción. Si la ficha de proceso no cabe en ocho líneas, está describiendo y no decidiendo: no es la ficha clínica completa, es el esqueleto de las decisiones. Y si cabe en dos, probablemente faltan verbos: una nota sin «dudé» ni «comprobaré» es una ficha de resultados con otro formato.
 
-#### Taller del capítulo 13. Traducir un desacuerdo
+#### Taller del capítulo 14. Traducir un desacuerdo
 
 En la entrega de turno de la mañana, al discutir el caso de Carmen, el intensivista plantea: «Yo la operaría en esta hospitalización; si la mandamos a la casa, esto se va a volver a obstruir». La internista replica: «Operarla ahora me parece apresurado; acaba de salir de un shock séptico grave». Si esta fricción verbal se traduce a proposiciones evaluables, ¿en qué discrepan: en los hechos, en las inferencias, en la incertidumbre, en los valores o en el umbral de decisión?
 
 *Una versión posible.* Cuando el desacuerdo se desarma por capas, el conflicto aparente cambia de naturaleza. En los **hechos** no existe disputa alguna: ambos conocen los cuatro episodios en el año, el shock reciente y la tomografía sin isquemia. En la **inferencia** pronóstica coinciden mucho más de lo que su tono sugiere: ambos estiman como altamente probable una nueva recurrencia obstructiva a corto o mediano plazo. La divergencia real está en dos puntos. Primero, en una **incertidumbre** epistémica reducible: cuánto eleva el riesgo perioperatorio el shock recién resuelto, una duda que no se dirime con opiniones en la entrega de turno sino con una evaluación funcional y preoperatoria formal. Segundo, en el **umbral de decisión**: cuánto riesgo quirúrgico programado es razonable asumir hoy para evitar el riesgo incierto de una urgencia futura. Esa ponderación exige los **valores** y temores de la propia Carmen, que aún no ha sido escuchada. Traducida la discusión a esta matriz, el plan de trabajo se redacta solo: objetivar la capacidad funcional, optimizar su condición respiratoria y nutricional, y sentarse a conversar con Carmen sobre ambos escenarios de riesgo. Ninguno de los dos médicos «ganó» la discusión: el equipo utilizó el desacuerdo para diagnosticar qué información le faltaba.
 
-#### Taller del capítulo 15. Su paciente, esta semana
+#### Taller del capítulo 16. Su paciente, esta semana
 
 El caso es el más incómodo de la lista actual —el que genera discusión en cada visita o el que nadie discute hace días—. Se escribe en la plantilla condensada del Apéndice A y se compara con la última evolución de la ficha: ¿qué contiene la plantilla que la ficha no registra?
 
 *Comentario.* No hay una respuesta única, pero sí un patrón casi universal al comparar: la ficha suele contener los hechos y la decisión, y omitir las dos capas intermedias —el grado de la inferencia («neumonía» sin «probable/demostrada») y la incertidumbre crítica con su vigilancia—. Es decir: registra qué se piensa y qué se hace, pero no cuánto derecho hay a pensarlo ni qué lo haría cambiar. Si su plantilla y su ficha coinciden, este libro le debe una disculpa por las horas invertidas. Si no coinciden, la plantilla acaba de mostrarle qué escribir mañana.
 
-#### Taller del capítulo 16. Rediseñar la visita de sala
+#### Taller del capítulo 17. Rediseñar la visita de sala
 
 Primero, describir por escrito la visita de sala del servicio tal como ocurre de verdad: minutos por paciente, quién habla, qué se pregunta siempre y qué no se pregunta nunca. Luego, rediseñarla con tres cambios como máximo —un disparador objetivo de pausa, una pregunta obligatoria por paciente inestable o incierto, una regla de entrega de turno— y estimar el costo en minutos por visita.
 
 *Una versión posible.* Una descripción honesta puede parecerse a esto: dos a cuatro minutos por paciente, habla quien presenta y decide quien dirige, se pregunta «¿cómo está?» y «¿qué le falta?», y casi nunca «¿qué nos haría cambiar?». El rediseño más barato es esa tercera pregunta, hecha sólo a los pacientes que cumplen un disparador (reconsulta, discordancia entre gravedad y diagnóstico, 72 horas sin discusión): cuesta alrededor de un minuto por caso seleccionado y produce, de inmediato, criterios de reapertura que antes no existían. Si el rediseño necesita más de tres cambios o más de diez minutos por visita, probablemente está diseñando una reunión nueva en lugar de mejorar la que existe —y las reuniones nuevas mueren por inasistencia—.
 
-#### Taller del capítulo 17. La autopsia de una respuesta
+#### Taller del capítulo 18. La autopsia de una respuesta
 
 Un caso real ya resuelto del servicio, debidamente anonimizado, se pega en un asistente de lenguaje con el pedido de evaluación y plan. La respuesta, impresa, se marca con tres colores: (1) afirmaciones sustentadas en datos que el caso contenía; (2) contenido que el modelo agregó (detalles «típicos», causalidades, datos que nadie le dio); (3) incertidumbre declarada. Después, una segunda pregunta al modelo: «¿qué evidencia haría improbable tu diagnóstico principal?».
 
 *Comentario.* En ejercicios docentes, tres hallazgos vuelven una y otra vez. Primero, el color 2 aparece más de lo esperado: el modelo rellena huecos con verosimilitud —una evolución «esperable», un factor de riesgo «presumible»— y esa es la definición de confabulación; contarlas cura más que leer sobre ellas. Segundo, el color 3 suele ser genérico («se sugiere correlacionar con la clínica») y no específico del caso: incertidumbre de fórmula, no de contenido —conviene compararla con la que exige el léxico de certeza—. Tercero, la respuesta a la segunda pregunta suele ser mejor que la primera: el modelo enumera con soltura los datos que refutarían su propia propuesta —pero sólo si alguien se lo pide—. La herramienta contiene su propio antídoto; la pregunta que lo libera sigue siendo humana.
 
-#### Taller del capítulo 18. La prueba de Parra
+#### Taller del capítulo 19. La prueba de Parra
 
 Dos preguntas para la frase medular del paciente más reciente. Primera: ¿hay en ella alguna palabra huidobriana —que haga florecer lo que nadie observó (un mecanismo no demostrado, una causal de contrabando, un «descartado» sin método)—? Segunda: ¿puede reescribirse en palabras de todos los días sin perder un gramo de precisión? Y si al traducirla se desinfla, ¿qué la sostenía: la evidencia o la retórica?
 
@@ -308,7 +315,7 @@ Dos preguntas para la frase medular del paciente más reciente. Primera: ¿hay e
 
 # Apéndice E. Las preguntas para la próxima visita
 
-Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, reunidas para la visita de sala, la entrega de turno o el portafolio de calibración del capítulo 5. Tres por capítulo; una por semana basta. Ninguna pide más de dos minutos y todas se responden con un paciente concreto.
+Las 60 preguntas con que cierran la Introducción y los diecinueve capítulos, reunidas para la visita de sala, la entrega de turno o el portafolio de calibración del capítulo 5. Tres por capítulo; una por semana basta. Ninguna pide más de dos minutos y todas se responden con un paciente concreto.
 
 **Introducción**
 
@@ -376,49 +383,55 @@ Las 57 preguntas con que cierran la Introducción y los dieciocho capítulos, re
 - ¿Estoy exigiendo certeza diagnóstica donde bastaría compromiso práctico, o actuando para no tolerar una duda?
 - De mi paciente más grave de hoy: ¿sé cómo funcionaba antes de enfermar, con quién vive y qué espera del tratamiento —y está escrito en alguna parte—?
 
-**Capítulo 11. Temporalidad, trayectoria y razonamiento contrafactual**
+**Capítulo 11. Cuando saber más no cambia nada: el valor de un examen**
+
+- De los exámenes que pedí esta semana, ¿cuál habría pedido igual si antes hubiera escrito qué haría con cada resultado?
+- ¿Qué duda de mi paciente más complejo conviene declarar y dejar, en vez de perseguir?
+- El último examen que pedí para tranquilizar, ¿a quién tranquilizaba: al paciente o a mí?
+
+**Capítulo 12. Temporalidad, trayectoria y razonamiento contrafactual**
 
 - «Está mejor»: ¿mejor que cuándo, en qué variable y a qué velocidad?
 - ¿Qué predijo mi diagnóstico hace 48 horas, y la evolución lo confirmó o lo desmintió?
 - Mi «observación» de hoy, ¿tiene plazo, variables y criterio de salida, o es una espera sin diseño?
 
-**Capítulo 12. La ficha clínica como instrumento de pensamiento**
+**Capítulo 13. La ficha clínica como instrumento de pensamiento**
 
 - ¿Qué párrafo de mi evolución de hoy es copia de ayer, y sigue siendo verdad?
 - Si yo no estuviera mañana, ¿el médico que me reemplace sabría por mi nota qué vigilar y qué reabriría el caso?
 - ¿Mi lista de problemas distingue hechos, hipótesis, acciones pendientes e incertidumbres, o todo tiene el mismo estatus?
 
-**Capítulo 13. Pensar con otros: equipos, desacuerdo y comunicación de la incertidumbre**
+**Capítulo 14. Pensar con otros: equipos, desacuerdo y comunicación de la incertidumbre**
 
 - ¿Qué observó enfermería en las últimas 24 horas que no pasó por mi evaluación?
 - En mi último desacuerdo clínico, ¿discrepábamos en hechos, inferencias, incertidumbre, valores o umbral?
 - ¿Mi paciente sabe qué sabemos, qué creemos, qué no sabemos aún y qué haremos —o sólo recibió una etiqueta—?
 
-**Capítulo 14. Humildad epistémica y responsabilidad clínica**
+**Capítulo 15. Humildad epistémica y responsabilidad clínica**
 
 - ¿A qué paciente le estoy creyendo menos de lo que su testimonio merece, y por qué?
 - Mi última recomendación firme: ¿podría explicar qué hechos la sostienen, qué incertidumbres la modificarían y qué valores del paciente pesan?
 - ¿Hay en mis fichas una etiqueta («funcional», «no adherente», «poco colaborador») que esté distribuyendo credibilidad en lugar de información?
 
-**Capítulo 15. El método HII-D: una epistemología operativa**
+**Capítulo 16. El método HII-D: una epistemología operativa**
 
 - ¿Cuál es la pregunta operativa de mi caso más difícil —la decisión real en juego, no «el diagnóstico»—?
 - ¿Mi nota de hoy permite a otro médico reconstruir mis cuatro capas, o sólo mi conclusión?
 - ¿Qué decisión de esta semana tomé sin criterio de reapertura, y todavía estoy a tiempo de escribirlo?
 
-**Capítulo 16. Enseñar y organizar la metacognición clínica**
+**Capítulo 17. Enseñar y organizar la metacognición clínica**
 
 - La última vez que enseñé un caso, ¿pedí el diagnóstico o pedí primero la representación del problema?
 - ¿Qué pasó con el último paciente que derivé o di de alta con diagnóstico incierto —y cómo podría enterarme sistemáticamente—?
 - Si mañana dirigiera mi servicio, ¿cuál de las tres palancas (visita de sala, ficha, revisión de errores) cambiaría primero, y qué costaría?
 
-**Capítulo 17. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas**
+**Capítulo 18. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas**
 
 - Si uso IA en este caso, ¿qué dato de su respuesta verifiqué contra una fuente primaria antes de actuar?
 - ¿Qué agregó el modelo que el caso no contenía?
 - ¿Estoy usando la herramienta para ampliar hipótesis o para confirmar rápido la que ya tenía?
 
-**Capítulo 18. La palabra exacta: lo que la poesía sabe del juicio clínico**
+**Capítulo 19. La palabra exacta: lo que la poesía sabe del juicio clínico**
 
 - ¿Qué palabra de mi última nota está «haciendo florecer» algo que nadie observó?
 - El diagnóstico que más me satisface hoy: ¿me convence por la evidencia o por lo bien que cierra la historia?
@@ -435,6 +448,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 **Calibración (calibration).** Correspondencia entre la confianza declarada y la proporción real de aciertos, evaluada sobre una serie de juicios.
 
 **Captura cognitiva∗.** Condicionamiento de la búsqueda de hipótesis, la lectura de los datos y la ponderación por una respuesta vista antes de razonar —típicamente la de un asistente de IA—. No exige que la respuesta sea errónea: una hipótesis correcta entregada demasiado pronto también sustituye las operaciones que forman el juicio.
+
+**Cascada de atención (cascade of care).** Secuencia de exámenes, interconsultas y procedimientos que desencadena un resultado o un hallazgo incidental, cuyo valor para el paciente es incierto.
 
 **Cierre prematuro (premature closure).** Aceptación de un diagnóstico antes de haberlo verificado suficientemente, con suspensión de la búsqueda de alternativas.
 
@@ -482,6 +497,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Frecuencias naturales (natural frequencies).** Presentación de probabilidades como conteos sobre una población de referencia («90 de cada 270 positivos»), que facilita el razonamiento bayesiano intuitivo (Gigerenzer).
 
+**Hallazgo incidental (incidentaloma).** Anomalía encontrada en un examen pedido por otra razón y no relacionada con los síntomas del paciente.
+
 **HII-D∗.** Heurística de escritura y deliberación que, a partir de una pregunta operativa, ordena el razonamiento en Hechos, Inferencias, Incertidumbre y Decisión, más un movimiento transversal de reevaluación. No validada como instrumento.
 
 **Hindsight bias (sesgo retrospectivo).** Tendencia a percibir un desenlace conocido como si hubiera sido predecible, contaminando la evaluación de decisiones pasadas.
@@ -493,6 +510,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 **Incertidumbre aleatoria (aleatory uncertainty).** La que proviene de variabilidad o contingencia que persiste aun con conocimiento completo del sistema.
 
 **Incertidumbre epistémica (epistemic uncertainty).** La que proviene de conocimiento insuficiente y puede, en principio, reducirse con información.
+
+**Incertidumbre que conviene dejar∗.** Duda clínica que ningún resultado disponible convertiría en un cambio de conducta, de vigilancia o de información que el paciente necesite. Se declara por escrito y no se persigue; no debe confundirse con la duda que, si estuviera equivocada, produciría daño grave, que obliga a buscar.
 
 **Injusticia epistémica (epistemic injustice).** Daño cometido contra alguien en su capacidad de sujeto de conocimiento: testimonial (credibilidad rebajada por prejuicio) o hermenéutica (falta de categorías para expresar la experiencia) (Fricker).
 
@@ -538,6 +557,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Sobreconfianza (overconfidence).** Confianza declarada mayor que la exactitud real; falla de calibración asociada al error diagnóstico porque impide buscar evidencia o revisar una conclusión (Berner y Graber). Medirla no es trivial: la confianza puede ser apropiada en los casos fáciles y excesiva en los difíciles.
 
+**Sobrediagnóstico (overdiagnosis).** Diagnóstico de una condición que, de no haberse detectado, no habría causado síntomas ni daño en la vida del paciente.
+
 **Testimonio (epistemología del; epistemology of testimony).** Estudio del conocimiento obtenido mediante informes de otros. Coady defendió la confianza por defecto como condición de todo conocimiento compartido; Lackey añadió la vigilancia activa del oyente. La anamnesis es su caso clínico paradigmático.
 
 **Umbral de decisión (decision threshold).** Nivel de probabilidad sobre el cual una conducta (testear, tratar) supera a sus alternativas, dado el balance de daños y beneficios (Pauker y Kassirer).
@@ -545,119 +566,128 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 **Validez del entorno (high-validity environment).** Grado en que un ambiente de práctica ofrece regularidades estables entre señales y desenlaces, junto a oportunidad de aprenderlas con feedback oportuno; condición para que la intuición experta sea confiable (Kahneman y Klein).
 
 **Validez externa / transportabilidad (external validity / transportability).** Grado en que un resultado de investigación puede aplicarse fuera del contexto en que fue producido; no es propiedad binaria del estudio sino relación entre evidencia y uso propuesto.
+**Valor de un examen (value of information).** Lo que su resultado puede cambiar: una conducta, una vigilancia o algo que el paciente necesita saber. Si ningún resultado posible cambia nada, el examen no informa la decisión.
+
 
 # Índice analítico
 Los números remiten a capítulos (Int = introducción, Interludios I–III, CC = cuaderno de casos, C = conclusión, Ap = apéndices).
 
-- Abducción — 2; vigilada por la metacognición — 5; mantenida abierta por la humildad — 14
+- Abducción — 2; vigilada por la metacognición — 5; mantenida abierta por la humildad — 15
 - Actos de habla en la ficha (Austin) — 4
-- Anclaje — 7, 11, CC (viñeta 6)
-- Antipoesía como léxico de certeza (Parra) — 18
-- Atrofia de la pericia por asistencia de IA (deskilling) — 17
+- Anclaje — 7, 12, CC (viñeta 6)
+- Anticuerpos antinucleares sin sospecha clínica — 11
+- Antipoesía como léxico de certeza (Parra) — 19
+- Atrofia de la pericia por asistencia de IA (deskilling) — 18
 - Ausencia de evidencia / evidencia de ausencia — 1, 4, Ap B
-- Autoridad revisable — 7, 13, 14
-- Bioética y razonamiento clínico (cuatro tópicos, proporcionalidad, deliberación) — 10, 15, CC (viñeta 5), Ap A
-- Calibración — 5, 15, 16, Ap C
+- Autoridad revisable — 7, 14, 15
+- Bioética y razonamiento clínico (cuatro tópicos, proporcionalidad, deliberación) — 10, 16, CC (viñeta 5), Ap A
+- Calibración — 5, 16, 17, Ap C
 - Capacidad de decidir (cuatro criterios; lucidez fluctuante) — CC (viñeta 5)
-- Captura cognitiva por IA (la respuesta antes que el caso) — 17
+- Captura cognitiva por IA (la respuesta antes que el caso) — 18
 - Carga teórica de la observación — 1
+- Cascadas de atención y hallazgos incidentales — 11
 - Cierre prematuro — 2, 7, CC (viñeta 6)
-- Cognición distribuida — 13
-- Comparación de HII-D con otros modelos (SOAP, scripts, reflexión deliberada) — 15
-- Comunicación de incertidumbre — 13, 14, CC (viñeta 5)
+- Cognición distribuida — 14
+- Comparación de HII-D con otros modelos (SOAP, scripts, reflexión deliberada) — 16
+- Comunicación de incertidumbre — 14, 15, CC (viñeta 5)
 - Conocimiento tácito — 6; saber hacer y quiebre (Varela) — 6
-- Contexto global del paciente (funcionalidad, pronóstico de fondo, red de apoyo) — 10, 15, Ap A
-- Contrafactuales — 11
-- Conversaciones para la acción (Flores y Winograd) — 13
-- Copiado de notas (fósil narrativo; magnitud medida) — 12, Ap C
-- Creatividad en el juicio clínico (abducción, problem setting, tercera opción) — 2, 18
-- Criterio de reapertura — 8, 12, 15, Interludio III, CC (viñeta 6), Ap A, Ap C
+- Contexto global del paciente (funcionalidad, pronóstico de fondo, red de apoyo) — 10, 16, Ap A
+- Contrafactuales — 12
+- Conversaciones para la acción (Flores y Winograd) — 14
+- Copiado de notas (fósil narrativo; magnitud medida) — 13, Ap C
+- Creatividad en el juicio clínico (abducción, problem setting, tercera opción) — 2, 19
+- Criterio de reapertura — 8, 13, 16, Interludio III, CC (viñeta 6), Ap A, Ap C
 - Cuatro tópicos (Jonsen, Siegler y Winslade) — 10, Ap A
-- Debate sobre la enseñanza del razonamiento (Croskerry vs. Norman/Monteiro) — 16
-- Decisión compartida — 14, Interludio III
+- Debate sobre la enseñanza del razonamiento (Croskerry vs. Norman/Monteiro) — 17
+- Decisión compartida — 15, Interludio III
 - Deliberación moral (Gracia) — 10
 - Densidad epistémica — 4; seis dimensiones de auditoría — 4, Ap B
 - Desaceleración selectiva — 8, Interludio II; disparadores, incluido el estado del razonador — 8
-- Desacuerdo clínico — 13, Interludio III
+- Desacuerdo clínico — 14, Interludio III
 - Doble proceso — 6
-- Documentación defensiva — 14
+- Documentación defensiva — 15
+- Ecografía tiroidea con examen normal — 11
 - Ensombrecimiento diagnóstico — CC (viñeta 8)
 - Error diagnóstico: magnitud medida y estimada — 7
 - Errores asimétricos — 10, CC (viñeta 3)
 - Errores típicos en los talleres — Ap D
-- Escribas ambientales (regla «la capa H, verificada; la capa D, no») — 17
-- Estado de verificación de un diagnóstico en la ficha electrónica — 12
-- Estado del razonador (esfuerzo, sueño, ánimo; turnos como condición epistémica) — 8, 16, Ap A
-- Ética de la creencia (Clifford); pensar bien como deber primordial — 14, C
+- Escribas ambientales (regla «la capa H, verificada; la capa D, no») — 18
+- Estado de verificación de un diagnóstico en la ficha electrónica — 13
+- Estado del razonador (esfuerzo, sueño, ánimo; turnos como condición epistémica) — 8, 17, Ap A
+- Ética de la creencia (Clifford); pensar bien como deber primordial — 15, C
 - Evidencia poblacional y particularización — 9
-- Falsabilidad del método HII-D — 15
-- Feedback diagnóstico — 5, 16, Ap C
-- Ficha como dispositivo que produce lo visible (Foucault) — 12
-- Ficha de proceso vs. ficha de resultados (los verbos del razonamiento) — 12, Ap D
-- Fichas clínicas y plantillas — 12, 16, Ap C; ficha electrónica pensada desde HII-D — 12
-- Formación clínica en la era de la IA (deskilling, never-skilling, mis-skilling) — 17
-- Fragilidad y funcionalidad como hechos clínicos — 10, 15, Ap A
-- Frase medular — 4, 12, C, CC (todas las viñetas); como argumento de Toulmin — 4
+- Exámenes para tranquilizar — 11
+- Falsabilidad del método HII-D — 16
+- Feedback diagnóstico — 5, 17, Ap C
+- Ficha como dispositivo que produce lo visible (Foucault) — 13
+- Ficha de proceso vs. ficha de resultados (los verbos del razonamiento) — 13, Ap D
+- Fichas clínicas y plantillas — 13, 17, Ap C; ficha electrónica pensada desde HII-D — 13
+- Formación clínica en la era de la IA (deskilling, never-skilling, mis-skilling) — 18
+- Fragilidad y funcionalidad como hechos clínicos — 10, 16, Ap A
+- Frase medular — 4, 13, C, CC (todas las viñetas); como argumento de Toulmin — 4
 - Frecuencias naturales — 2, 10
 - Fuentes del hecho clínico (matriz de procedencia) — 1
 - Grados de facticidad — 1
 - Hecho como estatus provisional (frontera hecho/inferencia) — 1
-- HII-D (método) — 12, 15, Ap A; auditoría de IA con — 17
-- Hindsight bias — 8, 11, 16, CC (viñeta 6)
+- HII-D (método) — 13, 16, Ap A; auditoría de IA con — 18
+- Hindsight bias — 8, 12, 17, CC (viñeta 6)
 - Hoja de ruta para el docente (talleres por nivel) — Ap C
-- Humildad epistémica como motor (explorar, aprender, reenfocar) — 14
-- Illness scripts — 2, 6, 16
+- Humildad epistémica como motor (explorar, aprender, reenfocar) — 15
+- Illness scripts — 2, 6, 17
 - Improvisación y saber hacer (jazz; Limb y Braun) — 6
+- Incertidumbre que conviene dejar — 3, 11
 - Incertidumbre: taxonomía y cartografía — 3; epistémica y aleatoria — 3; knightiana — 3
-- Injusticia epistémica — 14, CC (viñetas 6 y 8)
-- Inteligencia artificial: rol diagnóstico y terapéutico, catálogo de riesgos, defensas — 17
+- Injusticia epistémica — 15, CC (viñetas 6 y 8)
+- Inteligencia artificial: rol diagnóstico y terapéutico, catálogo de riesgos, defensas — 18
 - Intuición experta — 5, 6, Interludio II
 - Lectura de ensayos clínicos (significación, reanálisis bayesiano, saga ANDROMEDA) — 9
-- Léxico de certeza — 4, Ap B; sus precedentes (Kent, radiología) — 15
+- Léxico de certeza — 4, Ap B; sus precedentes (Kent, radiología) — 16
 - Marcador y enfermedad (lactato, perfusión, ANDROMEDA-SHOCK) — 1, 9
 - Medicina basada en evidencia — 9
 - Mente del principiante (Zen, shoshin) — 8
 - Meta-d′ y medición de la metacognición — 5
-- Metacognición: definición y niveles — Int, 5; monitoreo y control — 5; social (señales del equipo y del paciente) — 5, 13; sensibilidad vs. sesgo — Int, 5; auditoría de salidas de IA — 17
-- Miedo y decisión (documentación defensiva, sobreestudio) — 3, 14
+- Metacognición: definición y niveles — Int, 5; monitoreo y control — 5; social (señales del equipo y del paciente) — 5, 14; sensibilidad vs. sesgo — Int, 5; auditoría de salidas de IA — 18
+- Miedo y decisión (documentación defensiva, sobreestudio) — 3, 15
 - Modelo de Toulmin (dato, garantía, calificador, refutación) — 4
-- Nota clínica generada por IA (degradación del registro) — 17
-- Nota de enfermería como hecho clínico — 13
+- Nota clínica generada por IA (degradación del registro) — 18
+- Nota de enfermería como hecho clínico — 14
 - Objetividad entre paréntesis y observador (Maturana) — 1; emociones como dominio de acción — 8
-- Observación activa — 11, Ap D
-- Paradoja de la automatización — 17
-- Pausa diagnóstica — 8, 16, Ap B, Ap C
+- Observación activa — 12, Ap D
+- Paradoja de la automatización — 18
+- Pausa diagnóstica — 8, 17, Ap B, Ap C
 - Pericia y práctica deliberada — 6
-- Phronesis — 6, 14
-- Poesía y juicio clínico (Huidobro, Parra; belleza como señal y trampa) — 18
-- Portafolio de calibración — 5, 8, 14, 16, Ap C, Ap D
+- Phronesis — 6, 15
+- Poesía y juicio clínico (Huidobro, Parra; belleza como señal y trampa) — 19
+- Portafolio de calibración — 5, 8, 15, 17, Ap C, Ap D
 - Preguntas para la próxima visita (reunidas) — Ap E
 - Pronóstico e incertidumbre de plazo — CC (viñeta 5)
-- Proporcionalidad terapéutica (Taboada) — 10, 15, CC (viñeta 5)
-- Proteína C reactiva: cinética y lectura temporal — 11, 12
-- Prueba de Parra (taller del capítulo 18) — Ap D
+- Proporcionalidad terapéutica (Taboada) — 10, 16, CC (viñeta 5)
+- Proteína C reactiva: cinética y lectura temporal — 12, 13
+- Prueba de Parra (taller del capítulo 19) — Ap D
 - Pruebas severas (Popper) — 2
-- Puntos de inflexión — 11, Interludio III
-- Red de seguridad (safety-netting) — 11, CC (viñetas 3, 4 y 7)
+- Puntos de inflexión — 12, Interludio III
+- Red de seguridad (safety-netting) — 12, CC (viñetas 3, 4 y 7)
 - Reglas de decisión clínica (PERC) y umbral — CC (viñeta 6)
-- Representación del problema — Int, 2, 8, 16
+- Representación del problema — Int, 2, 8, 17
 - Riesgo inductivo (Rudner, Douglas) — 10
-- Segunda víctima — 14
-- Segundo lector — 5, 8, 17
-- Sesgo algorítmico (Obermeyer) — 17
-- Sesgo de automatización (Goddard) — 17
+- Segunda víctima — 15
+- Segundo lector — 5, 8, 18
+- Sesgo algorítmico (Obermeyer) — 18
+- Sesgo de automatización (Goddard) — 18
 - Sesgos cognitivos: alcance y límites del vocabulario — 7
 - Sobreconfianza — 5, 7
+- Sobrediagnóstico — 11
 - Sobreestudio e intervenciones innecesarias — 3
 - Talleres (ejercicios por capítulo) — Ap D
 - Tarjeta HII-D en sesenta segundos — última página
-- Testimonio del paciente — 1, 14; epistemología del testimonio (Coady, Lackey) — 14; testimonio de terceros y cuidadores — CC (viñeta 7)
+- Testimonio del paciente — 1, 15; epistemología del testimonio (Coady, Lackey) — 15; testimonio de terceros y cuidadores — CC (viñeta 7)
 - Trayectoria del error (estaciones y barreras) — 7
-- Trayectoria y temporalidad — 11, Interludio I
-- Umbral y geografía (hospital insular, evacuación aeromédica) — 11
+- Trayectoria y temporalidad — 12, Interludio I
+- Umbral y geografía (hospital insular, evacuación aeromédica) — 12
 - Umbrales de decisión — 10, Interludio III, CC (viñeta 3)
-- Validación local y monitoreo de herramientas de IA — 17
+- Validación local y monitoreo de herramientas de IA — 18
 - Validez del entorno e intuición (Kahneman y Klein) — 6
+- Valor de un examen («si sale…, haré…») — 11, Ap A, Ap D
 - Verbos epistémicos — 4, Ap B
 
 # Lista de figuras
@@ -674,9 +704,9 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Figura 10. El enfoque de umbrales de Pauker y Kassirer (Capítulo 10).
 - Figura 11. La línea de tiempo de Carmen y el umbral que se mueve (Capítulo 10).
 - Figura 12. El cálculo en frecuencias naturales (Capítulo 10).
-- Figura 13. El viaje de una frase (Capítulo 12).
-- Figura 14. El método HII-D en una página (Capítulo 15).
-- Figura 15. Parentescos: cada riesgo de la IA clínica junto al sesgo ya descrito (Capítulo 17).
+- Figura 13. El viaje de una frase (Capítulo 13).
+- Figura 14. El método HII-D en una página (Capítulo 16).
+- Figura 15. Parentescos: cada riesgo de la IA clínica junto al sesgo ya descrito (Capítulo 18).
 
 # Nota metodológica y estatuto de las afirmaciones
 
@@ -688,17 +718,19 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 
 **Los casos.** Las escenas clínicas de este libro —Carmen, los interludios, las viñetas y los pasajes en primera persona— son composiciones docentes en el sentido declarado en la página legal: condensan experiencias reales y situaciones compuestas, sin reproducir episodios literales ni permitir identificación de personas o instituciones.
 
-**Uso de inteligencia artificial.** Este manuscrito se desarrolló a partir de ideas y formulaciones del autor, con asistencia de inteligencia artificial en búsqueda inicial, organización, comparación bibliográfica, apoyo en redacción y edición. La IA no sustituyó la verificación de fuentes, el juicio clínico, la autoría ni la responsabilidad: las tesis, las decisiones de contenido y los errores pertenecen al autor. El libro intenta aplicar a su propia escritura la disciplina que su capítulo 17 recomienda.
+**Uso de inteligencia artificial.** Este manuscrito se desarrolló a partir de ideas y formulaciones del autor, con asistencia de inteligencia artificial en búsqueda inicial, organización, comparación bibliográfica, apoyo en redacción y edición. La IA no sustituyó la verificación de fuentes, el juicio clínico, la autoría ni la responsabilidad: las tesis, las decisiones de contenido y los errores pertenecen al autor. El libro intenta aplicar a su propia escritura la disciplina que su capítulo 18 recomienda.
 
 **Verificación de las referencias.** Cada referencia se cotejó contra su fuente primaria antes de citarse, y el registro de ese cotejo —cifra por cifra— acompaña a las fuentes del libro. Cuatro se verificaron sólo por metadatos o por fuentes secundarias, y el lector debe saberlo: Estrada, Isen y Young (1997), cuyo texto completo no estuvo accesible, por lo que el hallazgo se enuncia tal como lo formula el título y sin cifras; la frase de Maturana (1970), tomada de su reimpresión y de *El árbol del conocimiento*; la cita de Suzuki (1970), confirmada contra la edición y no contra una copia del prólogo; y la localización de la tesis de Clifford (1877), tomada de la *Stanford Encyclopedia of Philosophy* y no del volumen original de la *Contemporary Review*. Ninguna de ellas sostiene por sí sola una cifra ni una conducta. La distribución de citas es plana: de las 210 citas del cuerpo, ningún autor supera el 4%, y Croskerry, Norman y Kahneman —las voces dominantes de la literatura sobre razonamiento clínico— suman el 8%. Las referencias con siete o más autores listan los seis primeros seguidos de «et al.»; los ensayos firmados por un grupo conservan el nombre del grupo.
 
-**HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 15 («Qué evidencia me haría abandonar este método»); su evaluación empírica —concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo— es un programa pendiente, no un resultado.
+**HII-D.** Es una heurística conceptual no validada. Sus compromisos de falsabilidad están en el capítulo 16 («Qué evidencia me haría abandonar este método»); su evaluación empírica —concordancia entre lectores, efecto sobre la reconstrucción del razonamiento y sobre conductas medibles, y costo en tiempo— es un programa pendiente, no un resultado.
 
 # Referencias
 
 Abdulnour, R.-E. E., Akbarialiabad, H., Haghighi, A., & Leachman, S. A. (2026). Crew resource management — Navigating AI's automation paradox. *New England Journal of Medicine, 395*(8), 731–734.
 
 Abdulnour, R.-E. E., Gin, B., & Boscardin, C. K. (2025). Educational strategies for clinical supervision of artificial intelligence use. *New England Journal of Medicine, 393*(8), 786–797.
+
+Abeles, A. M., & Abeles, M. (2013). The clinical utility of a positive antinuclear antibody test result. *American Journal of Medicine, 126*(4), 342–348.
 
 Afshar, M., Baumann, M. R., Resnik, F., Hintzke, J., Sullivan, A. G., Wills, G., et al. (2025). A pragmatic randomized controlled trial of ambient artificial intelligence to improve health practitioner well-being. *NEJM AI, 2*(12), AIoa2500945.
 
@@ -770,6 +802,8 @@ Dequin, P.-F., Meziani, F., Quenot, J.-P., Kamel, T., Ricard, J.-D., Badie, J., 
 
 Djulbegovic, B., & Guyatt, G. H. (2017). Progress in evidence-based medicine: A quarter century on. *The Lancet, 390*(10092), 415–423.
 
+Dora, J. M., Biscolla, R. P. M., Caldas, G., Cerutti, J., Graf, H., Hoff, A. O., et al. (2021). Choosing Wisely for thyroid conditions: Recommendations of the Thyroid Department of the Brazilian Society of Endocrinology and Metabolism. *Archives of Endocrinology and Metabolism, 65*(2), 248–252.
+
 Douglas, H. (2000). Inductive risk and values in science. *Philosophy of Science, 67*(4), 559–579.
 
 Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. SAGE.
@@ -808,6 +842,8 @@ Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxfo
 
 Gadamer, H.-G. (1996). *El estado oculto de la salud* (N. Machaín, Trad.). Gedisa.
 
+Ganguli, I., Simpkin, A. L., Lupo, C., Weissman, A., Mainor, A. J., Orav, E. J., et al. (2019). Cascades of care after incidental findings in a US national survey of physicians. *JAMA Network Open, 2*(10), e1913325.
+
 Gérvas, J., & Pérez Fernández, M. (2013). *Sano y salvo (y libre de intervenciones médicas innecesarias)*. Los Libros del Lince.
 
 Gigerenzer, G., & Gaissmaier, W. (2011). Heuristic decision making. *Annual Review of Psychology, 62*, 451–482.
@@ -831,6 +867,8 @@ Greenhalgh, T., Howick, J., & Maskrey, N. (2014). Evidence based medicine: A mov
 Greenhalgh, T., & Hurwitz, B. (Eds.). (1998). *Narrative Based Medicine: Dialogue and Discourse in Clinical Practice*. BMJ Books.
 
 Groopman, J. (2007). *How Doctors Think*. Houghton Mifflin.
+
+Guth, S., Theune, U., Aberle, J., Galach, A., & Bamberger, C. M. (2009). Very high prevalence of thyroid nodules detected by high frequency (13 MHz) ultrasound examination. *European Journal of Clinical Investigation, 39*(8), 699–706.
 
 Han, P. K. J., Klein, W. M. P., & Arora, N. K. (2011). Varieties of uncertainty in health care: A conceptual taxonomy. *Medical Decision Making, 31*(6), 828–838.
 
@@ -944,6 +982,8 @@ Norman, G. R., Monteiro, S. D., Sherbino, J., Ilgen, J. S., Schmidt, H. G., & Ma
 
 Novoa Jurado, A. J. (2025). Terapia epistémica del conocimiento clínico. *Revista Clínica de Medicina de Familia, 18*(3), 274–282.
 
+O'Sullivan, J. W., Muntinga, T., Grigg, S., & Ioannidis, J. P. A. (2018). Prevalence and outcomes of incidental imaging findings: Umbrella review. *BMJ, 361*, k2387.
+
 Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. *Science, 366*(6464), 447–453.
 
 Panicek, D. M., & Hricak, H. (2016). How sure are you, doctor? A standardized lexicon to describe the radiologist's level of certainty. *American Journal of Roentgenology, 207*(1), 2–3.
@@ -978,6 +1018,8 @@ Riquelme, A., Méndez, B., de la Fuente, P., Padilla, O., Benaglio, C., Sirhan, 
 
 Rockwood, K., Song, X., MacKnight, C., Bergman, H., Hogan, D. B., McDowell, I., et al. (2005). A global clinical measure of fitness and frailty in elderly people. *CMAJ, 173*(5), 489–495.
 
+Rolfe, A., & Burton, C. (2013). Reassurance after diagnostic testing with a low pretest probability of serious disease: Systematic review and meta-analysis. *JAMA Internal Medicine, 173*(6), 407–416.
+
 Rouault, M., McWilliams, A., Allen, M., & Fleming, S. M. (2018). Human metacognition across domains: Insights from individual differences and neuroimaging. *Personality Neuroscience, 1*, e17.
 
 Rudner, R. (1953). The scientist qua scientist makes value judgments. *Philosophy of Science, 20*(1), 1–6.
@@ -987,6 +1029,8 @@ Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson
 Salager-Meyer, F. (1994). Hedges and textual communicative function in medical English written discourse. *English for Specific Purposes, 13*(2), 149–170.
 
 Sandars, J. (2009). The use of reflection in medical education: AMEE Guide No. 44. *Medical Teacher, 31*(8), 685–695.
+
+Satoh, M., Chan, E. K., Ho, L. A., Rose, K. M., Parks, C. G., Cohn, R. D., et al. (2012). Prevalence and sociodemographic correlates of antinuclear antibodies in the United States. *Arthritis & Rheumatism, 64*(7), 2319–2327.
 
 Schiff, G. D., Hasan, O., Kim, S., Abrams, R., Cosby, K., Lambert, B. L., et al. (2009). Diagnostic error in medicine: Analysis of 583 physician-reported errors. *Archives of Internal Medicine, 169*(20), 1881–1887.
 
@@ -1016,6 +1060,8 @@ Taboada, P. (2000). El derecho a morir con dignidad. *Acta Bioethica, 6*(1), 89�
 
 Tajer, C. (2008). *El corazón enfermo: Puentes entre las emociones y el infarto*. Libros del Zorzal.
 
+Tan, E. M., Feltkamp, T. E., Smolen, J. S., Butcher, B., Dawkins, R., Fritzler, M. J., et al. (1997). Range of antinuclear antibodies in «healthy» individuals. *Arthritis & Rheumatism, 40*(9), 1601–1611.
+
 Thornicroft, G. (2011). Physical health disparities and mental illness: The scandal of premature mortality. *British Journal of Psychiatry, 199*(6), 441–442.
 
 Tierney, A. A., Gayre, G., Hoberman, B., Mattern, B., Ballesca, M., Kipnis, P., et al. (2024). Ambient artificial intelligence scribes to alleviate the burden of clinical documentation. *NEJM Catalyst Innovations in Care Delivery, 5*(3), CAT.23.0404.
@@ -1025,6 +1071,8 @@ Tonelli, M. R. (1998). The philosophical limits of evidence-based medicine. *Aca
 Toulmin, S. (1958). *The Uses of Argument*. Cambridge University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science, 185*(4157), 1124–1131.
+
+US Preventive Services Task Force, Bibbins-Domingo, K., Grossman, D. C., Curry, S. J., Barry, M. J., Davidson, K. W., et al. (2017). Screening for thyroid cancer: US Preventive Services Task Force recommendation statement. *JAMA, 317*(18), 1882–1887.
 
 Van den Bruel, A., Thompson, M., Buntinx, F., & Mant, D. (2012). Clinicians' gut feeling about serious infections in children: Observational study. *BMJ, 345*, e6144.
 
@@ -1050,13 +1098,15 @@ Wu, A. W. (2000). Medical error: The second victim. The doctor who makes the mis
 
 Xiong, M., Hu, Z., Lu, X., Li, Y., Fu, J., He, J., et al. (2024). Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs. *Proceedings of ICLR 2024*.
 
+Yazdany, J., Schmajuk, G., Robbins, M., Daikh, D., Beall, A., Yelin, E., et al. (2013). Choosing wisely: The American College of Rheumatology's Top 5 list of things physicians and patients should question. *Arthritis Care & Research, 65*(3), 329–339.
+
 Zampieri, F. G., Damiani, L. P., Bakker, J., Ospina-Tascón, G. A., Castro, R., Cavalcanti, A. B., et al. (2020). Effects of a resuscitation strategy targeting peripheral perfusion status versus serum lactate levels among patients with septic shock: A Bayesian reanalysis of the ANDROMEDA-SHOCK trial. *American Journal of Respiratory and Critical Care Medicine, 201*(4), 423–429.
 
 Zwaan, L., Monteiro, S., Sherbino, J., Ilgen, J., Howey, B., & Norman, G. (2017). Is bias in the eye of the beholder? A vignette study to assess recognition of cognitive biases in clinical case workups. *BMJ Quality & Safety, 26*(2), 104–110.
 
 # Tarjeta: HII-D en sesenta segundos
 
-Para recortar y llevar en el bolsillo del delantal. Cuatro preguntas y un criterio de reapertura; en voz alta en la visita de sala o por escrito antes de firmar un alta. La versión completa está en el capítulo 15 y en el Apéndice A.
+Para recortar y llevar en el bolsillo del delantal. Cuatro preguntas y un criterio de reapertura; en voz alta en la visita de sala o por escrito antes de firmar un alta. La versión completa está en el capítulo 16 y en el Apéndice A.
 
 | HII-D en sesenta segundos |
 |---|

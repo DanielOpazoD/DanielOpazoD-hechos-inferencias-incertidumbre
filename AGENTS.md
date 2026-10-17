@@ -14,7 +14,7 @@ su CI) aplica al libro. El lector de anotaciones tiene su propio repo, `DanielOp
 
 ## Reglas del autor
 
-- **Las citas de Parra no se tocan** (cap. 18: versos y citas, también al partir frases largas o cambiar comillas; el
+- **Las citas de Parra no se tocan** (cap. 19: versos y citas, también al partir frases largas o cambiar comillas; el
   único cambio que tuvieron fue el glifo «»). Antes de cada commit, revisa que el diff no las alcance.
 - **Terminología hospitalaria chilena**: entrega de turno, visita de sala, sonda a caída libre, dolor en estudio, ITU
   asociada a CUP, llene capilar, ficha clínica (no «historia clínica»). Los términos canónicos y los conceptos vecinos

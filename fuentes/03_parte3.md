@@ -1,6 +1,6 @@
 # PARTE III. Decidir en el tiempo y con otros
 
-Las dos primeras partes examinaron el conocimiento y la mente que lo maneja. Esta parte los pone en movimiento. La evidencia poblacional que debe leerse con su marco a la vista y traducirse a una persona (capítulo 9); la decisión por umbrales, donde los valores entran al cálculo y la bioética entra en la premisa (capítulo 10); el tiempo que transforma el significado de los hechos (capítulo 11); la ficha que piensa o que fosiliza (capítulo 12); y el equipo donde el conocimiento circula, se degrada o se corrige, incluida la conversación con el paciente (capítulo 13). El interludio final encuentra a Carmen frente a una decisión de verdad.
+Las dos primeras partes examinaron el conocimiento y la mente que lo maneja. Esta parte los pone en movimiento. La evidencia poblacional que debe leerse con su marco a la vista y traducirse a una persona (capítulo 9); la decisión por umbrales, donde los valores entran al cálculo y la bioética entra en la premisa (capítulo 10); el examen que vale por lo que su resultado puede cambiar, y la duda que conviene dejar (capítulo 11); el tiempo que transforma el significado de los hechos (capítulo 12); la ficha que piensa o que fosiliza (capítulo 13); y el equipo donde el conocimiento circula, se degrada o se corrige, incluida la conversación con el paciente (capítulo 14). El interludio final encuentra a Carmen frente a una decisión de verdad.
 
 ## Capítulo 9. La evidencia y el caso singular
 
@@ -87,7 +87,7 @@ Hasta aquí, decidir pudo parecer un problema de dos variables: probabilidad y c
 
 El error más frecuente en la frontera entre evidencia técnica y bioética tiene estructura epistémica antes que moral. Consiste en tratar la «indicación médica» como una propiedad intrínseca del órgano enfermo y no como una relación proporcional entre una intervención y una biografía concreta. «La estenosis aórtica severa sintomática tiene indicación de recambio valvular quirúrgico o percutáneo (TAVI)» es un enunciado verdadero sobre una cohorte seleccionada. Afirmar que este hombre de 88 años va a recuperar calidad de vida o funcionalidad gracias a la prótesis valvular es una inferencia completamente distinta. Tiene fragilidad clínica avanzada, deterioro cognitivo incipiente, dos hospitalizaciones por broncoaspiración en el semestre y una hija cuidadora exhausta, y la validez de esa inferencia exige meter esos hechos en la ecuación. Aquí la brecha entre el efecto promedio del ensayo y el caso singular exhibe toda su carga moral. Cuando la evaluación omite la funcionalidad basal y el soporte familiar, lo que se pierde no es sólo precisión pronóstica; es el paciente mismo.
 
-Hay que decirlo con todas sus letras: la funcionalidad, el pronóstico de fondo y el soporte sociofamiliar son hechos clínicos de pleno derecho, no ornamentos «psicosociales» de la anamnesis. La funcionalidad se puede evaluar y graduar en minutos, y predice mortalidad y desenlaces con independencia del diagnóstico que motivó el ingreso (Rockwood et al., 2005). La trayectoria de fondo decide el significado de la enfermedad aguda. La neumonía es la misma bacteria en una curva ascendente que en una descendente, pero no es el mismo problema: la lección del capítulo siguiente, aplicada a los fines del tratamiento. Y la red de apoyo convierte una misma orden de alta en dos intervenciones distintas: «alta a domicilio» con alguien en el domicilio es un plan; sin nadie, es un abandono con firma. Cuando estos datos faltan en la ficha no suele ser porque cuesten mucho: es porque el formato no los pide. Son hechos que la capa H debe registrar para que la capa D pueda usarlos.
+Hay que decirlo con todas sus letras: la funcionalidad, el pronóstico de fondo y el soporte sociofamiliar son hechos clínicos de pleno derecho, no ornamentos «psicosociales» de la anamnesis. La funcionalidad se puede evaluar y graduar en minutos, y predice mortalidad y desenlaces con independencia del diagnóstico que motivó el ingreso (Rockwood et al., 2005). La trayectoria de fondo decide el significado de la enfermedad aguda. La neumonía es la misma bacteria en una curva ascendente que en una descendente, pero no es el mismo problema: la lección del capítulo 12, aplicada a los fines del tratamiento. Y la red de apoyo convierte una misma orden de alta en dos intervenciones distintas: «alta a domicilio» con alguien en el domicilio es un plan; sin nadie, es un abandono con firma. Cuando estos datos faltan en la ficha no suele ser porque cuesten mucho: es porque el formato no los pide. Son hechos que la capa H debe registrar para que la capa D pueda usarlos.
 
 ### Cuatro tópicos, proporcionalidad y deliberación
 
@@ -106,7 +106,70 @@ Este cruce aparece ejecutado dos veces más adelante sin la palabra «bioética�
 2. ¿Estoy exigiendo certeza diagnóstica donde bastaría compromiso práctico, o actuando para no tolerar una duda?
 3. De mi paciente más grave de hoy: ¿sé cómo funcionaba antes de enfermar, con quién vive y qué espera del tratamiento —y está escrito en alguna parte—?
 
-## Capítulo 11. Temporalidad, trayectoria y razonamiento contrafactual
+## Capítulo 11. Cuando saber más no cambia nada: el valor de un examen
+
+Policlínico, once de la mañana. Una mujer de 52 años con hipotiroidismo por tiroiditis de Hashimoto, en tratamiento con levotiroxina y con la TSH en rango, trae la ecografía tiroidea que alguien pidió en un control anterior. El cuello es normal al examen: no hay bocio ni nódulos palpables. El informe describe una glándula de ecoestructura heterogénea, compatible con tiroiditis, y un nódulo sólido de 6 milímetros «a controlar». Ella llega asustada; la palabra nódulo le sonó a cáncer. Nada de lo que dice el informe cambia lo que se iba a hacer, que es seguir con la misma dosis de levotiroxina. Pero la última línea ya cambió otras cosas: ahora hay un nódulo en la ficha, una paciente con miedo y un control ecográfico que nadie indicó por una razón clínica.
+
+El capítulo anterior preguntó cuánta evidencia basta para actuar. Éste pregunta lo inverso: cuándo buscar más evidencia no sirve para actuar. Hasta aquí el libro ha empujado en una sola dirección —precisar el hecho, graduar la inferencia, nombrar la incertidumbre—, y ese empuje necesita su límite. No toda duda merece resolverse, y no todo examen informa.
+
+### El valor de un dato es lo que cambia
+
+El enfoque de umbrales del capítulo 10 tiene una consecuencia que rara vez se dice en voz alta. Si la probabilidad de una enfermedad cae en la zona de «testear», un examen tiene sentido porque alguno de sus resultados puede sacarla de esa zona: un positivo que la empuja sobre el umbral de tratamiento, o un negativo que la baja del umbral de prueba (Pauker & Kassirer, 1980). Pero si el resultado positivo y el negativo dejan al paciente en la misma zona, o conducen a la misma conducta, el examen no informa la decisión. Puede ser exacto, barato y seguro, y aun así no valer nada para lo que hay que decidir. La teoría de la decisión lo llama valor de la información: un dato vale en la medida en que puede cambiar la acción. En la sala, la pregunta es más corta: ¿qué voy a hacer distinto con cada resultado?
+
+La ecografía de esa paciente lo muestra con claridad. Si muestra tiroiditis, se sigue con levotiroxina; si es normal, también; si muestra un nódulo pequeño, también, y además empieza un problema nuevo. Las tres ramas terminan en la misma conducta. Y el hallazgo de la tercera no es una rareza: con un ecógrafo de alta frecuencia se encontraron nódulos tiroideos en 432 de 635 personas que acudían a un chequeo preventivo —dos de cada tres—, y el mismo trabajo recuerda que un estudio poblacional alemán, con equipos menos sensibles, los había encontrado en un tercio (Guth et al., 2009). Un examen que encuentra algo en casi todos no distingue a nadie. El grupo de trabajo de tiroides de la Sociedad Brasileña de Endocrinología puso entre las diez recomendaciones que priorizó no pedir ecografía para buscar nódulos en pacientes sin alteraciones anatómicas al examen, y su lista final pide no repetir los anticuerpos antitiroideos en el seguimiento de un Hashimoto que ya los tuvo positivos: una vez positivos, la causa del hipotiroidismo está definida (Dora et al., 2021). A escala de población, el patrón tiene nombre. En Estados Unidos, la detección de cáncer de tiroides aumentó 4,5% por año durante una década sin un cambio correspondiente en la mortalidad, y el grupo que fija allí las recomendaciones de tamizaje recomendó no buscarlo en adultos sin síntomas, porque el sobrediagnóstico y el sobretratamiento probablemente son sustanciales (US Preventive Services Task Force, 2017).
+
+### Un positivo que no informa
+
+Otra consulta, otra semana. Una mujer de 34 años con dolor difuso y cansancio de meses, sin artritis, sin lesiones en la piel ni úlceras orales, con un examen físico normal y un hemograma y una función renal normales. Le pidieron anticuerpos antinucleares «para descartar lupus». Resultado: positivos, 1/80, patrón moteado. Con ese papel llega a la interconsulta con reumatología, y con él llega también la palabra lupus, que nadie le dijo pero que ella encontró sola.
+
+El resultado era previsible sin pedirlo. En personas sanas, los anticuerpos antinucleares por inmunofluorescencia salen positivos en el 31,7% a una dilución de 1/40, en el 13,3% a 1/80 y en el 5,0% a 1/160 (Tan et al., 1997); en una muestra representativa de la población estadounidense de 12 años o más, en el 13,8%, y en el 17,8% de las mujeres (Satoh et al., 2012). Cuando se revisaron 232 pacientes derivados a un centro de reumatología por un ANA positivo pedido fuera de la especialidad, el valor predictivo positivo fue de 2,1% para lupus y de 9,1% para cualquier enfermedad asociada a anticuerpos antinucleares; ningún paciente con un título menor de 1/160 la tenía, y el motivo más frecuente para haber pedido el examen fue el dolor generalizado (Abeles & Abeles, 2013). En las frecuencias naturales del capítulo 10: de cada cien pacientes que llegan así, más de noventa traen un positivo que no corresponde a ninguna de esas enfermedades.
+
+Escrito antes de pedirlo, el examen se habría desarmado solo. Si sale negativo, el dolor sigue sin explicación y el plan es el mismo: buscar su causa por donde la clínica indique. Si sale positivo a título bajo, el plan es el mismo, pero ahora con un rótulo, una interconsulta y, a menudo, el paso siguiente de la cascada: las subserologías, que el Colegio Americano de Reumatología pide no solicitar sin un ANA positivo y una sospecha clínica de enfermedad inmunológica (Yazdany et al., 2013). El rótulo, además, viaja: «ANA (+)» escrito una vez puede volverse, tres notas después, «antecedente autoinmune», con la autoridad de un hecho que nadie verificó; es el fósil narrativo del capítulo 13.
+
+Lo mismo, invertido. Cuando la sospecha es real —artritis, fotosensibilidad, citopenias, compromiso renal o serositis—, el ANA es el examen correcto, y su sensibilidad a títulos bajos hace que un negativo sirva para descartar (Tan et al., 1997). No es el examen el que sobra; es la pregunta la que falta.
+
+### La incertidumbre que conviene dejar
+
+Hay dudas que ningún resultado disponible convertiría en un cambio de conducta, de vigilancia o de información que el paciente necesite. Este libro las llama incertidumbre que conviene dejar: se declara por escrito y no se persigue. La cartografía del capítulo 3 ya la incluía —«lo que no cambiaría la conducta inmediata»—, junto a la duda que, si estuviera equivocada, produciría daño grave, y que por eso obliga a buscar; allí se nombró, y aquí se desarrolla. Kassirer lo había advertido: la búsqueda obstinada de certeza genera pruebas innecesarias sin eliminar el residuo de duda (Kassirer, 1989).
+
+Carmen tiene varias. Por qué este cuarto episodio fue tanto más grave que los tres anteriores; si la bacteriemia vino de una translocación o de una isquemia transitoria ya resuelta, un mecanismo que el Interludio I dejó como posible y no demostrado. Ninguna respuesta cambia el antibiótico, que ya cubre el foco abdominal, ni la indicación de reparar la hernia, que descansa en la gravedad alcanzada y no en el mecanismo. Escribirlo así —«mecanismo no demostrado; no cambia la conducta»— no es negligencia: es la manera de que la duda no se convierta, al día siguiente, en una tomografía más.
+
+### Por qué igual se pide
+
+Si tantas veces el resultado no cambia nada, ¿por qué se pide? Las razones son reconocibles. Para quedarse tranquilo el médico, que duerme mejor con el informe en la ficha. Para tranquilizar al paciente, aunque la evidencia no ayuda: en una revisión de catorce ensayos aleatorizados con pacientes de baja probabilidad de enfermedad grave, los exámenes no redujeron la preocupación por la enfermedad, la ansiedad ni la persistencia de los síntomas, y sólo se sugirió una reducción pequeña de las consultas posteriores (Rolfe & Burton, 2013). Por miedo al reclamo, que es la documentación defensiva del capítulo 15. Por completar la ficha o el protocolo, que piden el examen aunque el caso no lo necesite. Por inercia: el control «de rutina» que nadie revisa, como la ecografía de la paciente con Hashimoto. Y por curiosidad, que es una virtud del clínico pero no una indicación para el paciente.
+
+Ninguno de esos motivos es una indicación. Algunos son necesidades legítimas —la del paciente que quiere una respuesta, la del médico que teme— que piden otra cosa: una conversación, una explicación del plan, un criterio de reconsulta escrito.
+
+### ¿Nada para quién?
+
+«No cambia nada» es una afirmación fuerte, y hay que preguntar para quién. Un resultado que no cambia el tratamiento puede cambiar algo para el paciente: ponerle nombre a lo que tiene, un pronóstico para ordenar sus asuntos, un dato que importa a su familia, el fin de una búsqueda que lo tiene en vilo. Ese valor existe y es suyo; es la pregunta del capítulo 10 —consecuencias para quién, medidas en qué moneda— aplicada a la información. Lo que no corresponde es disfrazarlo de indicación médica. Si se pide por eso, se escribe por eso: «se solicita a petición de la paciente, que quiere saber si su hija debe estudiarse, sabiendo que el resultado no cambia su tratamiento». Esa línea deja la decisión en quien corresponde y le advierte al próximo lector que el examen no respondía a una pregunta clínica.
+
+Hay también exámenes que no cambian nada hoy pero fijan la línea de base de una vigilancia. Ésos tienen propósito, y el propósito se escribe: «basal, para comparar si aparece…».
+
+### Cuando saber más, además, daña
+
+A veces el examen que no cambia nada hace algo peor que no informar: crea un problema. En una revisión de revisiones sistemáticas, los hallazgos incidentales aparecieron en más de un tercio de las resonancias cardiacas, de las tomografías de tórax y de las colonografías por tomografía (O'Sullivan et al., 2018). Cada hallazgo abre una pregunta que antes no existía, y la pregunta pide otro examen. En una encuesta nacional a internistas estadounidenses, el 99,4% había vivido cascadas de atención tras un hallazgo incidental, y relataron daño psicológico para sus pacientes en el 68,4%, daño físico en el 15,6% y una carga económica en el 57,5% (Ganguli et al., 2019). El nódulo de 6 milímetros de la primera escena ya empezó la suya. Y el hallazgo, como toda frase, viaja: «nódulo tiroideo en estudio» puede seguir en la ficha años después, sin que nadie recuerde por qué se buscó.
+
+### La herramienta: «si sale…, haré…»
+
+Antes de pedir un examen, una línea por resultado posible: «si sale X, haré A; si sale Y, haré B». Si A y B son iguales, el examen no se pide, salvo que el paciente lo quiera por razones propias, y entonces se escribe así. La regla cabe en la capa D de HII-D: cada examen pendiente lleva su propósito y lo que se hará con cada resultado, junto al plazo y al responsable que ya pide el bloque de reevaluación del Apéndice A. En los dos casos del capítulo, las líneas se escriben solas:
+
+> Ecografía tiroidea: si muestra tiroiditis, levotiroxina; si es normal, levotiroxina; si muestra un nódulo pequeño, levotiroxina y un estudio que nadie buscaba. No se pide.
+
+> ANA en dolor difuso sin signos de autoinmunidad: si es negativo, seguir estudiando el dolor; si es positivo a título bajo, seguir estudiando el dolor, con un rótulo y una interconsulta. No se pide; se pedirá si aparecen artritis, fotosensibilidad, citopenias o compromiso renal.
+
+### Lo que no debe concluirse
+
+Esto no es un alegato contra los exámenes. El que puede cambiar la conducta hay que pedirlo, y pedirlo a tiempo; la omisión también mata, y el capítulo 7 midió cuánto. La simetría es la del capítulo 10: hay errores por exceso y por defecto, y ninguno es inocente por ser el contrario del otro. La pregunta no es «¿pido o no pido?», sino «¿qué haré con cada resultado?». Cuando la respuesta distingue, se pide; cuando no distingue, la duda se deja escrita y se vuelve a mirar si el cuadro cambia.
+
+**En una frase.** Un examen vale lo que su resultado puede cambiar —una conducta, una vigilancia o algo que el paciente necesita saber—; si no cambia nada para nadie, no es prudencia sino ruido con costo, y la duda que no cambia la conducta se declara y se deja.
+
+**Tres preguntas para la próxima visita.**
+1. De los exámenes que pedí esta semana, ¿cuál habría pedido igual si antes hubiera escrito qué haría con cada resultado?
+2. ¿Qué duda de mi paciente más complejo conviene declarar y dejar, en vez de perseguir?
+3. El último examen que pedí para tranquilizar, ¿a quién tranquilizaba: al paciente o a mí?
+
+## Capítulo 12. Temporalidad, trayectoria y razonamiento contrafactual
 
 «Está mejor.» La frase se repite en cada entrega de turno y casi nunca alguien detiene la presentación para preguntar: ¿mejor en comparación con qué momento?, ¿mejor en qué variable fisiológica?, ¿mejor a qué velocidad? Un lactato arterial de 3 mmol/L puede ser una excelente noticia si desciende desde 6 mmol/L tras la reanimación inicial, o una señal ominosa si asciende desde 1,5 mmol/L. Este capítulo trata del tiempo: la dimensión clínica donde los datos cambian radicalmente de significado sin cambiar de valor numérico.
 
@@ -128,7 +191,7 @@ La temporalidad modifica además la probabilidad previa. Una enfermedad puede se
 
 ### Tiempo, reversibilidad y umbral
 
-La misma probabilidad conduce a decisiones distintas según el tiempo: el umbral del capítulo anterior no está fijo en el eje temporal. Cuando el daño progresa rápidamente, el valor de esperar información disminuye. Cuando la conducta es reversible, puede iniciarse con un umbral menor y reevaluarse. Cuando es irreversible, la deliberación debe ser más exigente —y el tiempo que se compra con una medida reversible es, a menudo, la mejor inversión diagnóstica disponible—.
+La misma probabilidad conduce a decisiones distintas según el tiempo: el umbral del capítulo 10 no está fijo en el eje temporal. Cuando el daño progresa rápidamente, el valor de esperar información disminuye. Cuando la conducta es reversible, puede iniciarse con un umbral menor y reevaluarse. Cuando es irreversible, la deliberación debe ser más exigente —y el tiempo que se compra con una medida reversible es, a menudo, la mejor inversión diagnóstica disponible—.
 
 Una forma práctica de pensar incluye cinco dimensiones: probabilidad, magnitud del daño, velocidad de evolución, reversibilidad de la intervención y capacidad de vigilancia. Iniciar un tratamiento empírico no declara certeza etiológica; declara que, con esta velocidad y esta reversibilidad, actuar supera a esperar. El taller de este capítulo (Apéndice D) pone la alternativa —esperar con diseño— por escrito.
 
@@ -157,7 +220,7 @@ Una escritura temporalmente lúcida distingue fecha y secuencia, estado basal y 
 2. ¿Qué predijo mi diagnóstico hace 48 horas, y la evolución lo confirmó o lo desmintió?
 3. Mi «observación» de hoy, ¿tiene plazo, variables y criterio de salida, o es una espera sin diseño?
 
-## Capítulo 12. La ficha clínica como instrumento de pensamiento
+## Capítulo 13. La ficha clínica como instrumento de pensamiento
 
 Abra la ficha clínica de cualquier paciente que lleve más de una semana hospitalizado y busque el párrafo que se repite intacto desde el ingreso. Casi siempre está ahí. Alguien lo redactó el primer día, otro lo copió y pegó el segundo, y desde entonces viaja en las evoluciones como un polizón: «paciente con antecedente de ITU a repetición», «en estudio por baja de peso», «se mantiene manejo habitual». Este capítulo aborda la ficha clínica como tecnología cognitiva: la diferencia entre un registro que sostiene el pensamiento y uno que lo fosiliza.
 
@@ -222,7 +285,7 @@ La misma neumonía, escrita como proceso, cabe en ocho líneas:
 
 Dos de esas líneas cargan evidencia que debe nombrarse. El «no» a los corticoides se apoya en que su beneficio en mortalidad se demostró en neumonía grave tratada en cuidados intensivos, no en sala: 6,2% con hidrocortisona frente a 11,9% con placebo a los 28 días (Dequin et al., 2023). La nota lo dice con una palabra: «sin criterios de gravedad». Y las guías no coinciden: la de la ATS y la IDSA de 2019 recomendó no usar corticoides de rutina, con fuerza en la neumonía no grave y con reservas en la grave (Metlay et al., 2019). La actualización de 2024 de la Society of Critical Care Medicine, ya con ese ensayo sobre la mesa, los recomienda en la neumonía bacteriana grave hospitalizada (Chaudhuri et al., 2024). La ficha de proceso no zanja el desacuerdo; deja escrito con qué umbral de gravedad lo resolvió. Y el «sin indicación de anaerobios» es un descarte con método, el de la anamnesis que no encontró aspiración, y por eso puede revisarse si la anamnesis cambia. La nota de proceso es apenas más larga que «Neumonía. Ceftriaxona» si se cuentan las líneas que una evolución típica dedica a repetir lo de ayer, y es otra cosa: cualquiera que la lea mañana sabe qué se pensó, qué quedó abierto y qué desmentiría el plan. El riesgo ya advertido —la nota que crece sin pensar— no se corre aquí: la ficha de proceso no escribe más; escribe lo que hoy no se escribe nunca.
 
-El último verbo pide párrafo propio, porque es donde la ficha de resultados falla con más silencio: comprobar. «Neumonía. Ceftriaxona» no dice cuándo ni con qué se sabrá si funcionó, y así la respuesta se juzga con lo que llegue primero, que casi siempre es la PCR de las 48 horas. Si viene más alta que al ingreso, con el paciente afebril, comiendo y sin oxígeno, la nota de resultados no tiene con qué leerla y el reflejo es escalar el antibiótico. La ficha de proceso sí tiene con qué, porque escribió la predicción con su tiempo, la cinética del marcador que el capítulo 11 describió. Y la dejó anotada antes de que llegara el resultado: «una PCR alta a las 48 horas con paciente bien no reabre el caso; una PCR que no cae al cuarto día, sí».
+El último verbo pide párrafo propio, porque es donde la ficha de resultados falla con más silencio: comprobar. «Neumonía. Ceftriaxona» no dice cuándo ni con qué se sabrá si funcionó, y así la respuesta se juzga con lo que llegue primero, que casi siempre es la PCR de las 48 horas. Si viene más alta que al ingreso, con el paciente afebril, comiendo y sin oxígeno, la nota de resultados no tiene con qué leerla y el reflejo es escalar el antibiótico. La ficha de proceso sí tiene con qué, porque escribió la predicción con su tiempo, la cinética del marcador que el capítulo 12 describió. Y la dejó anotada antes de que llegara el resultado: «una PCR alta a las 48 horas con paciente bien no reabre el caso; una PCR que no cae al cuarto día, sí».
 
 ### Temporalidad y revisión
 
@@ -239,7 +302,7 @@ También debe registrar qué haría cambiar. «Reevaluar si fiebre o deterioro»
 2. Si yo no estuviera mañana, ¿el médico que me reemplace sabría por mi nota qué vigilar y qué reabriría el caso?
 3. ¿Mi lista de problemas distingue hechos, hipótesis, acciones pendientes e incertidumbres, o todo tiene el mismo estatus?
 
-## Capítulo 13. Pensar con otros: equipos, desacuerdo y comunicación de la incertidumbre
+## Capítulo 14. Pensar con otros: equipos, desacuerdo y comunicación de la incertidumbre
 
 A las 02:00 de la madrugada, Paola, la enfermera de turno, registra en su hoja: «paciente más quejumbrosa, rechaza la cena, diuresis en el límite inferior». A las 08:00, en la entrega de turno médica, el caso se resume en dos palabras: «sin novedades». Entre ambos registros no hay negligencia ni mala fe; hay una cadena de transmisión donde la señal clínica fue comprimida hasta desaparecer. Este capítulo trata del conocimiento clínico como propiedad distribuida de un equipo —médicos, enfermeras, técnicos, kinesiólogos, paciente, familia y sistemas de registro— y de cómo esa información se degrada, se discute y se comunica.
 

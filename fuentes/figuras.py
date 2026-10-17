@@ -293,18 +293,18 @@ hilos = [
     ("CAPAS\nH · I · I · D",
      ["1 el hecho y su\n   procedencia\n2 inferir · 3 incertidumbre\n4 el lenguaje que\n   las conserva",
       "7 el error como\n   trayectoria\n8 presentar sin\n   la etiqueta",
-      "9 del ensayo al caso\n10 umbral · 11 trayectoria\n12 la ficha que piensa\n   (matriz HII-D)",
-      "15 el método HII-D\nCuaderno de casos\nAp. A (hoja)\nAp. B (léxico)"]),
+      "9 del ensayo al caso\n10 umbral · 11 el valor\n   de un examen\n12 trayectoria\n13 la ficha que piensa",
+      "16 el método HII-D\nCuaderno de casos\nAp. A (hoja)\nAp. B (léxico)"]),
     ("ABDUCCIÓN →\nMETACOGNICIÓN →\nHUMILDAD",
      ["2 la conjetura que\n   crea explicaciones\n   (Peirce)",
       "5 monitoreo y control\n6 intuición y su entorno\n7–8 error y pausa\n   selectiva",
-      "13 metacognición\n   de equipo\n   (cognición distribuida)",
-      "14 humildad como motor\n16 enseñarla y\n   organizarla\n17 razonar antes\n   de consultar"]),
+      "14 metacognición\n   de equipo\n   (cognición distribuida)",
+      "15 humildad como motor\n17 enseñarla y\n   organizarla\n18 razonar antes\n   de consultar"]),
     ("LENGUAJE\ndensidad → léxico →\nfrase medular",
      ["4 densidad epistémica\n   actos de habla\n   Toulmin",
       "7 la frase heredada\n8 reformular sin\n   el diagnóstico",
-      "11 «está mejor»\n12 el fósil narrativo\n13 transferir es\n   transformar",
-      "15 frase medular\nAp. B léxico de certeza\n18 Parra, no Huidobro"]),
+      "12 «está mejor»\n13 el fósil narrativo\n14 transferir es\n   transformar",
+      "16 frase medular\nAp. B léxico de certeza\n19 Parra, no Huidobro"]),
 ]
 x0, wl, wc, gap = 0.25, 1.75, 2.2, 0.12
 xs = [x0 + wl + gap + i * (wc + gap) for i in range(4)]
@@ -383,7 +383,7 @@ for x, t in [(4.15, "BARRERA 1 · al indicar el antibiótico\ncriterio de reaper
     ax.text(x, 1.15, t, ha="center", va="center", fontsize=6.4, color=ACENTO, linespacing=1.25)
 ax.text(5.7, 5.35, "El sesgo («anclaje») está en la estación 1; el error es la trayectoria completa — y la corrección es una barrera, no una virtud",
         ha="center", fontsize=8.0, style="italic", color=GRIS)
-ax.text(5.7, 0.2, "Reconstruir así es también el formato de una reunión de morbimortalidad útil (cap. 16, Ap. C)",
+ax.text(5.7, 0.2, "Reconstruir así es también el formato de una reunión de morbimortalidad útil (cap. 17, Ap. C)",
         ha="center", fontsize=7.4, style="italic", color=GRIS)
 guardar(fig, "fig12_trayectoria_error.png")
 
@@ -471,13 +471,13 @@ guardar(fig, "fig14_viaje_frase.png")
 fig, ax = plt.subplots(figsize=(7.8, 5.9))
 ax.set_xlim(0, 10.8); ax.set_ylim(-0.35, 7.6); ax.axis("off")
 pares = [
-    ("Confabulación", "lo inventado, con la sintaxis de un hecho", "Certeza retórica", "la inferencia escrita como hecho (caps. 4 y 14)"),
-    ("Sesgo de automatización", "aceptar la salida por venir de un sistema", "Anclaje + autoridad no interrogada", "la hipótesis que nadie contradice (caps. 7 y 13)"),
+    ("Confabulación", "lo inventado, con la sintaxis de un hecho", "Certeza retórica", "la inferencia escrita como hecho (caps. 4 y 15)"),
+    ("Sesgo de automatización", "aceptar la salida por venir de un sistema", "Anclaje + autoridad no interrogada", "la hipótesis que nadie contradice (caps. 7 y 14)"),
     ("Atrofia de la pericia", "menos adenomas sin la máquina", "Validez del entorno", "la intuición vive de práctica y feedback (cap. 6)"),
     ("Sesgo algorítmico", "gasto como sustituto de necesidad", "Carga teórica de la observación", "alguien decidió qué medir (cap. 1)"),
     ("Sobreconfianza no calibrada", "«estoy bastante seguro» como tono", "Confianza ≠ exactitud", "calibración y sensibilidad metacognitiva (cap. 5)"),
     ("Captura cognitiva", "la respuesta llega antes que el caso", "Cierre prematuro", "la primera hipótesis se queda con el caso (caps. 2 y 7)"),
-    ("Degradación silenciosa", "el modelo decae sin avisar", "Experiencia sin feedback", "años que no se vuelven calibración (caps. 5 y 16)"),
+    ("Degradación silenciosa", "el modelo decae sin avisar", "Experiencia sin feedback", "años que no se vuelven calibración (caps. 5 y 17)"),
 ]
 ax.text(2.2, 7.25, "RIESGO DE LA IA CLÍNICA", ha="center", fontsize=9.4, fontweight="bold", color=ACENTO)
 ax.text(8.0, 7.25, "SESGO QUE EL LIBRO YA DESCRIBIÓ", ha="center", fontsize=9.4, fontweight="bold", color=ACENTO2)

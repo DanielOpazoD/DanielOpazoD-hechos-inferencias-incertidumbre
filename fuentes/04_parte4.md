@@ -1,8 +1,8 @@
 # PARTE IV. Una epistemología operativa
 
-Las tres primeras partes construyeron las herramientas; esta las pone a trabajar. Primero frente a la responsabilidad —y el miedo— que ninguna herramienta puede delegar (capítulo 14). Luego, el método HII-D en forma completa y en versión de sesenta segundos (capítulo 15), un cuaderno de ocho casos para leer metacognitivamente —incluida la resolución de la historia de Carmen— y el problema de enseñar y organizar todo esto (capítulo 16). Cierran el libro dos espejos: la inteligencia artificial en el proceso diagnóstico y terapéutico —qué hace, qué arriesga, cómo se la enfrenta— (capítulo 17), y la poesía —porque el debate sobre lo que la palabra tiene derecho a hacer también se libró en verso, y en Chile (capítulo 18)—.
+Las tres primeras partes construyeron las herramientas; esta las pone a trabajar. Primero frente a la responsabilidad —y el miedo— que ninguna herramienta puede delegar (capítulo 15). Luego, el método HII-D en forma completa y en versión de sesenta segundos (capítulo 16), un cuaderno de ocho casos para leer metacognitivamente —incluida la resolución de la historia de Carmen— y el problema de enseñar y organizar todo esto (capítulo 17). Cierran el libro dos espejos: la inteligencia artificial en el proceso diagnóstico y terapéutico —qué hace, qué arriesga, cómo se la enfrenta— (capítulo 18), y la poesía —porque el debate sobre lo que la palabra tiene derecho a hacer también se libró en verso, y en Chile (capítulo 19)—.
 
-## Capítulo 14. Humildad epistémica y responsabilidad clínica
+## Capítulo 15. Humildad epistémica y responsabilidad clínica
 
 Hay una frase de tres palabras que me tomó años aprender a pronunciar frente a la familia de un paciente grave: «no lo sé». La primera vez que me atreví a decirla completa —«todavía no sé con certeza por qué empeoró hoy; pero sí sé qué complicaciones graves ya descartamos, sé qué variables vamos a vigilar esta noche y sé a qué hora de mañana tendremos nuevos resultados»— temía provocar desconfianza o angustia. Encontré lo contrario: alivio. Esa familia no exigía que yo fuera omnisciente; necesitaba saber que nuestra incertidumbre estaba gobernada por un plan. Este capítulo trata de la distancia moral y técnica que separa el aparentar seguridad del ejercer responsabilidad.
 
@@ -79,7 +79,7 @@ La confianza profesional más robusta no depende de parecer infalible. Se constr
 2. Mi última recomendación firme: ¿podría explicar qué hechos la sostienen, qué incertidumbres la modificarían y qué valores del paciente pesan?
 3. ¿Hay en mis fichas una etiqueta («funcional», «no adherente», «poco colaborador») que esté distribuyendo credibilidad en lugar de información?
 
-## Capítulo 15. El método HII-D: una epistemología operativa
+## Capítulo 16. El método HII-D: una epistemología operativa
 
 Todo lo anterior cabe en una hoja. Esa es, deliberadamente, la ambición de este capítulo: condensar el libro en un método que pueda usarse en una discusión de caso, en una nota difícil, en una auditoría de IA o en los sesenta segundos previos a una decisión nocturna. La condensación tiene un precio —ningún método piensa por nadie— y una condición: saber cuándo usarlo y cuándo no.
 
@@ -192,7 +192,7 @@ El valor del método depende de una actitud: aceptar que la claridad no consiste
 
 ## Cuaderno de casos. Ocho viñetas para una lectura metacognitiva
 
-Las viñetas siguientes son composiciones docentes. Cada una se presenta con la estructura HII-D y una frase medular, salvo las dos primeras: vuelven a casos que el libro ya escribió en capas (el Interludio I y el capítulo 12) y guardan sólo lo que esas versiones no tienen. No son casos «resueltos»: son casos representados. La invitación es leer cada uno dos veces —primero como clínico, buscando la conducta; después como lector metacognitivo, observando qué hace cada capa—.
+Las viñetas siguientes son composiciones docentes. Cada una se presenta con la estructura HII-D y una frase medular, salvo las dos primeras: vuelven a casos que el libro ya escribió en capas (el Interludio I y el capítulo 13) y guardan sólo lo que esas versiones no tienen. No son casos «resueltos»: son casos representados. La invitación es leer cada uno dos veces —primero como clínico, buscando la conducta; después como lector metacognitivo, observando qué hace cada capa—.
 
 ### Viñeta 1. Carmen: obstrucción recurrente y cambio cualitativo de riesgo
 
@@ -206,7 +206,7 @@ Mujer de 61 años con hernia incisional de la línea media y tres suboclusiones 
 
 ### Viñeta 2. Bacteriuria en paciente con sonda permanente
 
-Es el paciente de la cama 12 del capítulo 8, cuya ficha el capítulo 12 ordenó entera en la matriz HII-D: hombre con lesión medular completa, sonda Foley permanente y un cáncer renal metastásico en progresión, con orina turbia, piuria y urocultivo positivo tras un recambio traumático de sonda, afebril y estable, y con antecedente de colonización por enterobacteria productora de BLEE. Las cuatro capas no se repiten; esta viñeta guarda lo que cabe en una entrega de turno y una lectura del antecedente que suele hacerse al revés.
+Es el paciente de la cama 12 del capítulo 8, cuya ficha el capítulo 13 ordenó entera en la matriz HII-D: hombre con lesión medular completa, sonda Foley permanente y un cáncer renal metastásico en progresión, con orina turbia, piuria y urocultivo positivo tras un recambio traumático de sonda, afebril y estable, y con antecedente de colonización por enterobacteria productora de BLEE. Las cuatro capas no se repiten; esta viñeta guarda lo que cabe en una entrega de turno y una lectura del antecedente que suele hacerse al revés.
 
 *Frase medular:* «Urocultivo positivo y piuria tras recambio de sonda Foley en paciente con lesión medular y antecedente de colonización por BLEE, sin respuesta sistémica ni signos autonómicos que configuren infección activa. Se interpreta como bacteriuria asociada a catéter; se suspende el antibiótico, con vigilancia clínica estricta y criterios explícitos de reapertura.»
 
@@ -284,7 +284,7 @@ Esta viñeta reconstruye un error completo con la disciplina de los capítulos 7
 
 *Frase medular (la que faltó la primera noche):* «Disnea súbita y taquicardia persistente (112 tras ansiolisis) en mujer de 29 años con trastorno de pánico y anticonceptivos orales: crisis de pánico posible, pero la taquicardia y la saturación de 94% no están explicadas. Probabilidad clínica no alta y PERC no cumplido (frecuencia cardiaca, saturación, estrógenos): no procede el alta sin estudiar embolia pulmonar. Dímero D ahora y angioTAC si resulta elevado; si la probabilidad clínica fuera alta, angioTAC directo, sin dímero D. Reconsulta inmediata, por escrito, ante síncope, dolor torácico o disnea en reposo.»
 
-*Lectura metacognitiva.* La frase que faltó no requería más conocimiento del que cualquier médico de urgencias ya tiene: requería que el antecedente psiquiátrico no descontara el valor de dos signos medidos. Esta viñeta es el capítulo 14 en su forma más silenciosa: la injusticia testimonial no le dijo a la paciente que no le creía; simplemente dejó de preguntar. Y es también el capítulo 10: la regla PERC es un umbral explícito, y los umbrales explícitos sólo protegen a quien recuerda que hay una hipótesis que someterles. La disciplina de escritura habría bastado: separar el hecho (taquicardia persistente no explicada) de la etiqueta (pánico), conservar la incertidumbre y programar la reapertura.
+*Lectura metacognitiva.* La frase que faltó no requería más conocimiento del que cualquier médico de urgencias ya tiene: requería que el antecedente psiquiátrico no descontara el valor de dos signos medidos. Esta viñeta es el capítulo 15 en su forma más silenciosa: la injusticia testimonial no le dijo a la paciente que no le creía; simplemente dejó de preguntar. Y es también el capítulo 10: la regla PERC es un umbral explícito, y los umbrales explícitos sólo protegen a quien recuerda que hay una hipótesis que someterles. La disciplina de escritura habría bastado: separar el hecho (taquicardia persistente no explicada) de la etiqueta (pánico), conservar la incertidumbre y programar la reapertura.
 
 ### Viñeta 7. «Lo veo raro»: el testimonio de la madre
 
@@ -322,7 +322,7 @@ Una mujer de 34 años con esquizofrenia en tratamiento consulta por dolor abdomi
 
 En cada caso, la buena formulación evita dos extremos: describir sin interpretar o interpretar como si se hubiera observado directamente. El hecho guía la hipótesis; la incertidumbre modula su fuerza; la consecuencia define la decisión; la evolución conserva el derecho a corregir. Y en todas la decisión termina con la misma cláusula: qué la haría cambiar, quién lo detectará y cuándo. De la urgencia de las 3:00 al final de la vida; del lactante que no habla a la paciente a la que no se le cree.
 
-## Capítulo 16. Enseñar y organizar la metacognición clínica
+## Capítulo 17. Enseñar y organizar la metacognición clínica
 
 Una jefa de servicio que quiera «instalar metacognición» en su equipo no puede indicarla como se indica un antibiótico. Puede, en cambio, cambiar tres cosas que ve todas las semanas: qué se pregunta en la visita de sala, qué estructura tiene la ficha y qué pasa después de un error. Este capítulo trata de esas palancas.
 
@@ -342,11 +342,11 @@ El docente puede pedir al aprendiz que marque cada frase como hecho, inferencia 
 
 Este libro toma posición en una controversia real de la educación médica, y la declara. De un lado, Croskerry y su tradición sostienen que conocer los sesgos y entrenar estrategias de debiasing mejora el diagnóstico (Croskerry, 2003; Croskerry et al., 2013a, 2013b). Del otro, Norman, Monteiro y colegas han acumulado evidencia incómoda. Los errores nacen tanto del pensamiento rápido como del lento; el vínculo entre los sesgos que se inducen en experimentos y los errores reales no está establecido; enseñar a reconocer sesgos no ha reducido los errores, mientras que reorganizar el conocimiento da beneficios pequeños pero constantes; los cursos de «pensamiento crítico» generalizable transfieren poco; y obligar a reflexionar sistemáticamente sobre casos fáciles no mejora la precisión y consume tiempo (Norman et al., 2017; Monteiro & Norman, 2013; Monteiro et al., 2020).
 
-La posición es intermedia, pero no equidistante. Con los escépticos: no existe una habilidad general de «pensar bien» que flote por encima del conocimiento; la representación rica del problema —illness scripts, experiencia con feedback— es la condición de todo lo demás, y ningún método, HII-D incluido, compensa no saber medicina. Contra el escepticismo total: de esa evidencia no se sigue que la única intervención posible sea enseñar más contenido. Lo que se propone aquí no es vigilancia interna permanente ni listas universales, las versiones que la evidencia ha desinflado, sino artefactos externos y selectivos. Un lenguaje que obliga a graduar afirmaciones; una estructura de nota que conserva las capas; pausas activadas por disparadores definidos; circuitos de feedback que conviertan experiencia en calibración. Es una apuesta con compromisos observables (véase el capítulo 15): si estas herramientas no cambian conductas medibles, deben abandonarse como cualquier hipótesis mimada. Entre tanto, la controversia se enseña mejor de lo que se oculta: un residente que conoce el debate sabrá desconfiar por igual del catálogo de sesgos como solución universal y del nihilismo pedagógico como coartada.
+La posición es intermedia, pero no equidistante. Con los escépticos: no existe una habilidad general de «pensar bien» que flote por encima del conocimiento; la representación rica del problema —illness scripts, experiencia con feedback— es la condición de todo lo demás, y ningún método, HII-D incluido, compensa no saber medicina. Contra el escepticismo total: de esa evidencia no se sigue que la única intervención posible sea enseñar más contenido. Lo que se propone aquí no es vigilancia interna permanente ni listas universales, las versiones que la evidencia ha desinflado, sino artefactos externos y selectivos. Un lenguaje que obliga a graduar afirmaciones; una estructura de nota que conserva las capas; pausas activadas por disparadores definidos; circuitos de feedback que conviertan experiencia en calibración. Es una apuesta con compromisos observables (véase el capítulo 16): si estas herramientas no cambian conductas medibles, deben abandonarse como cualquier hipótesis mimada. Entre tanto, la controversia se enseña mejor de lo que se oculta: un residente que conoce el debate sabrá desconfiar por igual del catálogo de sesgos como solución universal y del nihilismo pedagógico como coartada.
 
 ### Tres palancas: la visita, la revisión de errores y la ficha
 
-Las tres palancas prometidas al inicio son, por orden de costo, la visita, la revisión de errores y la ficha. Una visita de sala puede incorporar una pausa breve en casos seleccionados, y no hace falta inventarle preguntas: las cuatro de la versión de sesenta segundos (capítulo 15) bastan, y el Apéndice C dice con qué disparadores instalarlas, en cuántas semanas y qué medir. Lo que este capítulo aporta es el porqué: la pausa en voz alta es el único momento en que el equipo entero mira la misma representación del problema, y quien dirige la visita la enseña modelándola, no interrogando.
+Las tres palancas prometidas al inicio son, por orden de costo, la visita, la revisión de errores y la ficha. Una visita de sala puede incorporar una pausa breve en casos seleccionados, y no hace falta inventarle preguntas: las cuatro de la versión de sesenta segundos (capítulo 16) bastan, y el Apéndice C dice con qué disparadores instalarlas, en cuántas semanas y qué medir. Lo que este capítulo aporta es el porqué: la pausa en voz alta es el único momento en que el equipo entero mira la misma representación del problema, y quien dirige la visita la enseña modelándola, no interrogando.
 
 La entrega de turno debe transmitir tareas epistémicas, no sólo tratamientos. «Pendiente observar si…» y «si ocurre X, reabrir Y» son componentes de seguridad.
 
@@ -379,7 +379,7 @@ Enseñar metacognición es enseñar una relación con el conocimiento: suficient
 2. ¿Qué pasó con el último paciente que derivé o di de alta con diagnóstico incierto —y cómo podría enterarme sistemáticamente—?
 3. Si mañana dirigiera mi servicio, ¿cuál de las tres palancas (visita de sala, ficha, revisión de errores) cambiaría primero, y qué costaría?
 
-## Capítulo 17. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas
+## Capítulo 18. La inteligencia artificial en el proceso clínico: roles, riesgos y defensas
 
 Un residente pega la historia de un paciente en un asistente de lenguaje y recibe, en ocho segundos, una evaluación impecablemente redactada: diagnóstico probable, diferenciales ordenados, plan sugerido. Todo suena verosímil. Este capítulo hace tres preguntas, en orden: qué puede hacer realmente esta tecnología en el proceso diagnóstico y terapéutico; qué riesgos trae —no en abstracto, sino con la evidencia ya disponible—; y cómo enfrentarlos sin renunciar a la herramienta ni al juicio. Y sostiene una tesis transversal: casi ninguno de estos riesgos es nuevo. Cada uno es un sesgo ya descrito en capítulos anteriores, ahora con amplificador.
 
@@ -459,7 +459,7 @@ El modelo puede servir como generador de alternativas, revisor de coherencia, or
 Las defensas individuales no bastan, porque varios riesgos del catálogo operan a escala de sistema. Una institución que despliega IA clínica contrae obligaciones epistémicas precisas:
 
 - **Validación local antes de usar.** El desempeño publicado —o prometido— no es el desempeño aquí; la parábola del predictor de sepsis existe porque nadie hizo esta pregunta a tiempo (Wong et al., 2021).
-- **Monitoreo continuo con umbrales de retirada.** Definir antes del despliegue qué degradación obliga a recalibrar o apagar: la falsabilidad del capítulo 15, aplicada al software.
+- **Monitoreo continuo con umbrales de retirada.** Definir antes del despliegue qué degradación obliga a recalibrar o apagar: la falsabilidad del capítulo 16, aplicada al software.
 - **Auditoría de equidad.** Desagregar el rendimiento por subgrupos y examinar los sustitutos con la pregunta de Obermeyer: ¿qué mide realmente esta variable, y para quién?
 - **Presupuesto de alertas.** Cada alarma nueva compite por la misma atención finita; una alerta de bajo valor predictivo no es inocua —es ruido que entrena a ignorar, y el equipo que aprendió a ignorar no distingue qué está ignorando—.
 - **Formación que supervise el uso, no sólo la respuesta.** En docencia, observar cómo el aprendiz usa cognitivamente la herramienta —cuándo consulta, qué acepta, qué verifica, qué habría respondido antes de mirar— y proteger espacios deliberados de práctica sin asistencia (Abdulnour et al., 2025): la competencia que nunca se construyó no se puede «recuperar».
@@ -474,7 +474,7 @@ Las defensas individuales no bastan, porque varios riesgos del catálogo operan 
 2. ¿Qué agregó el modelo que el caso no contenía?
 3. ¿Estoy usando la herramienta para ampliar hipótesis o para confirmar rápido la que ya tenía?
 
-## Capítulo 18. La palabra exacta: lo que la poesía sabe del juicio clínico
+## Capítulo 19. La palabra exacta: lo que la poesía sabe del juicio clínico
 
 Hay un momento que los tratados no describen y todo clínico conoce: tres hallazgos sueltos —una taquicardia sin fiebre, un abdomen que «no convence», una frase de la hija— se ordenan de golpe bajo una sola explicación, y algo hace clic. El placer de ese instante no es administrativo. Es físico, breve y sospechosamente parecido al de un verso que cae en su lugar. Este capítulo toma ese parecido en serio: no como adorno humanista, sino como información sobre cómo funciona —y cómo falla— el juicio.
 
@@ -482,7 +482,7 @@ Hay un momento que los tratados no describen y todo clínico conoce: tres hallaz
 
 El poeta trabaja buscando conexiones: entre palabras, entre una palabra y un sentido que todavía no tiene nombre, entre el sonido y aquello que el sonido vuelve visible. Su estado mental característico combina atención flotante, oído para lo que no encaja y una disposición rara: dejar que el material mande sobre el plan. El clínico que razona bien trabaja igual, con otros materiales: entre el hallazgo y el mecanismo, entre el mecanismo y la intervención que estabiliza, busca la conexión que convierta fragmentos en un caso inteligible.
 
-El parentesco es lógico antes que sentimental. Una metáfora es la hipótesis de que dos cosas lejanas comparten estructura; un diagnóstico es una metáfora que acepta ser puesta a prueba —«este cuadro es una colecistitis» apuesta a que lo que ocurre en este cuerpo comparte estructura con un patrón aprendido—. Ambos movimientos son la abducción del capítulo 2, y ambos requieren el estado que el capítulo 14 llamó humildad en funciones: sostener la conjetura con fuerza suficiente para trabajarla y soltura suficiente para dejarla caer. Bohm lo dijo desde la física: el acto creativo central —percibir un orden nuevo en lo que ya estaba a la vista— es el mismo en el arte y en la ciencia; cambian los materiales y el tribunal (Bohm, 1996).
+El parentesco es lógico antes que sentimental. Una metáfora es la hipótesis de que dos cosas lejanas comparten estructura; un diagnóstico es una metáfora que acepta ser puesta a prueba —«este cuadro es una colecistitis» apuesta a que lo que ocurre en este cuerpo comparte estructura con un patrón aprendido—. Ambos movimientos son la abducción del capítulo 2, y ambos requieren el estado que el capítulo 15 llamó humildad en funciones: sostener la conjetura con fuerza suficiente para trabajarla y soltura suficiente para dejarla caer. Bohm lo dijo desde la física: el acto creativo central —percibir un orden nuevo en lo que ya estaba a la vista— es el mismo en el arte y en la ciencia; cambian los materiales y el tribunal (Bohm, 1996).
 
 ### Huidobro, o la palabra que crea
 
