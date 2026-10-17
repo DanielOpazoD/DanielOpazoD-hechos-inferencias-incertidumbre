@@ -6,10 +6,10 @@ cambie el estado o se tome una decisión.
 
 ## Qué hay
 
-- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 188 páginas (184 de cuerpo), en Gelasio, DOCX y EPUB
-  (47 capítulos). 15 figuras, 220 referencias, 20 capítulos, 20 talleres reunidos en el Apéndice D, TOC de 43
-  entradas; 69.856 palabras en las fuentes (64.750 sin las referencias). Cifras de la construcción y de las fuentes del
-  17 de octubre, tras el punto 52.
+- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 187 páginas (183 de cuerpo), en Gelasio, DOCX y EPUB
+  (47 capítulos). 15 figuras, 230 referencias, 20 capítulos, 20 talleres reunidos en el Apéndice D, TOC de 43
+  entradas; 69.911 palabras en las fuentes (64.538 sin las referencias). Cifras de la construcción y de las fuentes del
+  17 de octubre, tras el punto 53.
 - **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
   cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
   archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
@@ -29,9 +29,9 @@ cambie el estado o se tome una decisión.
 - **Lector de anotaciones**: el repo `DanielOpazoD/lector-anotaciones` está en la 0.6.1 (`main` en 1df5ff8), con la CI
   verde, 151 pruebas de navegador y cobertura de 97 % en Python, 71 % en el núcleo y 92,9 % en la página. Los 52
   mutantes de `herramientas/mutar.py` hacen lo que esperan. `lector/index.html` es su `web/index.html` del commit
-  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (45 secciones, 1220 bloques) está al día con las fuentes
-  y marca como cambiados los 28 bloques que tocó el punto 52 (reconstruirlo reinicia esas marcas).
-- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 34 (con el `libro.json` del punto 52). Su base tiene una sola anotación
+  7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (45 secciones, 1230 bloques) está al día con las fuentes
+  y marca como cambiados los 23 bloques que tocó el punto 53 (reconstruirlo reinicia esas marcas).
+- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 35 (con el `libro.json` del punto 53). Su base tiene una sola anotación
   (Prefacio), resuelta y respondida: no hay anotaciones del autor esperando.
 
 ## Pendiente del autor
@@ -66,6 +66,9 @@ cambie el estado o se tome una decisión.
   su licencia OFL. Se descartaron, tras verlas con el texto del libro, DejaVu Serif, Literata, Source Serif 4, Crimson
   Pro y EB Garamond.
 - No hay techo de páginas (punto 37); las citas parentéticas no pasan a narrativa (punto 40).
+- Largo de los capítulos (decisión del autor, 17 de octubre; punto 53): la brevedad es deliberada y no se alargan en
+  bloque. Se corrigen los extremos: el 16 se recortó a ~3.500 palabras, el 3 (incertidumbre) se amplió a ~1.800 y el 7
+  ganó la sección de Reason. Mediana de los capítulos, unas 1.800 palabras.
 - Los talleres no van al final de cada capítulo: están reunidos en el Apéndice D, nombrados por su capítulo, con
   «Una versión posible» o «Comentario» y sin tono de examen (punto 45). Una versión sólo en línea, como programa, queda
   para cuando exista; ese apéndice sería su fuente.
