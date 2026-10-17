@@ -511,6 +511,8 @@ Los términos marcados con ∗ son propuestas de este libro; los demás se toman
 
 **Ética de la creencia (ethics of belief).** Tesis de Clifford (1877) según la cual creer sin evidencia suficiente es en sí mismo reprochable, con independencia del desenlace; en clínica, fundamento del deber de pensar bien como parte de la ética primordial del médico y de la regla de que un buen desenlace no valida un proceso defectuoso.
 
+**Fallas activas y condiciones latentes (active failures / latent conditions).** En el modelo de Reason, los actos inseguros de quien está en contacto directo con el paciente y las condiciones de diseño, gestión u organización que esperan en el sistema hasta combinarse con ellos; el error ocurre cuando los agujeros de varias defensas se alinean.
+
 **Ficha de proceso∗.** Registro que, además de conclusiones y acciones (ficha de resultados), conjuga los verbos del razonamiento: sospechado, dudado, descartado, priorizado, inferido, realizado, repetido, comprobado, aprendido. Cada verbo cae en una capa de HII-D; «Neumonía. Ceftriaxona» no conjuga ninguno.
 
 **Fragilidad (frailty).** Estado de vulnerabilidad fisiológica multisistémica que predice desenlaces con independencia de la edad y del diagnóstico de ingreso; evaluable clínicamente en minutos (Rockwood et al.). En la decisión terapéutica es un hecho, no una impresión.
@@ -648,7 +650,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Ecografía tiroidea con examen normal — 11
 - Empíricos y racionalistas (Galeno) — 16
 - Ensombrecimiento diagnóstico — CC (viñeta 8)
-- Error diagnóstico: magnitud medida y estimada — 7
+- Error diagnóstico: magnitud medida y estimada, hospitalaria y ambulatoria — 7
 - Errores asimétricos — 10, CC (viñeta 3)
 - Errores típicos en los talleres — Ap D
 - Escribas ambientales (regla «la capa H, verificada; la capa D, no») — 19
@@ -658,6 +660,7 @@ Los números remiten a capítulos (Int = introducción, Interludios I–III, CC 
 - Evidencia poblacional y particularización — 9; la objeción de Bernard a los promedios — 16
 - Exámenes para tranquilizar — 11
 - Experimento natural de las dos clínicas de Viena (Semmelweis) — 16
+- Fallas activas y condiciones latentes (Reason; el queso suizo) — 7
 - Falsabilidad del método HII-D — 17
 - Feedback diagnóstico — 5, 18, Ap C
 - Ficha como dispositivo que produce lo visible (Foucault) — 13
@@ -1125,6 +1128,8 @@ Qazi, I. A., Ali, A., Khawaja, A. U., Akhtar, M. J., Sheikh, A. Z., & Alizai, M.
 
 Rajkomar, A., & Blandford, A. (2012). Understanding infusion administration in the ICU through distributed cognition. *Journal of Biomedical Informatics, 45*(3), 580–590.
 
+Reason, J. (2000). Human error: Models and management. *BMJ, 320*(7237), 768–770.
+
 Riquelme, A., Méndez, B., de la Fuente, P., Padilla, O., Benaglio, C., Sirhan, M., et al. (2011). Desarrollo y validación de encuesta de percepción del portafolio en estudiantes de medicina de pregrado. *Revista Médica de Chile, 139*(1), 45–53.
 
 Rockwood, K., Song, X., MacKnight, C., Bergman, H., Hogan, D. B., McDowell, I., et al. (2005). A global clinical measure of fitness and frailty in elderly people. *CMAJ, 173*(5), 489–495.
@@ -1166,6 +1171,8 @@ Shinagare, A. B., Alper, D. P., Hashemi, S. R., Chai, J. L., Hammer, M. M., Bola
 Simpkin, A. L., & Schwartzstein, R. M. (2016). Tolerating uncertainty — The next medical revolution? *New England Journal of Medicine, 375*, 1713–1715.
 
 Singer, P. N. (2024). Galen. En E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2024 ed.).
+
+Singh, H., Meyer, A. N. D., & Thomas, E. J. (2014). The frequency of diagnostic errors in outpatient care: Estimations from three large observational studies involving US adult populations. *BMJ Quality & Safety, 23*(9), 727–731.
 
 Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., et al. (2023). Large language models encode clinical knowledge. *Nature, 620*, 172–180.
 
