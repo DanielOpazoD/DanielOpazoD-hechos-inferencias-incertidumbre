@@ -6,10 +6,10 @@ cambie el estado o se tome una decisión.
 
 ## Qué hay
 
-- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 171 páginas (167 de cuerpo), DOCX y EPUB
+- **El libro**: fuentes en `fuentes/0*.md`; entregables en la raíz: PDF de 167 páginas (163 de cuerpo), en Gelasio, DOCX y EPUB
   (45 capítulos). 15 figuras, 179 referencias, 18 capítulos, 18 talleres reunidos en el Apéndice D, TOC de 41
   entradas; 60.358 palabras en las fuentes (56.230 sin las referencias). Cifras de la construcción y de las fuentes del
-  17 de octubre, tras el punto 49.
+  17 de octubre, tras el punto 50.
 - **Dónde vive**: este repo, `DanielOpazoD/DanielOpazoD-hechos-inferencias-incertidumbre` (privado), desde el 16 de octubre de 2026. Su primer commit importa tal
   cual `libro/` de la rama `claude/medical-thinking-book-review-nlnth9` de `DanielOpazoD/trama` en 4926b92; esa rama queda como
   archivo (PR #465 cerrado sin fusionar; el `main` de Trama nunca tuvo el libro) y los hashes del registro del README
@@ -20,7 +20,7 @@ cambie el estado o se tome una decisión.
 - **Construcción**: `./construir.sh` reproduce los entregables versionados (mismo texto del PDF, `toc.json` idéntico,
   el EPUB con los mismos archivos), con el TOC estable entre pasadas. `fuentes/comprobar.py` da 0 problemas y
   `fuentes/cotejo_figuras.py`, cero derivas. La CI (`.github/workflows/libro.yml`) construye y comprueba en cada push
-  y guarda el PDF construido; su primera corrida dio verde con las mismas 171 páginas.
+  y guarda el PDF construido.
 - **Edición**: las recomendaciones A–G (`gestiones/recomendaciones_finales_2026-10-14.md`) están ejecutadas, y también
   las pasadas de coherencia (registro en `README.md`, puntos 25–42), las correcciones de la evaluación del panel
   (punto 43; auditoría de evidencia, ítems 58–64), el nuevo ingreso de Carmen (punto 44), los talleres en un apéndice
@@ -30,8 +30,8 @@ cambie el estado o se tome una decisión.
   verde, 151 pruebas de navegador y cobertura de 97 % en Python, 71 % en el núcleo y 92,9 % en la página. Los 52
   mutantes de `herramientas/mutar.py` hacen lo que esperan. `lector/index.html` es su `web/index.html` del commit
   7b079b7 (fijado en `requirements.txt`). `lector/libro.json` (43 secciones, 1081 bloques) está al día con las fuentes
-  y marca como cambiados los 107 bloques que tocaron los puntos 46–49 (las rayas tocaron muchos).
-- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 31 (con el `libro.json` de los puntos 46–49). Su base tiene una sola anotación
+  y marca como cambiado el único bloque que tocó el punto 50 (reconstruirlo reinicia esas marcas).
+- **Página publicada**: https://claude.ai/artifact/RgYKd217CYUELt9Ur56Jgv, versión 32 (con el `libro.json` del punto 50). Su base tiene una sola anotación
   (Prefacio), resuelta y respondida: no hay anotaciones del autor esperando.
 
 ## Pendiente del autor
@@ -41,8 +41,6 @@ cambie el estado o se tome una decisión.
   tomadas: el ingreso de Carmen y las escenas como composiciones (punto 44), la capacidad de decidir en la viñeta 5 y la
   saturación del taller del cap. 2 (punto 46). De lo que más subiría la nota sólo queda el piloto de HII-D, que el
   autor decidió no hacer por ahora (ver «Decisiones tomadas»).
-- Fuente del libro: el DOCX pide Georgia, que estos contenedores y la CI no tienen; LibreOffice la reemplaza por
-  DejaVu Serif. Antes de imprimir, decidir una fuente libre (o instalar la que se elija) y volver a medir la paginación.
 - Revisión externa, permisos, ortotipografía, prueba del EPUB en Kindle Previewer y la carta de
   prólogo, que está como borrador en el Gmail del autor (`gestiones/prologo_*`).
 - Decisiones de entorno abiertas: etiquetas de versión en `lector-anotaciones` (hoy se fija por commit) y borrar sus ramas
@@ -57,6 +55,9 @@ cambie el estado o se tome una decisión.
   declara pendiente y presenta el método como heurística no validada (nota metodológica, cap. 15), así que el texto no
   promete más de lo que hay. El protocolo queda en `gestiones/piloto_hiid_protocolo.md` por si se retoma; sin piloto,
   el panel estimaba el bloque científico en ~5,8 como techo. No proponer el piloto en cada sesión.
+- La fuente del libro es Gelasio (decisión del autor, 17 de octubre; punto 50), versionada en `fuentes/tipografia/` con
+  su licencia OFL. Se descartaron, tras verlas con el texto del libro, DejaVu Serif, Literata, Source Serif 4, Crimson
+  Pro y EB Garamond.
 - No hay techo de páginas (punto 37); las citas parentéticas no pasan a narrativa (punto 40).
 - Los talleres no van al final de cada capítulo: están reunidos en el Apéndice D, nombrados por su capítulo, con
   «Una versión posible» o «Comentario» y sin tono de examen (punto 45). Una versión sólo en línea, como programa, queda

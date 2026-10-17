@@ -40,7 +40,7 @@ texto = re.sub(r"(?m)^(\*\*En una frase\.\*\*.*)$",
                r"::: enuna\n\1\n:::", texto)
 
 CSS = """
-body { font-family: Georgia, "Liberation Serif", serif; line-height: 1.5; }
+body { font-family: Gelasio, Georgia, "Liberation Serif", serif; line-height: 1.5; }
 h1 { font-size: 1.7em; margin-top: 1.2em; }
 h2 { font-size: 1.35em; }
 h3 { font-size: 1.12em; }

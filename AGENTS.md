@@ -68,8 +68,10 @@ Un cambio en el libro está listo cuando:
 - `npm install` (fija `docx` 9.7.1 y `jszip` 3.10.2 para `fuentes/build_docx.cjs`) y `pip install -r requirements.txt` (matplotlib y el
   paquete del lector, fijados).
 - LibreOffice (`soffice`), poppler (`pdftotext`, `pdfinfo`), pandoc y los patrones de partición en español (paquete
-  `hyphen-es`; sin ellos LibreOffice no parte palabras y la paginación cambia). Georgia no está en estos contenedores:
-  LibreOffice la reemplaza por DejaVu Serif, y con esa fuente se mide todo. Probado con node 22, Python 3.11, LibreOffice
+  `hyphen-es`; sin ellos LibreOffice no parte palabras y la paginación cambia). La fuente del libro es Gelasio
+  (licencia OFL, mismas medidas que Georgia), versionada en `fuentes/tipografia/`: `construir.sh` se la muestra a
+  LibreOffice sin instalarla, y `comprobar.py` falla si el PDF lleva otra (señal de un carácter que Gelasio no tiene;
+  por eso la marca del glosario «∗» se imprime como «*»). Probado con node 22, Python 3.11, LibreOffice
   24.2, pandoc 3.1 y poppler 24.02.
 - `./construir.sh` tarda unos 15 segundos; `./construir.sh --figuras` regenera además `figs/*.png`.
 

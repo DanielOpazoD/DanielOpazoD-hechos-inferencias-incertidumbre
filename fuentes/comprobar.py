@@ -9,6 +9,7 @@
   con la raya espaciada inglesa « — »; quedan fuera las citas entre «», los bloques citados, el índice analítico, las
   referencias, la lista de figuras y las etiquetas «**H — Hechos**».
 - Idioma: el DOCX declara es-CL y la partición automática; el PDF, /Lang(es-CL).
+- Fuente: el PDF lleva sólo Gelasio (fuentes/tipografia/); cualquier otra delata un carácter que Gelasio no tiene.
 - PDF (si existe y hay pdftotext): cero comillas rectas en el texto maquetado y ningún título ni etiqueta
   («Una versión posible.», «Tres preguntas…») como última línea de una página.
 
@@ -132,6 +133,15 @@ def idioma():
     return problemas
 
 
+def fuente():
+    if not os.path.exists(PDF) or not shutil.which("pdffonts"):
+        return []
+    filas = subprocess.run(["pdffonts", PDF], capture_output=True, text=True, check=True).stdout.split("\n")[2:]
+    otras = sorted({f.split()[0].split("+")[-1] for f in filas if f.strip()} - {""})
+    otras = [f for f in otras if not f.startswith("Gelasio")]
+    return [f"el PDF usa fuentes distintas de Gelasio: {', '.join(otras)}"] if otras else []
+
+
 def titulos(cuerpo):
     """Títulos de sección, de taller y etiquetas sueltas, tal como salen en el PDF."""
     t = set(re.findall(r"^#{3,4} (.+)$", cuerpo, re.M))
@@ -166,6 +176,7 @@ def main():
     problemas += p
     problemas += rayas()
     problemas += idioma()
+    problemas += fuente()
     p, rectas = pdf(cuerpo)
     problemas += p
     for x in problemas:

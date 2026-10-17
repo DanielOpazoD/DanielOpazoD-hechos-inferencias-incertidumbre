@@ -101,7 +101,7 @@ Una o dos frases que expresen la naturaleza del evento, la inferencia con su gra
 | **Sin evidencia actual de** | El método empleado no mostró el fenómeno en ese momento | «Sin evidencia actual de isquemia en TAC» | «Sin evidencia de isquemia» citado días después como «isquemia descartada» |
 | **No evaluable** | Las condiciones no permiten determinar presencia o ausencia | «Síntomas urinarios no evaluables por lesión medular» | Registrar «niega disuria» en paciente que no puede percibirla |
 | **Menos probable** | Existe evidencia contraria o una explicación superior, sin exclusión | «TEP menos probable tras Doppler y dímero D; no excluido» | Omitir qué evidencia lo degradó (queda como opinión) |
-| **Se descarta** | El método y el contexto realmente permiten excluir | «Se descarta embarazo (β-hCG negativa)» | «Se descarta abdomen agudo» tras un examen único en evolución temprana |
+| **Se descarta** | El método y el contexto realmente permiten excluir | «Se descarta embarazo (beta-hCG negativa)» | «Se descarta abdomen agudo» tras un examen único en evolución temprana |
 | **Probabilidad suficientemente baja para no tratar/testear** | Decisión por umbral, no exclusión ontológica | «Probabilidad de SCA suficientemente baja para alta con control en 72 h» | Presentarla al paciente como «usted no tiene nada» |
 
 ### Doce preguntas para una pausa diagnóstica

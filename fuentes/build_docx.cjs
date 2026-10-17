@@ -17,7 +17,7 @@ const LIBRO = path.resolve(DIR, "..");
 const FIGS = fs.existsSync(path.join(LIBRO, "figs")) ? path.join(LIBRO, "figs") : path.join(DIR, "figs");
 const OUT_DIR = process.env.LIBRO_OUT ? path.resolve(process.env.LIBRO_OUT) : LIBRO;
 const INK = "2B2B2B", ACENTO = "8C2F2F", ACENTO2 = "3D5A6C", GRIS = "8A8A8A", CLARO = "F2F0EC";
-const SERIF = "Georgia";
+const SERIF = "Gelasio";  // OFL, en fuentes/tipografia/; mismas medidas que Georgia
 
 const tocArg = process.argv.indexOf("--toc");
 const tocMap = tocArg > -1 ? JSON.parse(fs.readFileSync(process.argv[tocArg + 1], "utf8")) : null;
@@ -88,17 +88,18 @@ function parse(md) {
 // ---------------------------------------------------------------- inline runs
 function runs(text, base = {}) {
   const out = [];
+  const lit = s => s.replace(/∗/g, "*");  // la marca del glosario: Gelasio no tiene U+2217
   // split por **bold** y *italic*
   const re = /(\*\*[^*]+\*\*|\*[^*]+\*)/g;
   let last = 0, m;
   while ((m = re.exec(text)) !== null) {
-    if (m.index > last) out.push(new TextRun({ text: text.slice(last, m.index), ...base }));
+    if (m.index > last) out.push(new TextRun({ text: lit(text.slice(last, m.index)), ...base }));
     const tok = m[0];
-    if (tok.startsWith("**")) out.push(new TextRun({ text: tok.slice(2, -2), bold: true, ...base }));
-    else out.push(new TextRun({ text: tok.slice(1, -1), italics: true, ...base }));
+    if (tok.startsWith("**")) out.push(new TextRun({ text: lit(tok.slice(2, -2)), bold: true, ...base }));
+    else out.push(new TextRun({ text: lit(tok.slice(1, -1)), italics: true, ...base }));
     last = m.index + tok.length;
   }
-  if (last < text.length) out.push(new TextRun({ text: text.slice(last), ...base }));
+  if (last < text.length) out.push(new TextRun({ text: lit(text.slice(last)), ...base }));
   return out.length ? out : [new TextRun({ text: "", ...base })];
 }
 

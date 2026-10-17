@@ -25,7 +25,7 @@ jobs:
       - name: LibreOffice, poppler, pandoc y partición en español
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libreoffice-writer poppler-utils pandoc hyphen-es fonts-dejavu-core
+          sudo apt-get install -y --no-install-recommends libreoffice-writer poppler-utils pandoc hyphen-es
       - run: npm ci
       - name: Construir y comprobar
         run: ./construir.sh

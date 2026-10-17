@@ -6,7 +6,7 @@
 #
 # Uso: ./construir.sh [--figuras]     --figuras regenera figs/*.png con matplotlib antes de construir
 # Requiere (ver AGENTS.md): node 22 con `npm install` hecho aquí (docx), python3 con matplotlib (requirements.txt),
-# LibreOffice (soffice), poppler (pdftotext, pdfinfo) y pandoc.
+# LibreOffice (soffice), poppler (pdftotext, pdfinfo, pdffonts), pandoc y hyphen-es. La fuente va en fuentes/tipografia/.
 # El libro.json del lector se reconstruye aparte: python3 lector/construir_lector.py (resetea las marcas de «qué cambió»).
 set -euo pipefail
 
@@ -19,6 +19,18 @@ PDF="$SALIDA/Hechos_inferencias_incertidumbre_edicion_revisada.pdf"
 EPUB="$SALIDA/Hechos_inferencias_incertidumbre.epub"
 TMP="$(mktemp -d)"
 trap 'rm -rf "$TMP"' EXIT
+
+# La fuente del libro (Gelasio, OFL) viaja en fuentes/tipografia/: LibreOffice la toma de ahí sin instalarla.
+cat > "$TMP/fonts.conf" <<FC
+<?xml version="1.0"?>
+<!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+<fontconfig>
+  <include ignore_missing="yes">/etc/fonts/fonts.conf</include>
+  <dir>$RAIZ/fuentes/tipografia</dir>
+  <cachedir>$TMP/fc-cache</cachedir>
+</fontconfig>
+FC
+export FONTCONFIG_FILE="$TMP/fonts.conf"
 
 a_pdf() {
   rm -f "$PDF"
